@@ -1,0 +1,2929 @@
+# Example Trees
+
+## Trees with 2 Levels
+
+### Buildings - 2 Levels
+Buildings
+- Residential Buildings
+  - Single-Family House
+  - Duplex
+  - Apartment Building
+- Utility Buildings
+  - Warehouse
+  - Workshop
+  - Office Building
+- Transport Structures
+  - Bridge
+  - Tunnel
+  - Railway Station
+- Towers and Tall Structures
+  - Observation Tower
+  - Water Tower
+  - Lighthouse
+- Fortifications
+  - City Wall
+  - Gate Complex
+  - Fortress
+- Special Structures
+  - Dome Structure
+  - Pavilion
+  - Amphitheater
+
+### Celestial Bodies - 2 Levels
+Celestial Bodies
+- Stars
+  - Dwarf Star
+  - Main-Sequence Star
+  - Giant Star
+  - Neutron Star
+- Planetary Bodies
+  - Rocky Planet
+  - Gas Planet
+  - Ice Planet
+  - Dwarf Planet
+- Moons
+  - Rocky Moon
+  - Ice Moon
+- Small Bodies
+  - Asteroid
+  - Comet
+  - Meteoroid
+  - Meteorite
+- Systems and Large Structures
+  - Planetary System
+  - Star Cluster
+  - Nebula
+  - Galaxy
+
+### Geometric Shapes and Solids - 2 Levels
+Geometric Shapes and Solids
+- Two-Dimensional Shapes
+  - Circle
+  - Ellipse
+  - Triangle
+  - Square
+  - Rectangle
+  - Pentagon
+  - Hexagon
+- Lines and Open Forms
+  - Line
+  - Curve
+  - Angle
+- Three-Dimensional Solids
+  - Sphere
+  - Cube
+  - Cuboid
+  - Cylinder
+  - Cone
+  - Pyramid
+  - Torus
+- Composite Forms
+  - Star Shape
+  - Ring Shape
+  - Spiral Shape
+
+### Mythical Creatures - 2 Levels
+Mythical Creatures
+- Nocturnal Beings
+  - Vampire
+  - Werewolf
+  - Ghost
+  - Shadow Creature
+- Dragon-Like Beings
+  - Dragon
+  - Lindworm
+  - Hydra
+- Forest and Nature Beings
+  - Elf
+  - Dryad
+  - Tree Being
+  - Forest Spirit
+- Hybrid Creatures
+  - Centaur
+  - Minotaur
+  - Griffin
+  - Sphinx
+- Small Magical Beings
+  - Fairy
+  - Goblin
+  - Gnome
+  - Pixie
+- Water Beings
+  - Mermaid
+  - Merman
+  - Nixie
+
+### Plant Forms - 2 Levels
+Plant Forms
+- Trees
+  - Deciduous Tree
+  - Conifer
+  - Fruit Tree
+- Shrubs
+  - Flowering Shrub
+  - Berry Shrub
+  - Evergreen Shrub
+- Herbaceous Plants
+  - Wild Herb
+  - Ornamental Plant
+  - Perennial
+- Ground Covers and Low Plants
+  - Moss
+  - Fern
+  - Ground Cover
+- Climbing Plants
+  - Vine
+  - Twining Plant
+- Aquatic and Marsh Plants
+  - Water Lily
+  - Reed
+  - Floating Plant
+
+### Tools - 2 Levels
+Tools
+- Striking Tools
+  - Hammer
+  - Rubber Mallet
+  - Wooden Mallet
+- Gripping and Holding Tools
+  - Pliers
+  - Pipe Wrench
+  - Clamp
+- Screw Tools
+  - Screwdriver
+  - Hex Key
+  - Wrench
+- Cutting Tools
+  - Knife
+  - Scissors
+  - Saw
+- Measuring Tools
+  - Ruler
+  - Caliper
+  - Spirit Level
+- Drilling and Turning Tools
+  - Hand Drill
+  - Power Drill
+  - Brace Drill
+
+### Weather and Natural Phenomena - 2 Levels
+Weather and Natural Phenomena
+- Precipitation
+  - Rain
+  - Drizzle
+  - Snow
+  - Graupel
+  - Hail
+- Wind and Air Movement
+  - Breeze
+  - Gust
+  - Storm
+  - Hurricane
+- Visibility and Atmospheric Phenomena
+  - Fog
+  - Haze
+  - Rainbow
+  - Halo
+- Thunderstorm Phenomena
+  - Lightning
+  - Thunder
+  - Storm Cell
+- Geological Natural Phenomena
+  - Earthquake
+  - Volcanic Eruption
+  - Geyser
+  - Landslide
+## Trees with 3 Levels
+
+### Cables and Signal Types - 3 Levels
+
+Cables and Signal Types
+- Power Cables
+  - AC Power Cable
+  - DC Power Cable
+  - Internal Power Cable
+  - Extension Power Cable
+- Data Cables
+  - USB Cable
+  - Ethernet Cable
+  - Serial Data Cable
+  - Parallel Data Cable
+- Video Cables
+  - VGA Cable
+  - DVI Cable
+  - HDMI Cable
+  - DisplayPort Cable
+- Audio Cables
+  - 3.5 mm Audio Cable
+  - RCA Audio Cable
+  - Optical Audio Cable
+  - Speaker Cable
+- Storage and Internal Cables
+  - SATA Cable
+  - Ribbon Cable
+  - Front Panel Cable
+  - Fan Cable
+- Fiber and Specialty Cables
+  - Fiber Optic Cable
+  - Coaxial Cable
+  - Adapter Cable
+  - Breakout Cable
+
+
+### Computer Ports and Connectors - 3 Levels
+
+Computer Ports and Connectors
+- Data Connectors
+  - USB Type-A
+  - USB Type-C
+  - Micro-USB
+  - Mini-USB
+  - FireWire
+- Video Connectors
+  - VGA
+  - DVI
+  - HDMI
+  - DisplayPort
+  - Mini DisplayPort
+- Network Connectors
+  - Ethernet Port
+  - Modular Connector
+  - Fiber Connector
+  - Coaxial Connector
+- Storage Connectors
+  - SATA Connector
+  - eSATA Connector
+  - M.2 Slot
+  - U.2 Connector
+- Audio Connectors
+  - 3.5 mm Audio Jack
+  - 6.35 mm Audio Jack
+  - Optical Audio Port
+  - RCA Audio Connector
+- Legacy and Peripheral Connectors
+  - PS/2 Port
+  - Serial Port
+  - Parallel Port
+  - Game Port
+
+### Computer Types - 3 Levels
+
+Computer Types
+- Personal Computers
+  - Desktop Computer
+  - Tower PC
+  - Small Form Factor PC
+  - All-in-One Computer
+- Portable Computers
+  - Notebook
+  - Laptop
+  - Ultrabook
+  - Convertible Laptop
+  - Detachable Computer
+- Handheld Computing Devices
+  - Tablet
+  - Compact Tablet
+  - Smartphone
+  - Foldable Smartphone
+- Professional Systems
+  - Workstation
+  - Graphics Workstation
+  - CAD Workstation
+  - Scientific Workstation
+- Shared and Central Systems
+  - Server
+  - Rack Server
+  - Blade Server
+  - Mainframe
+  - Supercomputer
+- Embedded and Specialized Systems
+  - Industrial PC
+  - Panel PC
+  - Single-Board Computer
+  - Kiosk Computer
+  - Point-of-Sale Terminal
+
+### Geometric Shapes and Solids - 3 Levels
+
+Geometric Shapes and Solids
+- Two-Dimensional Shapes
+  - Circle
+  - Ellipse
+  - Triangle
+  - Square
+  - Rectangle
+  - Pentagon
+  - Hexagon
+- Lines and Open Forms
+  - Line
+  - Curve
+  - Angle
+  - Arc
+  - Spiral
+- Three-Dimensional Solids
+  - Sphere
+  - Cube
+  - Cuboid
+  - Cylinder
+  - Cone
+  - Pyramid
+  - Torus
+- Composite and Derived Forms
+  - Star Shape
+  - Ring Shape
+  - Cross Shape
+  - Wave Form
+
+### Rocks and Minerals - 3 Levels
+Rocks and Minerals
+- Rocks
+  - Igneous Rocks
+    - Granite
+    - Basalt
+    - Obsidian
+  - Sedimentary Rocks
+    - Sandstone
+    - Limestone
+    - Conglomerate
+  - Metamorphic Rocks
+    - Marble
+    - Slate
+    - Gneiss
+- Minerals
+  - Silicates
+    - Quartz
+    - Feldspar
+    - Mica
+  - Carbonates
+    - Calcite
+    - Dolomite
+  - Oxides
+    - Magnetite
+    - Hematite
+  - Sulfates
+    - Gypsum
+
+### Vehicle Types - 3 Levels
+Vehicle Types
+- Road Vehicles
+  - Passenger Cars
+    - City Car
+    - Compact Car
+    - Mid-Size Car
+    - Sedan
+    - Station Wagon
+    - Coupe
+    - Convertible
+    - SUV
+    - Van
+  - Commercial Vehicles
+    - Delivery Van
+    - Light Truck
+    - Truck
+    - Semi-Truck
+    - Dump Truck
+    - Tanker Truck
+  - Two-Wheeled Vehicles
+    - Bicycle
+    - Scooter
+    - Motorcycle
+- Rail Vehicles
+  - Urban Rail
+    - Tram
+    - Subway Train
+  - Mainline Rail
+    - Passenger Train
+    - Freight Train
+
+## Trees with 4 Levels
+
+### Buildings - 4 Levels
+Buildings
+- Residential Buildings
+  - Single-Unit Housing
+    - Detached Houses
+      - Cottage
+      - Bungalow
+      - Villa
+    - Attached Houses
+      - Townhouse
+      - Row House
+  - Multi-Unit Housing
+    - Low-Rise Residential
+      - Duplex
+      - Triplex
+      - Courtyard House
+    - Mid-Rise Residential
+      - Apartment Block
+      - Corner Apartment Building
+- Utility Buildings
+  - Industrial Buildings
+    - Production Facilities
+      - Factory Hall
+      - Assembly Building
+    - Storage Facilities
+      - Warehouse
+      - Distribution Hall
+  - Service Buildings
+    - Administrative Buildings
+      - Office Building
+      - Municipal Building
+    - Maintenance Buildings
+      - Workshop
+      - Service Garage
+- Transport Structures
+  - Bridge Structures
+    - Fixed Bridges
+      - Beam Bridge
+      - Arch Bridge
+    - Movable Bridges
+      - Drawbridge
+      - Swing Bridge
+  - Tunnel Structures
+    - Land Tunnels
+      - Road Tunnel
+      - Rail Tunnel
+    - Waterway Tunnels
+      - Canal Tunnel
+      - Subaqueous Tunnel
+- Towers and Vertical Structures
+  - Observation Structures
+    - Public Towers
+      - Observation Tower
+      - Viewing Platform Tower
+    - Landmark Towers
+      - Clock Tower
+      - Bell Tower
+  - Utility Towers
+    - Water Supply Towers
+      - Water Tower
+      - Elevated Tank Tower
+    - Coastal Towers
+      - Lighthouse
+      - Beacon Tower
+- Fortified Structures
+  - Defensive Walls
+    - Urban Walls
+      - City Wall
+      - Perimeter Wall
+    - Gate Defenses
+      - Gate Complex
+      - Gate Tower
+  - Strongholds
+    - Enclosed Fortifications
+      - Fortress
+      - Citadel
+    - Elevated Fortifications
+      - Hill Fort
+      - Watch Fort
+
+### Chemical Elements - 4 Levels
+Chemical Elements
+- Metals
+  - Alkali Metals
+    - Light Alkali Metals
+      - Lithium
+      - Sodium
+      - Potassium
+    - Heavy Alkali Metals
+      - Rubidium
+      - Cesium
+      - Francium
+  - Alkaline Earth Metals
+    - Lighter Alkaline Earth Metals
+      - Beryllium
+      - Magnesium
+      - Calcium
+    - Heavier Alkaline Earth Metals
+      - Strontium
+      - Barium
+      - Radium
+  - Transition Metals
+    - Early Transition Metals
+      - Scandium
+      - Titanium
+      - Vanadium
+      - Chromium
+    - Iron Group Metals
+      - Manganese
+      - Iron
+      - Cobalt
+      - Nickel
+    - Coinage and Dense Transition Metals
+      - Copper
+      - Silver
+      - Gold
+      - Zinc
+      - Palladium
+      - Platinum
+      - Tungsten
+      - Mercury
+  - Post-Transition Metals
+    - Light Post-Transition Metals
+      - Aluminum
+      - Gallium
+      - Indium
+      - Tin
+    - Heavy Post-Transition Metals
+      - Thallium
+      - Lead
+      - Bismuth
+- Metalloids
+  - Common Metalloids
+    - Core Metalloids
+      - Boron
+      - Silicon
+      - Germanium
+    - Heavy Metalloids
+      - Arsenic
+      - Antimony
+      - Tellurium
+  - Borderline Classifications
+    - Frequently Included Borderline Elements
+      - Polonium
+      - Astatine
+- Nonmetals
+  - Reactive Nonmetals
+    - Hydrogen
+      - Single Reactive Nonmetal
+        - Hydrogen
+    - Carbon Group Nonmetals
+      - Structural Nonmetals
+        - Carbon
+    - Nitrogen Group Nonmetals
+      - Atmospheric Nonmetals
+        - Nitrogen
+        - Phosphorus
+    - Oxygen Group Nonmetals
+      - Life-Related Nonmetals
+        - Oxygen
+        - Sulfur
+        - Selenium
+  - Halogens
+    - Light Halogens
+      - Highly Reactive Halogens
+        - Fluorine
+        - Chlorine
+    - Heavy Halogens
+      - Dense Halogens
+        - Bromine
+        - Iodine
+        - Astatine
+  - Noble Gases
+    - Lighter Noble Gases
+      - Low-Mass Noble Gases
+        - Helium
+        - Neon
+        - Argon
+    - Heavier Noble Gases
+      - Dense Noble Gases
+        - Krypton
+        - Xenon
+        - Radon
+- Inner Transition Elements
+  - Lanthanides
+    - Early Lanthanides
+      - Light Rare Earths
+        - Lanthanum
+        - Cerium
+        - Praseodymium
+        - Neodymium
+    - Middle and Heavy Lanthanides
+      - Heavy Rare Earths
+        - Samarium
+        - Europium
+        - Gadolinium
+        - Terbium
+        - Dysprosium
+        - Holmium
+        - Erbium
+        - Thulium
+        - Ytterbium
+        - Lutetium
+  - Actinides
+    - Early Actinides
+      - Naturally Occurring Heavy Elements
+        - Actinium
+        - Thorium
+        - Protactinium
+        - Uranium
+    - Later Actinides
+      - Heavier Actinides
+        - Neptunium
+        - Plutonium
+        - Americium
+        - Curium
+        - Berkelium
+        - Californium
+        - Einsteinium
+        - Fermium
+        - Mendelevium
+        - Nobelium
+        - Lawrencium
+
+### Computer Types - 4 Levels
+Computer Types
+- Personal Computers
+  - Stationary Personal Computers
+    - Standard Desktop Systems
+      - Desktop Computer
+      - Tower PC
+      - Small Form Factor PC
+    - Integrated Desktop Systems
+      - All-in-One Computer
+      - Mini Desktop Computer
+  - Portable Personal Computers
+    - Folding Portable Systems
+      - Notebook
+      - Laptop
+      - Ultrabook
+    - Detachable and Convertible Systems
+      - Convertible Laptop
+      - Detachable Computer
+      - Two-in-One Device
+  - Handheld Personal Devices
+    - Touch-Based Mobile Systems
+      - Tablet
+      - Compact Tablet
+      - Large Tablet
+    - Phone-Based Smart Devices
+      - Smartphone
+      - Rugged Smartphone
+      - Foldable Smartphone
+- Professional and Workstation Computers
+  - Technical Workstations
+    - Engineering and Design Systems
+      - CAD Workstation
+      - Graphics Workstation
+      - Scientific Workstation
+  - Business Workstations
+    - Secure Productivity Systems
+      - Office Workstation
+      - Financial Workstation
+      - Multi-Monitor Workstation
+- Shared and Multi-User Computers
+  - Centralized Business Systems
+    - Enterprise Computing Systems
+      - Server
+      - Rack Server
+      - Blade Server
+    - High-Reliability Systems
+      - Mainframe
+      - Fault-Tolerant System
+  - Large-Scale Computing Systems
+    - Performance Clusters
+      - Compute Node
+      - Cluster Server
+    - Supercomputing Systems
+      - Supercomputer
+      - Parallel Processing System
+- Embedded and Specialized Computers
+  - Control and Industrial Systems
+    - Industrial Computing Units
+      - Industrial PC
+      - Panel PC
+      - Embedded Controller
+  - Single-Board and Compact Systems
+    - Small Development Systems
+      - Single-Board Computer
+      - Compact Embedded Computer
+      - Edge Device
+  - Dedicated Device Computers
+    - Application-Specific Units
+      - Kiosk Computer
+      - Point-of-Sale Terminal
+      - Automotive Computer
+
+### Hi-Fi Devices - 4 Levels
+Hi-Fi Devices
+- Source Devices
+  - Analog Source Devices
+    - Disc Playback Devices
+      - Turntable
+      - Automatic Turntable
+      - Manual Turntable
+    - Tape Playback Devices
+      - Cassette Deck
+      - Reel-to-Reel Recorder
+      - Portable Cassette Player
+  - Digital Source Devices
+    - Optical Disc Players
+      - CD Player
+      - Portable CD Player
+      - DVD Audio Player
+    - File and Signal Players
+      - Digital Audio Player
+      - Network Audio Player
+      - Media Streamer
+  - Radio Reception Devices
+    - Broadcast Tuners
+      - AM Tuner
+      - FM Tuner
+      - Digital Radio Tuner
+    - Integrated Radio Units
+      - Table Radio
+      - Portable Radio
+      - Hi-Fi Tuner Unit
+- Amplification Devices
+  - Pre-Amplification Units
+    - Signal Control Units
+      - Preamplifier
+      - Phono Preamplifier
+      - Tone Control Unit
+  - Power Amplification Units
+    - Stereo Power Units
+      - Stereo Power Amplifier
+      - Dual Mono Amplifier
+    - High-Power Units
+      - Monoblock Amplifier
+      - Multi-Channel Power Amplifier
+  - Integrated Amplification Units
+    - Combined Amplifier Systems
+      - Integrated Amplifier
+      - Stereo Receiver
+      - AV Receiver
+- Speaker Systems
+  - Passive Speaker Systems
+    - Home Listening Speakers
+      - Bookshelf Speaker
+      - Floorstanding Speaker
+      - Center Speaker
+    - Special Purpose Speakers
+      - Surround Speaker
+      - Outdoor Speaker
+  - Active Speaker Systems
+    - Powered Stereo Speakers
+      - Desktop Active Speaker
+      - Studio Active Speaker
+    - Enhanced Low-End Systems
+      - Subwoofer
+      - Active Subwoofer
+- Recording and Processing Devices
+  - Analog Recording Devices
+    - Tape Recording Units
+      - Cassette Recorder
+      - Reel-to-Reel Recorder
+  - Digital Recording Devices
+    - Disc and File Recorders
+      - MiniDisc Recorder
+      - Digital Audio Recorder
+      - Hard Disk Recorder
+  - Signal Processing Units
+    - Sound Adjustment Units
+      - Equalizer
+      - Graphic Equalizer
+      - Digital Signal Processor
+- Portable Audio Devices
+  - Personal Listening Devices
+    - Portable Playback Units
+      - Portable Cassette Player
+      - Portable CD Player
+      - Portable Digital Audio Player
+  - Portable Radio and Combo Units
+    - Compact Portable Units
+      - Boombox
+      - Clock Radio
+      - Portable Stereo Unit
+
+### Landscape Forms - 4 Levels
+Landscape Forms
+- Elevated Landforms
+  - Mountain Landforms
+    - High Mountain Types
+      - Alpine Mountain
+      - Glaciated Peak
+      - Rocky Summit
+    - Volcanic Mountain Types
+      - Stratovolcano
+      - Shield Volcano
+      - Volcanic Cone
+  - Hill Landforms
+    - Rounded Hill Types
+      - Rolling Hill
+      - Dome Hill
+    - Steep Hill Types
+      - Ridge Hill
+      - Knoll
+- Flat and Gently Sloping Landforms
+  - Plains
+    - Broad Plain Types
+      - Grass Plain
+      - Alluvial Plain
+      - Coastal Plain
+    - Elevated Plain Types
+      - Plateau Plain
+      - Steppe Plain
+  - Plateaus and Tablelands
+    - Flat Elevated Landforms
+      - Plateau
+      - Mesa
+      - Tableland
+    - Eroded Elevated Landforms
+      - Butte
+      - Escarpment
+- Depressed and Enclosed Landforms
+  - Valley Landforms
+    - River Valley Types
+      - Narrow River Valley
+      - Broad River Valley
+      - Floodplain Valley
+    - Glacial Valley Types
+      - U-Shaped Valley
+      - Hanging Valley
+  - Basin and Depression Landforms
+    - Closed Basin Types
+      - Desert Basin
+      - Inland Basin
+    - Surface Depression Types
+      - Sinkhole Basin
+      - Tectonic Depression
+- Water-Influenced Landforms
+  - Coastal Landforms
+    - Shoreline Forms
+      - Beach
+      - Sand Spit
+      - Coastal Dune
+    - Rocky Coastal Forms
+      - Sea Cliff
+      - Headland
+      - Sea Stack
+  - River and Lake Landforms
+    - River Edge Forms
+      - Riverbank
+      - Delta
+      - Meander Bend
+    - Lake Edge Forms
+      - Lakeshore
+      - Marsh Edge
+      - Lagoon Margin
+
+### Machines and Mechanical Components - 4 Levels
+Machines and Mechanical Components
+- Power Transmission Components
+  - Rotating Transmission Components
+    - Shaft Components
+      - Plain Shaft Elements
+        - Drive Shaft
+        - Line Shaft
+      - Mounted Shaft Elements
+        - Spindle
+        - Axle
+    - Coupling Components
+      - Flexible Couplings
+        - Jaw Coupling
+        - Oldham Coupling
+      - Rigid Couplings
+        - Sleeve Coupling
+        - Flange Coupling
+  - Speed and Torque Conversion Components
+    - Gear Components
+      - Spur Gear Systems
+        - Spur Gear
+        - Gear Pair
+      - Angular Gear Systems
+        - Bevel Gear
+        - Worm Gear
+      - Planetary Gear Systems
+        - Sun Gear Set
+        - Planetary Gear Unit
+    - Belt and Chain Drives
+      - Belt Drive Components
+        - Pulley
+        - V-Belt
+        - Timing Belt
+      - Chain Drive Components
+        - Roller Chain
+        - Sprocket
+- Motion Control Components
+  - Linear Motion Components
+    - Guiding Components
+      - Sliding Guides
+        - Slide Rail
+        - Dovetail Guide
+      - Rolling Guides
+        - Linear Bearing
+        - Ball Guide Rail
+    - Actuation Components
+      - Screw-Based Actuators
+        - Lead Screw
+        - Ball Screw
+      - Fluid Actuators
+        - Hydraulic Cylinder
+        - Pneumatic Cylinder
+  - Rotary Motion Components
+    - Support Components
+      - Bearing Units
+        - Ball Bearing
+        - Roller Bearing
+      - Mounted Bearing Units
+        - Pillow Block Bearing
+        - Flange Bearing
+    - Positioning Components
+      - Indexing Components
+        - Indexing Table
+        - Rotary Stage
+- Fluid and Pressure Components
+  - Pumping Components
+    - Positive Displacement Pumps
+      - Reciprocating Pumps
+        - Piston Pump
+        - Diaphragm Pump
+      - Rotary Pumps
+        - Gear Pump
+        - Vane Pump
+    - Dynamic Pumps
+      - Centrifugal Pumps
+        - Single-Stage Centrifugal Pump
+        - Multi-Stage Centrifugal Pump
+  - Valve and Control Components
+    - Shut-Off Valves
+      - Manual Shut-Off Valves
+        - Ball Valve
+        - Gate Valve
+      - Regulating Valves
+        - Needle Valve
+        - Globe Valve
+    - Directional and Pressure Controls
+      - Pressure Control Devices
+        - Pressure Regulator
+        - Relief Valve
+      - Flow Direction Devices
+        - Check Valve
+        - Directional Control Valve
+- Structural and Support Components
+  - Fastening Components
+    - Threaded Fasteners
+      - External Thread Fasteners
+        - Bolt
+        - Stud
+      - Internal Thread Fasteners
+        - Nut
+        - Threaded Insert
+    - Non-Threaded Fasteners
+      - Permanent Fasteners
+        - Rivet
+        - Dowel Pin
+      - Retaining Fasteners
+        - Circlip
+        - Cotter Pin
+  - Frame and Mounting Components
+    - Machine Frames
+      - Rigid Support Frames
+        - Base Frame
+        - Welded Frame
+      - Modular Support Frames
+        - Profile Frame
+        - Machine Stand
+    - Mounting Elements
+      - Vibration Control Elements
+        - Rubber Mount
+        - Spring Isolator
+      - Alignment Elements
+        - Shim
+        - Spacer
+- Complete Machine Types
+  - Material Removal Machines
+    - Cutting Machines
+      - Turning Machines
+        - Lathe
+        - CNC Lathe
+      - Milling Machines
+        - Vertical Mill
+        - CNC Milling Machine
+      - Grinding Machines
+        - Surface Grinder
+        - Cylindrical Grinder
+    - Drilling and Boring Machines
+      - Holemaking Machines
+        - Drill Press
+        - Radial Drill
+      - Precision Enlargement Machines
+        - Boring Machine
+        - Jig Borer
+  - Material Forming and Handling Machines
+    - Forming Machines
+      - Press Systems
+        - Hydraulic Press
+        - Mechanical Press
+      - Rolling and Bending Systems
+        - Plate Roller
+        - Tube Bender
+    - Handling Machines
+      - Lifting Systems
+        - Hoist
+        - Winch
+      - Conveying Systems
+        - Belt Conveyor
+        - Roller Conveyor
+
+### Tools and Equipment - 4 Levels
+Tools and Equipment
+- Hand Tools
+  - Cutting Hand Tools
+    - Saws
+      - Wood Saws
+        - Hand Saw
+        - Back Saw
+        - Coping Saw
+      - Metal Saws
+        - Hacksaw
+        - Junior Hacksaw
+    - Edge Cutting Tools
+      - Knife Tools
+        - Utility Knife
+        - Craft Knife
+      - Shearing Tools
+        - Scissors
+        - Tin Snips
+  - Striking Hand Tools
+    - Hammers
+      - General Hammers
+        - Claw Hammer
+        - Ball Peen Hammer
+      - Soft-Face Hammers
+        - Rubber Mallet
+        - Wooden Mallet
+    - Chiseling Tools
+      - Chisel Sets
+        - Wood Chisel
+        - Cold Chisel
+  - Gripping and Turning Hand Tools
+    - Pliers
+      - General Pliers
+        - Combination Pliers
+        - Long-Nose Pliers
+      - Cutting Pliers
+        - Diagonal Cutter
+        - End Cutter
+    - Wrenches and Keys
+      - Fixed-Size Wrenches
+        - Open-End Wrench
+        - Ring Wrench
+      - Adjustable Tools
+        - Adjustable Wrench
+        - Pipe Wrench
+      - Hex Tools
+        - Hex Key
+        - T-Handle Hex Key
+- Measuring and Marking Equipment
+  - Linear Measuring Tools
+    - Short Measuring Tools
+      - Bench Measuring Tools
+        - Ruler
+        - Caliper
+      - Flexible Measuring Tools
+        - Tape Measure
+        - Sewing Tape
+    - Alignment Measuring Tools
+      - Leveling Tools
+        - Spirit Level
+        - Line Level
+      - Precision Checking Tools
+        - Feeler Gauge
+        - Square
+  - Marking Tools
+    - Surface Marking Tools
+      - General Markers
+        - Carpenter Pencil
+        - Chalk Marker
+      - Precision Markers
+        - Scriber
+        - Center Punch
+- Power Tools
+  - Drilling and Driving Tools
+    - Electric Drills
+      - General Drills
+        - Corded Drill
+        - Cordless Drill
+      - Impact Tools
+        - Impact Driver
+        - Hammer Drill
+    - Fastening Tools
+      - Screwdriving Systems
+        - Power Screwdriver
+        - Drywall Screw Gun
+  - Cutting Power Tools
+    - Circular Cutting Tools
+      - Wood Cutting Saws
+        - Circular Saw
+        - Plunge Saw
+      - Metal and Masonry Cutting Tools
+        - Cut-Off Saw
+        - Angle Grinder
+    - Reciprocating and Oscillating Tools
+      - Demolition Cutting Tools
+        - Reciprocating Saw
+        - Oscillating Multi-Tool
+  - Surface Finishing Tools
+    - Sanding Tools
+      - Handheld Sanders
+        - Orbital Sander
+        - Belt Sander
+      - Polishing Tools
+        - Rotary Polisher
+        - Dual Action Polisher
+- Workshop Equipment
+  - Holding and Support Equipment
+    - Clamping Equipment
+      - Bench Clamps
+        - C-Clamp
+        - F-Clamp
+      - Workpiece Holding Tools
+        - Vise
+        - Bench Vise
+    - Support Equipment
+      - Work Surfaces
+        - Workbench
+        - Folding Workbench
+      - Material Supports
+        - Sawhorse
+        - Roller Stand
+  - Air and Fluid Equipment
+    - Compressed Air Equipment
+      - Air Supply Units
+        - Air Compressor
+        - Portable Compressor
+      - Pneumatic Tools
+        - Air Ratchet
+        - Pneumatic Nailer
+    - Liquid Handling Equipment
+      - Dispensing Tools
+        - Grease Gun
+        - Hand Pump
+- Safety and Protective Equipment
+  - Personal Protective Equipment
+    - Eye and Face Protection
+      - Impact Protection
+        - Safety Glasses
+        - Face Shield
+    - Hand Protection
+      - Work Gloves
+        - Cut-Resistant Gloves
+        - Heat-Resistant Gloves
+    - Breathing and Hearing Protection
+      - Respiratory Protection
+        - Dust Mask
+        - Half-Face Respirator
+      - Hearing Protection
+        - Ear Plugs
+        - Ear Muffs
+  - Site Safety Equipment
+    - Visibility and Warning Equipment
+      - Wearable Visibility Items
+        - Reflective Vest
+        - High-Visibility Jacket
+      - Area Warning Devices
+        - Warning Cone
+        - Barrier Tape
+
+## Trees with 5 Levels
+
+### Clothing Types - 5 Levels
+Clothing Types
+- Upper Body Clothing
+  - Shirts and Tops
+    - Casual Tops
+      - Short-Sleeve Tops
+        - T-Shirt
+        - V-Neck T-Shirt
+        - Henley Shirt
+      - Long-Sleeve Tops
+        - Long-Sleeve Shirt
+        - Turtleneck Top
+        - Mock Neck Top
+    - Structured Shirts
+      - Buttoned Shirts
+        - Dress Shirt
+        - Oxford Shirt
+        - Flannel Shirt
+      - Pullover Shirts
+        - Polo Shirt
+        - Rugby Shirt
+  - Sweaters and Knitwear
+    - Light Knitwear
+      - Fine Knit Sweaters
+        - Crew Neck Sweater
+        - V-Neck Sweater
+      - Knit Layering Pieces
+        - Knit Vest
+        - Sleeveless Sweater
+    - Heavy Knitwear
+      - Thick Sweaters
+        - Cable Knit Sweater
+        - Ribbed Sweater
+      - Oversized Knitwear
+        - Oversized Pullover
+        - Chunky Knit Sweater
+  - Jackets and Outer Layers
+    - Lightweight Jackets
+      - Casual Light Jackets
+        - Bomber Jacket
+        - Harrington Jacket
+        - Windbreaker
+      - Utility Light Jackets
+        - Field Jacket
+        - Shirt Jacket
+    - Heavy Outerwear
+      - Insulated Jackets
+        - Puffer Jacket
+        - Quilted Jacket
+      - Coats
+        - Overcoat
+        - Peacoat
+        - Parka
+- Lower Body Clothing
+  - Trousers and Pants
+    - Casual Pants
+      - Straight-Leg Pants
+        - Chino Pants
+        - Twill Pants
+      - Relaxed Pants
+        - Cargo Pants
+        - Jogger Pants
+    - Formal Pants
+      - Tailored Pants
+        - Dress Trousers
+        - Pleated Trousers
+      - Slim Tailored Pants
+        - Slim Trousers
+        - Tapered Trousers
+  - Denim Clothing
+    - Classic Denim
+      - Standard Jeans
+        - Straight Jeans
+        - Regular Fit Jeans
+      - Narrow Jeans
+        - Slim Jeans
+        - Skinny Jeans
+    - Loose Denim
+      - Relaxed Jeans
+        - Baggy Jeans
+        - Wide-Leg Jeans
+      - Workwear Denim
+        - Carpenter Jeans
+        - Utility Jeans
+  - Skirts and Similar Garments
+    - Short Skirts
+      - Straight Short Skirts
+        - Mini Skirt
+        - Denim Mini Skirt
+    - Mid-Length Skirts
+      - Structured Mid-Length Skirts
+        - Pencil Skirt
+        - A-Line Skirt
+    - Long Skirts
+      - Flowing Long Skirts
+        - Maxi Skirt
+        - Pleated Maxi Skirt
+- Full-Body Clothing
+  - Dresses
+    - Casual Dresses
+      - Short Casual Dresses
+        - T-Shirt Dress
+        - Shift Dress
+      - Mid-Length Casual Dresses
+        - Shirt Dress
+        - Wrap Dress
+    - Formal Dresses
+      - Structured Formal Dresses
+        - Sheath Dress
+        - Evening Dress
+      - Full-Length Formal Dresses
+        - Gown
+        - Column Dress
+  - One-Piece Garments
+    - Jumpsuits
+      - Casual Jumpsuits
+        - Utility Jumpsuit
+        - Sleeveless Jumpsuit
+      - Formal Jumpsuits
+        - Tailored Jumpsuit
+        - Wide-Leg Jumpsuit
+    - Overalls
+      - Work Overalls
+        - Bib Overall
+        - Coverall
+      - Casual Overalls
+        - Denim Overall
+        - Short Overall
+- Leg and Foot Clothing
+  - Short Legwear
+    - Ankle-Length Items
+      - Light Socks
+        - Ankle Socks
+        - No-Show Socks
+      - Sport Socks
+        - Athletic Ankle Socks
+        - Cushioned Training Socks
+    - Mid-Length Socks
+      - Casual Mid-Length Socks
+        - Crew Socks
+        - Ribbed Crew Socks
+  - Long Legwear
+    - Knee-Length Items
+      - Structured Long Socks
+        - Knee Socks
+        - Compression Socks
+    - Full-Length Items
+      - Close-Fit Legwear
+        - Leggings
+        - Thermal Leggings
+      - Sheer Legwear
+        - Tights
+        - Stockings
+- Specialized Clothing
+  - Sleepwear
+    - Sleep Tops
+      - Light Sleep Tops
+        - Pajama Shirt
+        - Sleep T-Shirt
+    - Sleep Bottoms
+      - Soft Sleep Bottoms
+        - Pajama Pants
+        - Sleep Shorts
+    - Full Sleep Sets
+      - Matching Sleep Sets
+        - Two-Piece Pajama Set
+        - Buttoned Pajama Set
+  - Undergarments
+    - Upper Undergarments
+      - Support Garments
+        - Bra
+        - Sports Bra
+      - Base Layer Tops
+        - Undershirt
+        - Tank Undershirt
+    - Lower Undergarments
+      - Brief Styles
+        - Briefs
+        - High-Waist Briefs
+      - Short Styles
+        - Boxer Briefs
+        - Boxers
+  - Performance and Protective Clothing
+    - Athletic Clothing
+      - Training Tops
+        - Compression Shirt
+        - Training Jersey
+      - Training Bottoms
+        - Running Shorts
+        - Track Pants
+    - Protective Outerwear
+      - Weather Protection
+        - Raincoat
+        - Waterproof Shell
+      - Visibility Clothing
+        - Reflective Vest
+        - High-Visibility Jacket
+
+### Container and Storage Types - 5 Levels
+Container and Storage Types
+- Portable Containers
+  - Personal Carry Containers
+    - Soft Carry Containers
+      - Everyday Carry Bags
+        - Tote Bag
+        - Shoulder Bag
+      - Travel Carry Bags
+        - Duffel Bag
+        - Garment Bag
+    - Structured Carry Containers
+      - Small Hand-Carry Cases
+        - Briefcase
+        - Hard Shell Case
+      - Wheeled Travel Cases
+        - Cabin Suitcase
+        - Rolling Suitcase
+  - Utility Transport Containers
+    - Open Utility Containers
+      - Hand-Carry Utility Types
+        - Basket
+        - Carry Crate
+      - Stackable Utility Types
+        - Plastic Crate
+        - Folding Crate
+    - Closed Utility Containers
+      - Tool and Equipment Cases
+        - Toolbox
+        - Equipment Case
+      - Insulated Utility Containers
+        - Cooler Box
+        - Thermal Carrier
+- Household Storage
+  - Room Storage Containers
+    - Bedroom Storage
+      - Garment Storage Types
+        - Laundry Basket
+        - Underbed Storage Box
+      - Accessory Storage Types
+        - Jewelry Box
+        - Watch Case
+    - Kitchen Storage
+      - Dry Goods Storage
+        - Canister
+        - Pantry Bin
+      - Food Preservation Storage
+        - Bread Box
+        - Refrigerator Container
+  - General Home Storage
+    - Shelf and Cabinet Containers
+      - Open Storage Units
+        - Storage Basket
+        - Shelf Bin
+      - Closed Storage Units
+        - Lidded Box
+        - Drawer Organizer
+    - Seasonal and Bulk Storage
+      - Long-Term Storage Types
+        - Vacuum Storage Bag
+        - Archive Box
+      - Protective Storage Types
+        - Storage Trunk
+        - Cedar Chest
+- Industrial and Commercial Storage
+  - Warehouse Storage
+    - Bulk Storage Containers
+      - Heavy-Duty Storage Units
+        - Pallet Box
+        - Bulk Bin
+      - Flow Storage Units
+        - Hopper Bin
+        - Gravity Bin
+    - Shelving-Compatible Containers
+      - Pick Storage Types
+        - Parts Bin
+        - Shelf Tote
+      - Stackable Stock Types
+        - Euro Container
+        - Nesting Container
+  - Shipping and Distribution
+    - Transport Packaging
+      - Corrugated Shipping Types
+        - Shipping Carton
+        - Mailer Box
+      - Protective Transit Types
+        - Foam-Lined Box
+        - Shockproof Case
+    - Freight Containers
+      - Intermodal Freight Types
+        - Standard Freight Container
+        - High Cube Container
+      - Specialized Freight Types
+        - Refrigerated Container
+        - Open Top Container
+- Document and Media Storage
+  - Paper Storage
+    - Office Document Storage
+      - Everyday Filing Types
+        - Folder
+        - Ring Binder
+      - Long-Term Record Storage
+        - Archive Box
+        - Document Case
+    - Flat Media Storage
+      - Large Format Storage
+        - Portfolio Case
+        - Plan Drawer Folder
+  - Audio and Visual Media Storage
+    - Disc Storage
+      - Optical Media Storage
+        - CD Wallet
+        - Disc Binder
+      - Protective Disc Cases
+        - Jewel Case
+        - Disc Sleeve
+    - Tape and Cartridge Storage
+      - Audio Tape Storage
+        - Cassette Case
+        - Tape Drawer Box
+      - Data Cartridge Storage
+        - Cartridge Case
+        - Media Archive Box
+- Specialized Storage Systems
+  - Secure Storage
+    - Lockable Storage Types
+      - Small Security Units
+        - Lockbox
+        - Cash Box
+      - Reinforced Security Units
+        - Safe
+        - Fireproof Safe
+    - Controlled Access Storage
+      - Keyed Access Types
+        - Key Cabinet
+        - Locking File Cabinet
+  - Technical and Protective Storage
+    - Equipment Protection Storage
+      - Shock-Resistant Types
+        - Rugged Equipment Case
+        - Waterproof Case
+      - Component Storage Types
+        - Anti-Static Box
+        - Parts Organizer
+    - Display and Preservation Storage
+      - Presentation Storage Types
+        - Display Case
+        - Collector Box
+      - Conservation Storage Types
+        - Acid-Free Archive Case
+        - Preservation Box
+
+### Furniture Types - 5 Levels
+Furniture Types
+- Seating Furniture
+  - Single-Seat Furniture
+    - Basic Chairs
+      - Dining Chairs
+        - Wooden Dining Chair
+        - Upholstered Dining Chair
+      - Work Chairs
+        - Desk Chair
+        - Drafting Chair
+    - Lounge Seating
+      - Relaxation Chairs
+        - Armchair
+        - Recliner
+      - Accent Seating
+        - Accent Chair
+        - Club Chair
+  - Multi-Seat Furniture
+    - Benches
+      - Indoor Bench Types
+        - Entryway Bench
+        - Dining Bench
+      - Outdoor Bench Types
+        - Garden Bench
+        - Park Bench
+    - Sofas and Couches
+      - Compact Sofa Types
+        - Loveseat
+        - Two-Seat Sofa
+      - Full-Size Sofa Types
+        - Three-Seat Sofa
+        - Sectional Sofa
+- Tables and Surface Furniture
+  - Dining and Work Tables
+    - Dining Tables
+      - Fixed Dining Tables
+        - Round Dining Table
+        - Rectangular Dining Table
+      - Expandable Dining Tables
+        - Drop-Leaf Table
+        - Extension Table
+    - Work Tables
+      - Desk Types
+        - Writing Desk
+        - Computer Desk
+      - Utility Work Tables
+        - Worktable
+        - Drafting Table
+  - Small Surface Furniture
+    - Occasional Tables
+      - Living Room Table Types
+        - Coffee Table
+        - Side Table
+      - Bedroom Table Types
+        - Nightstand
+        - Bedside Table
+    - Console and Display Tables
+      - Narrow Wall Tables
+        - Console Table
+        - Hall Table
+- Storage Furniture
+  - Cabinet Furniture
+    - Freestanding Cabinets
+      - General Storage Cabinets
+        - Utility Cabinet
+        - Display Cabinet
+      - Room-Specific Cabinets
+        - Bathroom Cabinet
+        - Kitchen Cabinet
+    - Drawer-Based Storage
+      - Small Drawer Units
+        - Bedside Chest
+        - Filing Drawer Unit
+      - Large Drawer Units
+        - Chest of Drawers
+        - Dresser
+  - Shelf Furniture
+    - Open Shelving
+      - Standard Shelf Units
+        - Bookcase
+        - Open Display Shelf
+      - Modular Shelving
+        - Cube Shelf
+        - Ladder Shelf
+    - Closed Shelf Systems
+      - Door Shelf Units
+        - Wardrobe
+        - Linen Cabinet
+- Sleeping Furniture
+  - Bed Frames
+    - Standard Bed Types
+      - Single Bed Frames
+        - Twin Bed
+        - Daybed
+      - Large Bed Frames
+        - Double Bed
+        - Queen Bed
+        - King Bed
+    - Specialized Bed Frames
+      - Raised Bed Types
+        - Loft Bed
+        - Bunk Bed
+      - Convertible Bed Types
+        - Sofa Bed
+        - Folding Bed
+  - Support Bedroom Furniture
+    - Mattress Support Units
+      - Foundation Types
+        - Slatted Base
+        - Box Foundation
+    - Bedroom Storage Units
+      - Garment Storage Types
+        - Wardrobe
+        - Clothes Rack
+- Specialized Furniture
+  - Office Furniture
+    - Task Furniture
+      - Computer Work Furniture
+        - Monitor Stand
+        - Keyboard Tray Unit
+      - Filing Furniture
+        - Filing Cabinet
+        - Mobile Pedestal
+    - Meeting Furniture
+      - Shared Work Furniture
+        - Conference Table
+        - Meeting Chair
+  - Outdoor Furniture
+    - Outdoor Seating
+      - Garden Seating Types
+        - Patio Chair
+        - Folding Garden Chair
+      - Outdoor Lounging Types
+        - Sun Lounger
+        - Hammock Stand
+    - Outdoor Surface Furniture
+      - Exterior Tables
+        - Patio Table
+        - Picnic Table
+
+### Materials - 5 Levels
+Materials
+- Metals
+  - Ferrous Metals
+    - Steel Families
+      - Structural Steels
+        - Beam Steel
+        - Plate Steel
+      - Tool Steels
+        - Cutting Tool Steel
+        - Die Steel
+    - Cast Iron Families
+      - General Cast Irons
+        - Gray Cast Iron
+        - Ductile Cast Iron
+  - Non-Ferrous Metals
+    - Light Metals
+      - Aluminum Families
+        - Cast Aluminum
+        - Rolled Aluminum
+      - Magnesium Families
+        - Cast Magnesium
+        - Wrought Magnesium
+    - Copper-Based Metals
+      - Pure Copper Forms
+        - Copper Sheet
+        - Copper Wire
+      - Copper Alloys
+        - Brass
+        - Bronze
+- Polymers
+  - Thermoplastics
+    - Commodity Thermoplastics
+      - Packaging Plastics
+        - Polyethylene
+        - Polypropylene
+      - Transparent Plastics
+        - Polystyrene
+        - PET
+    - Engineering Thermoplastics
+      - Tough Engineering Plastics
+        - ABS
+        - Polycarbonate
+      - Low-Friction Plastics
+        - Nylon
+        - Acetal
+  - Thermosets
+    - Resin Systems
+      - Casting Resins
+        - Epoxy Resin
+        - Polyester Resin
+      - Laminating Resins
+        - Phenolic Resin
+        - Melamine Resin
+- Ceramics and Glass
+  - Ceramics
+    - Traditional Ceramics
+      - Building Ceramics
+        - Brick Ceramic
+        - Roof Tile Ceramic
+      - Fine Ceramics
+        - Porcelain
+        - Stoneware
+    - Technical Ceramics
+      - Wear-Resistant Ceramics
+        - Alumina Ceramic
+        - Silicon Carbide Ceramic
+  - Glass
+    - Flat Glass
+      - Architectural Glass
+        - Float Glass
+        - Coated Glass
+    - Shaped Glass
+      - Hollow Glass
+        - Bottle Glass
+        - Laboratory Glass
+- Natural Materials
+  - Wood
+    - Solid Wood
+      - Hardwood Types
+        - Oak Wood
+        - Beech Wood
+      - Softwood Types
+        - Pine Wood
+        - Spruce Wood
+    - Engineered Wood
+      - Layered Wood Products
+        - Plywood
+        - Laminated Timber
+      - Fiber-Based Wood Products
+        - MDF
+        - Hardboard
+  - Stone
+    - Building Stone
+      - Dense Stone Types
+        - Granite
+        - Basalt
+      - Decorative Stone Types
+        - Marble
+        - Slate
+  - Fibers
+    - Plant Fibers
+      - Soft Plant Fibers
+        - Cotton Fiber
+        - Flax Fiber
+      - Coarse Plant Fibers
+        - Jute Fiber
+        - Hemp Fiber
+    - Animal Fibers
+      - Fine Animal Fibers
+        - Wool
+        - Silk
+
+### Signage, Symbols and Markings - 5 Levels
+Signage, Symbols and Markings
+- Information Signage
+  - Directional Signage
+    - Building Navigation Signs
+      - Interior Navigation Types
+        - Room Direction Sign
+        - Floor Directory Sign
+      - Exterior Navigation Types
+        - Entrance Sign
+        - Parking Direction Sign
+    - Public Wayfinding Signs
+      - Route Guidance Types
+        - Trail Marker Sign
+        - Transit Direction Sign
+      - Location Identification Types
+        - Street Name Sign
+        - Platform Sign
+  - Identification Signage
+    - Location Identification
+      - Room and Area Labels
+        - Door Nameplate
+        - Area Label Sign
+      - Site Identification
+        - Building Name Sign
+        - Facility Name Sign
+    - Object Identification
+      - Asset Labeling Types
+        - Equipment Label
+        - Shelf Label
+- Safety Signage
+  - Hazard Signs
+    - Warning Signs
+      - General Warning Types
+        - Caution Sign
+        - Hazard Warning Sign
+      - Specific Hazard Types
+        - High Voltage Sign
+        - Hot Surface Sign
+    - Prohibition Signs
+      - Access Restriction Types
+        - No Entry Sign
+        - Authorized Personnel Only Sign
+      - Activity Restriction Types
+        - No Smoking Sign
+        - No Photography Sign
+  - Emergency Signs
+    - Exit and Escape Signs
+      - Egress Guidance Types
+        - Emergency Exit Sign
+        - Escape Route Sign
+    - Emergency Equipment Signs
+      - Response Equipment Types
+        - Fire Extinguisher Sign
+        - First Aid Sign
+- Operational and Instructional Markings
+  - Surface Markings
+    - Floor Markings
+      - Route and Zone Markings
+        - Walkway Line Marking
+        - Loading Zone Marking
+      - Hazard Floor Markings
+        - Caution Stripe Marking
+        - Edge Warning Marking
+    - Wall and Boundary Markings
+      - Boundary Indicators
+        - Clearance Marking
+        - Height Limit Marking
+  - Equipment and Interface Markings
+    - Control Panel Symbols
+      - Functional Control Types
+        - Power Symbol
+        - Reset Symbol
+      - Adjustment Control Types
+        - Volume Symbol
+        - Temperature Symbol
+    - Machine Markings
+      - Status and Operation Types
+        - Start Marking
+        - Stop Marking
+      - Maintenance and Service Types
+        - Lubrication Marking
+        - Service Point Marking
+- Symbols and Graphic Indicators
+  - Functional Symbols
+    - Utility Symbols
+      - Service Symbols
+        - Water Symbol
+        - Electrical Symbol
+      - Connectivity Symbols
+        - Network Symbol
+        - Signal Symbol
+    - Status Symbols
+      - State Indicators
+        - Active Symbol
+        - Standby Symbol
+  - Public Communication Symbols
+    - Access Symbols
+      - Movement and Entry Symbols
+        - Elevator Symbol
+        - Stair Symbol
+      - Facility Symbols
+        - Restroom Symbol
+        - Accessible Entrance Symbol
+    - Service Symbols
+      - Public Service Types
+        - Information Symbol
+        - Help Point Symbol
+- Decorative and Applied Markings
+  - Surface Graphics
+    - Decorative Applied Graphics
+      - Retail and Display Graphics
+        - Window Graphic
+        - Promotional Decal
+      - Architectural Graphics
+        - Wall Graphic
+        - Glass Film Graphic
+    - Applied Labels and Decals
+      - Product Labeling Types
+        - Brand Label
+        - Specification Label
+      - Compliance Labeling Types
+        - Rating Plate
+        - Inspection Sticker
+  - Pattern and Boundary Markings
+    - Visual Boundary Types
+      - Delimitation Patterns
+        - Border Stripe
+        - Perimeter Band
+    - Repeated Surface Markings
+      - Patterned Marking Types
+        - Grid Marking
+        - Checker Pattern Marking
+
+### Vehicle Types - 5 Levels
+Vehicle Types
+- Road Vehicles
+  - Passenger Vehicles
+    - Private Passenger Vehicles
+      - Small Passenger Cars
+        - City Car
+        - Microcar
+      - Standard Passenger Cars
+        - Compact Car
+        - Mid-Size Sedan
+        - Station Wagon
+      - Sport-Oriented Passenger Cars
+        - Coupe
+        - Convertible
+    - Multi-Purpose Passenger Vehicles
+      - Family Transport Vehicles
+        - Van
+        - Minivan
+      - Raised-Body Passenger Vehicles
+        - SUV
+        - Crossover
+  - Commercial Road Vehicles
+    - Light Commercial Vehicles
+      - Urban Delivery Vehicles
+        - Delivery Van
+        - Panel Van
+      - Service Vehicles
+        - Utility Pickup
+        - Service Van
+    - Heavy Commercial Vehicles
+      - Cargo Transport Trucks
+        - Box Truck
+        - Flatbed Truck
+        - Curtain-Side Truck
+      - Specialized Heavy Trucks
+        - Dump Truck
+        - Tanker Truck
+        - Refrigerated Truck
+      - Long-Haul Truck Units
+        - Semi-Truck
+        - Sleeper Cab Truck
+  - Two-Wheeled Road Vehicles
+    - Human-Powered Two-Wheelers
+      - Standard Bicycle Types
+        - City Bicycle
+        - Touring Bicycle
+      - Sport Bicycle Types
+        - Road Bicycle
+        - Mountain Bicycle
+    - Motorized Two-Wheelers
+      - Light Motor Two-Wheelers
+        - Scooter
+        - Moped
+      - Full Motorcycles
+        - Street Motorcycle
+        - Touring Motorcycle
+- Rail Vehicles
+  - Urban Rail Vehicles
+    - Street Rail Systems
+      - Surface Rail Vehicles
+        - Tram
+        - Articulated Tram
+    - Rapid Transit Systems
+      - Metropolitan Rail Vehicles
+        - Subway Train
+        - Driverless Metro Train
+  - Mainline Rail Vehicles
+    - Passenger Rail Equipment
+      - Intercity Passenger Sets
+        - Passenger Train
+        - High-Speed Train
+    - Freight Rail Equipment
+      - Cargo Haul Systems
+        - Freight Train
+        - Container Freight Train
+
+## Trees with 6 Levels
+
+### Materials - 6 Levels
+
+Materials
+- Metals
+  - Ferrous Metals
+    - Steel Families
+      - Carbon Steels
+        - Low Carbon Steel
+          - Mild Steel Sheet
+          - Mild Steel Bar
+        - Medium Carbon Steel
+          - Medium Carbon Steel Rod
+          - Medium Carbon Steel Plate
+      - Alloy Steels
+        - Structural Alloy Steels
+          - Chromium Alloy Steel
+          - Nickel Alloy Steel
+        - Tool and Wear Steels
+          - Tool Steel
+          - Spring Steel
+    - Cast Iron Families
+      - Gray and Ductile Cast Irons
+        - Gray Cast Iron
+          - General Casting Iron
+          - Machine Base Iron
+        - Ductile Cast Iron
+          - Nodular Iron Casting
+          - Pipe Grade Ductile Iron
+  - Non-Ferrous Metals
+    - Aluminum Families
+      - Wrought Aluminum
+        - Rolled Aluminum Products
+          - Aluminum Sheet
+          - Aluminum Plate
+        - Extruded Aluminum Products
+          - Aluminum Profile
+          - Aluminum Tube
+      - Cast Aluminum
+        - General Cast Grades
+          - Cast Aluminum Housing
+          - Cast Aluminum Bracket
+    - Copper Families
+      - Pure Copper Forms
+        - Electrical Copper
+          - Copper Wire
+          - Copper Busbar
+        - Sheet and Tube Copper
+          - Copper Sheet
+          - Copper Tube
+      - Copper Alloys
+        - Zinc-Based Copper Alloys
+          - Brass
+          - Naval Brass
+        - Tin-Based Copper Alloys
+          - Bronze
+          - Phosphor Bronze
+
+- Polymers
+  - Thermoplastics
+    - Commodity Thermoplastics
+      - Polyolefins
+        - Polyethylene Types
+          - Low-Density Polyethylene
+          - High-Density Polyethylene
+        - Polypropylene Types
+          - Homopolymer Polypropylene
+          - Copolymer Polypropylene
+      - Transparent Commodity Plastics
+        - Polystyrene Families
+          - General Purpose Polystyrene
+          - High Impact Polystyrene
+        - Polyester Packaging Plastics
+          - PET Sheet
+          - PET Bottle Grade
+    - Engineering Thermoplastics
+      - Tough Engineering Plastics
+        - ABS Families
+          - Standard ABS
+          - Flame-Retardant ABS
+        - Polycarbonate Families
+          - Clear Polycarbonate
+          - Impact-Modified Polycarbonate
+      - Low-Friction Engineering Plastics
+        - Polyamide Families
+          - Nylon 6
+          - Nylon 66
+        - Acetal Families
+          - Homopolymer Acetal
+          - Copolymer Acetal
+  - Thermosets
+    - Resin Systems
+      - Epoxy Systems
+        - Casting Epoxies
+          - Clear Casting Epoxy
+          - Filled Casting Epoxy
+        - Structural Epoxies
+          - Laminating Epoxy
+          - Adhesive Grade Epoxy
+      - Polyester and Phenolic Systems
+        - Polyester Resin Types
+          - General Polyester Resin
+          - Fiber-Reinforced Polyester Resin
+        - Phenolic Resin Types
+          - Molded Phenolic Resin
+          - Heat-Resistant Phenolic Resin
+    - Elastomeric and Flexible Systems
+      - Flexible Resin Systems
+        - Polyurethane Types
+          - Flexible Polyurethane
+          - Rigid Polyurethane
+        - Silicone Types
+          - Silicone Rubber
+          - High-Temperature Silicone
+
+- Ceramics and Glass
+  - Ceramics
+    - Traditional Ceramics
+      - Building Ceramics
+        - Structural Ceramic Types
+          - Brick Ceramic
+          - Roof Tile Ceramic
+        - Surface Ceramic Types
+          - Wall Tile Ceramic
+          - Floor Tile Ceramic
+      - Fine Ceramics
+        - Whiteware Types
+          - Porcelain
+          - Bone China
+        - Dense Utility Ceramics
+          - Stoneware
+          - Earthenware
+    - Technical Ceramics
+      - Oxide Ceramics
+        - Alumina-Based Ceramics
+          - Alumina Ceramic
+          - Wear Alumina Ceramic
+        - Zirconia-Based Ceramics
+          - Zirconia Ceramic
+          - Stabilized Zirconia Ceramic
+      - Non-Oxide Ceramics
+        - Carbide Ceramics
+          - Silicon Carbide Ceramic
+          - Tungsten Carbide Ceramic
+        - Nitride Ceramics
+          - Silicon Nitride Ceramic
+          - Aluminum Nitride Ceramic
+  - Glass
+    - Flat Glass
+      - Architectural Glass
+        - Basic Building Glass
+          - Float Glass
+          - Tinted Glass
+        - Performance Building Glass
+          - Coated Glass
+          - Laminated Safety Glass
+      - Specialty Flat Glass
+        - Heat and Impact Resistant Types
+          - Tempered Glass
+          - Fire-Resistant Glass
+    - Shaped Glass
+      - Hollow Glass
+        - Container Glass
+          - Bottle Glass
+          - Jar Glass
+        - Laboratory and Technical Glass
+          - Borosilicate Laboratory Glass
+          - Gauge Glass
+      - Decorative and Optical Glass
+        - Optical Glass Types
+          - Lens Glass
+          - Prism Glass
+        - Decorative Formed Glass
+          - Art Glass
+          - Frosted Decorative Glass
+
+- Natural Materials
+  - Wood
+    - Solid Wood
+      - Hardwood Types
+        - Furniture Hardwoods
+          - Oak Wood
+          - Beech Wood
+        - Dense Decorative Hardwoods
+          - Walnut Wood
+          - Mahogany Wood
+      - Softwood Types
+        - Construction Softwoods
+          - Pine Wood
+          - Spruce Wood
+        - Lightweight Utility Softwoods
+          - Fir Wood
+          - Cedar Wood
+    - Engineered Wood
+      - Layered Wood Products
+        - Veneer-Based Panels
+          - Plywood
+          - Laminated Veneer Lumber
+        - Structural Laminated Products
+          - Laminated Timber
+          - Cross-Laminated Timber
+      - Fiber and Particle Boards
+        - Fiberboard Types
+          - MDF
+          - Hardboard
+        - Particle-Based Boards
+          - Particle Board
+          - Oriented Strand Board
+  - Stone
+    - Building Stone
+      - Dense Structural Stone
+        - Igneous Building Stones
+          - Granite
+          - Basalt
+        - Sedimentary Building Stones
+          - Sandstone
+          - Limestone
+      - Decorative Stone
+        - Polished Decorative Stone
+          - Marble
+          - Onyx
+        - Split and Layered Decorative Stone
+          - Slate
+          - Schist
+  - Fibers
+    - Plant Fibers
+      - Soft Plant Fibers
+        - Spinnable Soft Fibers
+          - Cotton Fiber
+          - Flax Fiber
+        - Refined Cellulosic Fibers
+          - Bamboo Fiber
+          - Ramie Fiber
+      - Coarse Plant Fibers
+        - Structural Plant Fibers
+          - Jute Fiber
+          - Hemp Fiber
+        - Rope and Matting Fibers
+          - Sisal Fiber
+          - Coir Fiber
+    - Animal Fibers
+      - Fine Animal Fibers
+        - Soft Apparel Fibers
+          - Wool
+          - Cashmere
+        - Luxury Fine Fibers
+          - Silk
+          - Mohair
+      - Coarser Animal Fibers
+        - Utility Hair Fibers
+          - Alpaca Fiber
+          - Camel Hair
+
+### Plant Types - 6 Levels
+
+Plant Types
+- Flowering Plants
+  - Trees
+    - Deciduous Trees
+      - Broadleaf Deciduous Trees
+        - Oak Relatives
+          - White Oak
+          - Red Oak
+        - Maple Relatives
+          - Sugar Maple
+          - Field Maple
+      - Flowering Deciduous Trees
+        - Blossom Trees
+          - Cherry Tree
+          - Magnolia Tree
+    - Evergreen Trees
+      - Conifer Trees
+        - Needle-Bearing Conifers
+          - Pine Tree
+          - Spruce Tree
+          - Fir Tree
+        - Scale-Leaf Conifers
+          - Cypress Tree
+          - Juniper Tree
+      - Broadleaf Evergreen Trees
+        - Dense Foliage Evergreens
+          - Holly Tree
+          - Live Oak
+  - Shrubs
+    - Flowering Shrubs
+      - Seasonal Flowering Shrubs
+        - Spring Flowering Types
+          - Azalea
+          - Rhododendron
+        - Summer Flowering Types
+          - Hydrangea
+          - Rose Shrub
+      - Fragrant Flowering Shrubs
+        - Scented Ornamental Types
+          - Lilac
+          - Gardenia
+    - Evergreen Shrubs
+      - Compact Evergreen Shrubs
+        - Formal Garden Types
+          - Boxwood
+          - Dwarf Holly
+      - Spreading Evergreen Shrubs
+        - Ground-Covering Shrubs
+          - Creeping Juniper
+          - Wintercreeper
+  - Herbaceous Flowering Plants
+    - Perennials
+      - Upright Perennials
+        - Border Perennials
+          - Coneflower
+          - Delphinium
+        - Shade Perennials
+          - Hosta
+          - Astilbe
+      - Low-Growing Perennials
+        - Ground Layer Perennials
+          - Sedum
+          - Heuchera
+    - Annuals
+      - Bedding Annuals
+        - Color Bedding Types
+          - Petunia
+          - Marigold
+          - Zinnia
+      - Climbing Annuals
+        - Seasonal Vining Types
+          - Morning Glory
+          - Sweet Pea
+
+- Non-Flowering Plants
+  - Conifers and Related Plants
+    - Tall Conifers
+      - Forest Conifer Types
+        - Cold-Climate Conifers
+          - Norway Spruce
+          - Scots Pine
+        - Mountain Conifers
+          - Larch
+          - Silver Fir
+    - Compact Conifers
+      - Ornamental Conifer Types
+        - Dwarf Garden Conifers
+          - Dwarf Pine
+          - Dwarf Spruce
+  - Ferns
+    - Woodland Ferns
+      - Shade-Loving Ferns
+        - Moist Woodland Types
+          - Lady Fern
+          - Wood Fern
+      - Decorative Ferns
+        - Garden Display Types
+          - Japanese Painted Fern
+          - Autumn Fern
+    - Tropical and Large Ferns
+      - Bold Foliage Ferns
+        - Architectural Fern Types
+          - Tree Fern
+          - Bird's Nest Fern
+  - Mosses and Liverworts
+    - Cushion and Carpet Mosses
+      - Forest Floor Mosses
+        - Dense Carpet Types
+          - Sheet Moss
+          - Cushion Moss
+    - Rock and Wall Mosses
+      - Stone Surface Mosses
+        - Moist Surface Types
+          - Rock Moss
+          - Wall Moss
+
+- Aquatic and Wetland Plants
+  - Floating Plants
+    - Free-Floating Plants
+      - Small Floating Species
+        - Surface Mat Types
+          - Duckweed
+          - Water Lettuce
+      - Larger Floating Species
+        - Rosette Floating Types
+          - Water Hyacinth
+          - Floating Fern
+  - Rooted Aquatic Plants
+    - Floating-Leaf Plants
+      - Pond Surface Types
+        - Broad Floating-Leaf Species
+          - Water Lily
+          - Lotus
+    - Submerged and Emergent Plants
+      - Marginal Wetland Types
+        - Reed-Forming Species
+          - Common Reed
+          - Bulrush
+        - Upright Edge Species
+          - Cattail
+          - Sweet Flag
+
+- Vining and Climbing Plants
+  - Twining Climbers
+    - Ornamental Twining Plants
+      - Flowering Twining Types
+        - Fragrant Flowering Climbers
+          - Honeysuckle
+          - Jasmine
+        - Dense Covering Climbers
+          - Wisteria
+          - Morning Glory Vine
+  - Tendril Climbers
+    - Fine-Gripping Climbers
+      - Decorative Tendril Types
+        - Clematis
+        - Passionflower
+  - Self-Clinging Climbers
+    - Surface-Attaching Climbers
+      - Wall-Covering Types
+        - Ivy
+        - Virginia Creeper
+
+## Trees with 7 Levels
+
+### Clothing Types - 7 Levels
+
+Clothing Types
+- Upper Body Clothing
+  - Shirts and Tops
+    - Casual Tops
+      - Short-Sleeve Casual Tops
+        - Basic Knit Tops
+          - Crew Neck Knit Tops
+            - Standard Crew Neck T-Shirt
+            - Relaxed Fit Crew Neck T-Shirt
+          - V-Shaped Neck Knit Tops
+            - V-Neck T-Shirt
+            - Deep V-Neck T-Shirt
+        - Structured Casual Tops
+          - Button-Front Casual Tops
+            - Short-Sleeve Casual Button Shirt
+            - Camp Collar Shirt
+      - Long-Sleeve Casual Tops
+        - Soft Pull-On Tops
+          - Plain Long-Sleeve Tops
+            - Standard Long-Sleeve Shirt
+            - Thermal Long-Sleeve Top
+          - Neck-Defined Tops
+            - Turtleneck Top
+            - Mock Neck Top
+    - Structured Shirts
+      - Formal Shirts
+        - Buttoned Dress Shirts
+          - Classic Dress Shirt Types
+            - Standard Dress Shirt
+            - Spread Collar Dress Shirt
+          - Textured Dress Shirt Types
+            - Oxford Shirt
+            - Twill Dress Shirt
+      - Casual Structured Shirts
+        - Heavier Casual Shirts
+          - Brushed Fabric Shirts
+            - Flannel Shirt
+            - Heavy Overshirt
+          - Utility Casual Shirts
+            - Work Shirt
+            - Pocket Utility Shirt
+  - Sweaters and Knitwear
+    - Lightweight Knitwear
+      - Fine Gauge Knitwear
+        - Pullover Knitwear
+          - Basic Fine Pullovers
+            - Crew Neck Sweater
+            - V-Neck Sweater
+          - Refined Fine Pullovers
+            - Fine Merino Sweater
+            - Fine Knit Mock Neck
+      - Sleeveless Knitwear
+        - Layering Knit Pieces
+          - Vest Types
+            - Knit Vest
+            - Sweater Vest
+    - Heavy Knitwear
+      - Thick Pullovers
+        - Textured Heavy Knitwear
+          - Cable Pattern Knitwear
+            - Cable Knit Sweater
+            - Heavy Cable Pullover
+          - Ribbed Heavy Knitwear
+            - Ribbed Sweater
+            - Chunky Ribbed Pullover
+      - Oversized Knitwear
+        - Relaxed Heavy Knitwear
+          - Loose Silhouette Sweaters
+            - Oversized Pullover
+            - Chunky Knit Sweater
+  - Jackets and Outer Layers
+    - Lightweight Jackets
+      - Casual Light Jackets
+        - Short Casual Jackets
+          - Classic Waist-Length Jackets
+            - Bomber Jacket
+            - Harrington Jacket
+          - Utility Short Jackets
+            - Field Jacket
+            - Shirt Jacket
+      - Weather-Resistant Light Jackets
+        - Wind and Rain Layers
+          - Light Protective Shells
+            - Windbreaker
+            - Packable Rain Jacket
+    - Heavy Outerwear
+      - Insulated Jackets
+        - Quilted Insulated Outerwear
+          - Short Insulated Jackets
+            - Puffer Jacket
+            - Quilted Jacket
+          - Longer Insulated Jackets
+            - Long Puffer Coat
+            - Insulated Parka
+      - Structured Coats
+        - Wool and Tailored Coats
+          - Classic Coat Shapes
+            - Overcoat
+            - Peacoat
+          - Full-Length Coat Shapes
+            - Long Wool Coat
+            - Double-Breasted Coat
+
+- Lower Body Clothing
+  - Trousers and Pants
+    - Casual Pants
+      - Straight and Standard Fits
+        - Everyday Casual Trousers
+          - Clean Casual Styles
+            - Chino Pants
+            - Twill Pants
+          - Utility Casual Styles
+            - Work Pants
+            - Five-Pocket Casual Pants
+      - Relaxed Casual Fits
+        - Loose Utility Styles
+          - Pocketed Relaxed Styles
+            - Cargo Pants
+            - Relaxed Cargo Pants
+          - Soft Casual Styles
+            - Jogger Pants
+            - Drawstring Lounge Pants
+    - Formal Pants
+      - Tailored Formal Trousers
+        - Classic Tailored Fits
+          - Standard Formal Styles
+            - Dress Trousers
+            - Pleated Trousers
+          - Narrow Tailored Fits
+            - Slim Trousers
+            - Tapered Trousers
+  - Denim Clothing
+    - Standard Denim
+      - Straight and Regular Fits
+        - Classic Denim Lines
+          - Standard Straight Styles
+            - Straight Jeans
+            - Regular Fit Jeans
+      - Narrow Denim Fits
+        - Slim Narrow Styles
+          - Fitted Denim Lines
+            - Slim Jeans
+            - Skinny Jeans
+    - Loose and Utility Denim
+      - Relaxed Denim Fits
+        - Wide Casual Styles
+          - Loose Denim Lines
+            - Baggy Jeans
+            - Wide-Leg Jeans
+      - Workwear Denim
+        - Reinforced Utility Styles
+          - Functional Denim Lines
+            - Carpenter Jeans
+            - Utility Jeans
+  - Skirts and Similar Garments
+    - Short Skirts
+      - Fitted Short Skirts
+        - Structured Mini Styles
+          - Basic Short Skirts
+            - Mini Skirt
+            - Denim Mini Skirt
+    - Mid-Length Skirts
+      - Structured Mid-Length Styles
+        - Tailored Mid-Length Skirts
+          - Office and Dress Styles
+            - Pencil Skirt
+            - A-Line Skirt
+    - Long Skirts
+      - Flowing Long Styles
+        - Soft Full-Length Skirts
+          - Extended Hem Styles
+            - Maxi Skirt
+            - Pleated Maxi Skirt
+
+- Full-Body Clothing
+  - Dresses
+    - Casual Dresses
+      - Short Casual Dresses
+        - Simple Casual Shapes
+          - Easy-Wear Dress Styles
+            - T-Shirt Dress
+            - Shift Dress
+      - Mid-Length Casual Dresses
+        - Structured Casual Shapes
+          - Daywear Dress Styles
+            - Shirt Dress
+            - Wrap Dress
+    - Formal Dresses
+      - Short Formal Dresses
+        - Structured Occasion Dresses
+          - Fitted Event Styles
+            - Cocktail Dress
+            - Sheath Dress
+      - Long Formal Dresses
+        - Full-Length Occasion Dresses
+          - Eveningwear Dress Styles
+            - Evening Dress
+            - Column Dress
+            - Gown
+  - One-Piece Garments
+    - Jumpsuits
+      - Casual Jumpsuits
+        - Everyday One-Piece Styles
+          - Relaxed Casual Cuts
+            - Utility Jumpsuit
+            - Sleeveless Jumpsuit
+      - Formal Jumpsuits
+        - Tailored One-Piece Styles
+          - Structured Formal Cuts
+            - Tailored Jumpsuit
+            - Wide-Leg Jumpsuit
+    - Overalls
+      - Work Overalls
+        - Protective Coverage Styles
+          - Full Coverage Utility Pieces
+            - Bib Overall
+            - Coverall
+      - Casual Overalls
+        - Leisure One-Piece Styles
+          - Denim Casual Pieces
+            - Denim Overall
+            - Short Overall
+
+- Specialized Clothing
+  - Sleepwear
+    - Sleep Sets
+      - Coordinated Sleepwear
+        - Matching Top and Bottom Sets
+          - Soft Two-Piece Sets
+            - Two-Piece Pajama Set
+            - Buttoned Pajama Set
+    - Sleep Separates
+      - Sleep Tops
+        - Light Sleep Upper Pieces
+          - Basic Sleep Top Types
+            - Pajama Shirt
+            - Sleep T-Shirt
+      - Sleep Bottoms
+        - Soft Sleep Lower Pieces
+          - Relaxed Sleep Bottom Types
+            - Pajama Pants
+            - Sleep Shorts
+  - Undergarments
+    - Upper Undergarments
+      - Support Layers
+        - Supportive Upper Basewear
+          - Structured Support Types
+            - Bra
+            - Sports Bra
+      - Base Tops
+        - Lightweight Under Layers
+          - Soft Base Top Types
+            - Undershirt
+            - Tank Undershirt
+    - Lower Undergarments
+      - Brief Styles
+        - Close-Fit Base Layers
+          - Basic Brief Types
+            - Briefs
+            - High-Waist Briefs
+      - Short Styles
+        - Extended Base Layers
+          - Short Undergarment Types
+            - Boxer Briefs
+            - Boxers
+  - Performance and Protective Clothing
+    - Athletic Clothing
+      - Training Tops
+        - Performance Upper Layers
+          - Active Top Types
+            - Compression Shirt
+            - Training Jersey
+      - Training Bottoms
+        - Performance Lower Layers
+          - Active Bottom Types
+            - Running Shorts
+            - Track Pants
+    - Protective Outerwear
+      - Weather Protection
+        - Environmental Shield Layers
+          - Protective Shell Types
+            - Raincoat
+            - Waterproof Shell
+      - Visibility Clothing
+        - High-Visibility Layers
+          - Safety Visibility Types
+            - Reflective Vest
+            - High-Visibility Jacket
+
+
+## Trees with 8 Levels
+
+
+
+### Animal Types - 8 Levels
+
+Animal Types
+- Vertebrates
+  - Mammals
+    - Carnivorous Mammals
+      - Feline Mammals
+        - Big Cats
+          - Panthera-Type Cats
+            - Spotted Panthera Cats
+              - Leopard
+              - Jaguar
+            - Striped and Plain Panthera Cats
+              - Tiger
+              - Lion
+          - Non-Panthera Large Cats
+            - Puma-Type Cats
+              - Cougar
+              - Jaguarundi
+        - Small Wild Cats
+          - Forest and Brush Cats
+            - Lynx-Type Cats
+              - Eurasian Lynx
+              - Bobcat
+            - Small Solitary Cats
+              - Ocelot
+              - Serval
+      - Canine Mammals
+        - Wolf and Fox Relatives
+          - Wolf-Type Canids
+            - Pack-Hunting Canids
+              - Gray Wolf
+              - African Wild Dog
+            - Solitary or Paired Canids
+              - Coyote
+              - Golden Jackal
+          - Fox-Type Canids
+            - Small Foxes
+              - Red Fox
+              - Arctic Fox
+            - Desert and Large-Eared Foxes
+              - Fennec Fox
+              - Bat-Eared Fox
+    - Herbivorous Mammals
+      - Hoofed Mammals
+        - Even-Toed Hoofed Mammals
+          - Deer Relatives
+            - Forest Deer
+              - Red Deer
+              - Roe Deer
+            - Large Open-Area Deer
+              - Elk
+              - Reindeer
+          - Bovids
+            - Wild Cattle Relatives
+              - Bison
+              - Yak
+            - Antelope and Goat Relatives
+              - Gazelle
+              - Ibex
+        - Odd-Toed Hoofed Mammals
+          - Horse Relatives
+            - Open-Plain Grazers
+              - Horse
+              - Zebra
+          - Rhinoceros Relatives
+            - Large Browsing Types
+              - White Rhinoceros
+              - Black Rhinoceros
+      - Small Herbivorous Mammals
+        - Rodent Mammals
+          - Tree and Ground Rodents
+            - Tree Rodents
+              - Squirrel
+              - Chipmunk
+            - Ground Rodents
+              - Marmot
+              - Prairie Dog
+          - Burrowing and Water Rodents
+            - Burrowing Rodents
+              - Mole Rat
+              - Pocket Gopher
+            - Semi-Aquatic Rodents
+              - Beaver
+              - Capybara
+        - Lagomorph Mammals
+          - Rabbit Relatives
+            - Small Rabbit Types
+              - Cottontail Rabbit
+              - Pygmy Rabbit
+          - Hare Relatives
+            - Open-Land Hare Types
+              - European Hare
+              - Arctic Hare
+  - Birds
+    - Flying Birds
+      - Perching Birds
+        - Songbird Types
+          - Finch-Like Birds
+            - Seed-Eating Songbirds
+              - Finch
+              - Canary
+            - Small Colorful Songbirds
+              - Goldfinch
+              - Siskin
+          - Crow and Raven Relatives
+            - Medium Corvids
+              - Crow
+              - Magpie
+            - Large Corvids
+              - Raven
+              - Rook
+      - Birds of Prey
+        - Daytime Predators
+          - Falcon Types
+            - Fast Aerial Hunters
+              - Peregrine Falcon
+              - Kestrel
+          - Eagle and Hawk Types
+            - Broad-Wing Hunters
+              - Eagle
+              - Hawk
+            - Forest Ambush Hunters
+              - Sparrowhawk
+              - Goshawk
+    - Flightless and Water-Associated Birds
+      - Water Birds
+        - Surface Water Birds
+          - Duck Relatives
+            - Freshwater Ducks
+              - Mallard
+              - Teal
+            - Diving Ducks
+              - Pochard
+              - Scaup
+          - Swan and Goose Relatives
+            - Large Grazing Water Birds
+              - Swan
+              - Goose
+        - Shore and Wading Birds
+          - Long-Legged Waders
+            - Marsh Waders
+              - Heron
+              - Egret
+      - Flightless Birds
+        - Running Birds
+          - Large Running Birds
+            - Open-Land Runners
+              - Ostrich
+              - Emu
+        - Swimming Flightless Birds
+          - Cold-Region Swimmers
+            - Penguin Types
+              - Emperor Penguin
+              - Adélie Penguin
+  - Reptiles and Amphibians
+    - Reptiles
+      - Lizards and Snakes
+        - Lizard Types
+          - Ground Lizards
+            - Monitor-Type Lizards
+              - Komodo Dragon
+              - Savannah Monitor
+            - Small Agile Lizards
+              - Gecko
+              - Skink
+        - Snake Types
+          - Constricting Snakes
+            - Large Constrictors
+              - Python
+              - Boa
+          - Venomous Snakes
+            - Front-Fanged Snakes
+              - Cobra
+              - Viper
+      - Turtles and Crocodilians
+        - Turtle Types
+          - Land Turtles
+            - Heavy-Shelled Tortoises
+              - Tortoise
+              - Giant Tortoise
+          - Water Turtles
+            - Freshwater Turtles
+              - Pond Turtle
+              - Snapping Turtle
+        - Crocodilian Types
+          - River Predators
+            - Large Aquatic Predators
+              - Crocodile
+              - Alligator
+    - Amphibians
+      - Frogs and Toads
+        - Frog Types
+          - Tree Frogs
+            - Climbing Frog Types
+              - Tree Frog
+              - Glass Frog
+          - Ground and Pond Frogs
+            - Common Pond Frog Types
+              - Bullfrog
+              - Marsh Frog
+        - Toad Types
+          - Dry-Land Toads
+            - Warted Toad Types
+              - Common Toad
+              - Cane Toad
+      - Salamanders and Newts
+        - Salamander Types
+          - Forest Salamanders
+            - Moist-Habitat Types
+              - Fire Salamander
+              - Tiger Salamander
+        - Newt Types
+          - Pond Newts
+            - Small Aquatic Types
+              - Smooth Newt
+              - Great Crested Newt

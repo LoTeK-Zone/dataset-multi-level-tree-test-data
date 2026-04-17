@@ -1,0 +1,100 @@
+/*
+Author: Stephan Kühn (LoTeK)
+Mail: info@lotek-zone.com
+Web: https://lotek-zone.com/
+GitHub: https://github.com/LoTeK-Zone
+Repository: https://github.com/LoTeK-Zone/dataset-multi-level-tree-test-data
+Version: 0.1.0
+Last Updated: 18.04.2026
+License: MIT
+*/
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 16px;
+  background: #ffffff;
+  color: #111111;
+}
+
+.page {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+h1 {
+  margin: 0 0 16px 0;
+  font-size: 24px;
+}
+
+.controls {
+  margin-bottom: 20px;
+  padding: 12px;
+  border: 1px solid #cccccc;
+  background: #f8f8f8;
+}
+
+.controls label,
+.controls input {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.controls input[type="text"] {
+  width: 100%;
+  max-width: 460px;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+.status {
+  font-size: 14px;
+  color: #333333;
+}
+
+.tree-block {
+  margin-bottom: 18px;
+  padding: 12px;
+  border: 1px solid #dddddd;
+  background: #ffffff;
+}
+
+.meta {
+  margin-bottom: 8px;
+  font-size: 13px;
+  color: #555555;
+}
+
+.tree-list,
+.tree-list ul {
+  list-style: none;
+  padding-left: 20px;
+  margin: 4px 0;
+}
+
+.tree-node {
+  display: inline-block;
+  padding: 2px 0;
+}
+
+.tree-name {
+  font-weight: 600;
+  margin-right: 8px;
+}
+
+.tree-info {
+  font-size: 12px;
+  color: #666666;
+}
+
+.hidden {
+  display: none;
+}
+
+pre {
+  white-space: pre-wrap;
+  word-break: break-word;
+  background: #f4f4f4;
+  padding: 12px;
+  border: 1px solid #dddddd;
+}

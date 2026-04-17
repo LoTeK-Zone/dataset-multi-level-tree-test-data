@@ -1,0 +1,4240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exampleTrees>
+  <tree treeId="tree_001" treeSlug="buildings-2-levels" treeName="Buildings" title="Buildings - 2 Levels" depthGroup="Trees with 2 Levels" declaredLevels="2">
+    <node name="Buildings" level="0">
+      <node name="Residential Buildings" level="1">
+        <node name="Single-Family House" level="2"/>
+        <node name="Duplex" level="2"/>
+        <node name="Apartment Building" level="2"/>
+      </node>
+      <node name="Utility Buildings" level="1">
+        <node name="Warehouse" level="2"/>
+        <node name="Workshop" level="2"/>
+        <node name="Office Building" level="2"/>
+      </node>
+      <node name="Transport Structures" level="1">
+        <node name="Bridge" level="2"/>
+        <node name="Tunnel" level="2"/>
+        <node name="Railway Station" level="2"/>
+      </node>
+      <node name="Towers and Tall Structures" level="1">
+        <node name="Observation Tower" level="2"/>
+        <node name="Water Tower" level="2"/>
+        <node name="Lighthouse" level="2"/>
+      </node>
+      <node name="Fortifications" level="1">
+        <node name="City Wall" level="2"/>
+        <node name="Gate Complex" level="2"/>
+        <node name="Fortress" level="2"/>
+      </node>
+      <node name="Special Structures" level="1">
+        <node name="Dome Structure" level="2"/>
+        <node name="Pavilion" level="2"/>
+        <node name="Amphitheater" level="2"/>
+      </node>
+    </node>
+  </tree>
+  <tree treeId="tree_002" treeSlug="celestial-bodies-2-levels" treeName="Celestial Bodies" title="Celestial Bodies - 2 Levels" depthGroup="Trees with 2 Levels" declaredLevels="2">
+    <node name="Celestial Bodies" level="0">
+      <node name="Stars" level="1">
+        <node name="Dwarf Star" level="2"/>
+        <node name="Main-Sequence Star" level="2"/>
+        <node name="Giant Star" level="2"/>
+        <node name="Neutron Star" level="2"/>
+      </node>
+      <node name="Planetary Bodies" level="1">
+        <node name="Rocky Planet" level="2"/>
+        <node name="Gas Planet" level="2"/>
+        <node name="Ice Planet" level="2"/>
+        <node name="Dwarf Planet" level="2"/>
+      </node>
+      <node name="Moons" level="1">
+        <node name="Rocky Moon" level="2"/>
+        <node name="Ice Moon" level="2"/>
+      </node>
+      <node name="Small Bodies" level="1">
+        <node name="Asteroid" level="2"/>
+        <node name="Comet" level="2"/>
+        <node name="Meteoroid" level="2"/>
+        <node name="Meteorite" level="2"/>
+      </node>
+      <node name="Systems and Large Structures" level="1">
+        <node name="Planetary System" level="2"/>
+        <node name="Star Cluster" level="2"/>
+        <node name="Nebula" level="2"/>
+        <node name="Galaxy" level="2"/>
+      </node>
+    </node>
+  </tree>
+  <tree treeId="tree_003" treeSlug="geometric-shapes-and-solids-2-levels" treeName="Geometric Shapes and Solids" title="Geometric Shapes and Solids - 2 Levels" depthGroup="Trees with 2 Levels" declaredLevels="2">
+    <node name="Geometric Shapes and Solids" level="0">
+      <node name="Two-Dimensional Shapes" level="1">
+        <node name="Circle" level="2"/>
+        <node name="Ellipse" level="2"/>
+        <node name="Triangle" level="2"/>
+        <node name="Square" level="2"/>
+        <node name="Rectangle" level="2"/>
+        <node name="Pentagon" level="2"/>
+        <node name="Hexagon" level="2"/>
+      </node>
+      <node name="Lines and Open Forms" level="1">
+        <node name="Line" level="2"/>
+        <node name="Curve" level="2"/>
+        <node name="Angle" level="2"/>
+      </node>
+      <node name="Three-Dimensional Solids" level="1">
+        <node name="Sphere" level="2"/>
+        <node name="Cube" level="2"/>
+        <node name="Cuboid" level="2"/>
+        <node name="Cylinder" level="2"/>
+        <node name="Cone" level="2"/>
+        <node name="Pyramid" level="2"/>
+        <node name="Torus" level="2"/>
+      </node>
+      <node name="Composite Forms" level="1">
+        <node name="Star Shape" level="2"/>
+        <node name="Ring Shape" level="2"/>
+        <node name="Spiral Shape" level="2"/>
+      </node>
+    </node>
+  </tree>
+  <tree treeId="tree_004" treeSlug="mythical-creatures-2-levels" treeName="Mythical Creatures" title="Mythical Creatures - 2 Levels" depthGroup="Trees with 2 Levels" declaredLevels="2">
+    <node name="Mythical Creatures" level="0">
+      <node name="Nocturnal Beings" level="1">
+        <node name="Vampire" level="2"/>
+        <node name="Werewolf" level="2"/>
+        <node name="Ghost" level="2"/>
+        <node name="Shadow Creature" level="2"/>
+      </node>
+      <node name="Dragon-Like Beings" level="1">
+        <node name="Dragon" level="2"/>
+        <node name="Lindworm" level="2"/>
+        <node name="Hydra" level="2"/>
+      </node>
+      <node name="Forest and Nature Beings" level="1">
+        <node name="Elf" level="2"/>
+        <node name="Dryad" level="2"/>
+        <node name="Tree Being" level="2"/>
+        <node name="Forest Spirit" level="2"/>
+      </node>
+      <node name="Hybrid Creatures" level="1">
+        <node name="Centaur" level="2"/>
+        <node name="Minotaur" level="2"/>
+        <node name="Griffin" level="2"/>
+        <node name="Sphinx" level="2"/>
+      </node>
+      <node name="Small Magical Beings" level="1">
+        <node name="Fairy" level="2"/>
+        <node name="Goblin" level="2"/>
+        <node name="Gnome" level="2"/>
+        <node name="Pixie" level="2"/>
+      </node>
+      <node name="Water Beings" level="1">
+        <node name="Mermaid" level="2"/>
+        <node name="Merman" level="2"/>
+        <node name="Nixie" level="2"/>
+      </node>
+    </node>
+  </tree>
+  <tree treeId="tree_005" treeSlug="plant-forms-2-levels" treeName="Plant Forms" title="Plant Forms - 2 Levels" depthGroup="Trees with 2 Levels" declaredLevels="2">
+    <node name="Plant Forms" level="0">
+      <node name="Trees" level="1">
+        <node name="Deciduous Tree" level="2"/>
+        <node name="Conifer" level="2"/>
+        <node name="Fruit Tree" level="2"/>
+      </node>
+      <node name="Shrubs" level="1">
+        <node name="Flowering Shrub" level="2"/>
+        <node name="Berry Shrub" level="2"/>
+        <node name="Evergreen Shrub" level="2"/>
+      </node>
+      <node name="Herbaceous Plants" level="1">
+        <node name="Wild Herb" level="2"/>
+        <node name="Ornamental Plant" level="2"/>
+        <node name="Perennial" level="2"/>
+      </node>
+      <node name="Ground Covers and Low Plants" level="1">
+        <node name="Moss" level="2"/>
+        <node name="Fern" level="2"/>
+        <node name="Ground Cover" level="2"/>
+      </node>
+      <node name="Climbing Plants" level="1">
+        <node name="Vine" level="2"/>
+        <node name="Twining Plant" level="2"/>
+      </node>
+      <node name="Aquatic and Marsh Plants" level="1">
+        <node name="Water Lily" level="2"/>
+        <node name="Reed" level="2"/>
+        <node name="Floating Plant" level="2"/>
+      </node>
+    </node>
+  </tree>
+  <tree treeId="tree_006" treeSlug="tools-2-levels" treeName="Tools" title="Tools - 2 Levels" depthGroup="Trees with 2 Levels" declaredLevels="2">
+    <node name="Tools" level="0">
+      <node name="Striking Tools" level="1">
+        <node name="Hammer" level="2"/>
+        <node name="Rubber Mallet" level="2"/>
+        <node name="Wooden Mallet" level="2"/>
+      </node>
+      <node name="Gripping and Holding Tools" level="1">
+        <node name="Pliers" level="2"/>
+        <node name="Pipe Wrench" level="2"/>
+        <node name="Clamp" level="2"/>
+      </node>
+      <node name="Screw Tools" level="1">
+        <node name="Screwdriver" level="2"/>
+        <node name="Hex Key" level="2"/>
+        <node name="Wrench" level="2"/>
+      </node>
+      <node name="Cutting Tools" level="1">
+        <node name="Knife" level="2"/>
+        <node name="Scissors" level="2"/>
+        <node name="Saw" level="2"/>
+      </node>
+      <node name="Measuring Tools" level="1">
+        <node name="Ruler" level="2"/>
+        <node name="Caliper" level="2"/>
+        <node name="Spirit Level" level="2"/>
+      </node>
+      <node name="Drilling and Turning Tools" level="1">
+        <node name="Hand Drill" level="2"/>
+        <node name="Power Drill" level="2"/>
+        <node name="Brace Drill" level="2"/>
+      </node>
+    </node>
+  </tree>
+  <tree treeId="tree_007" treeSlug="weather-and-natural-phenomena-2-levels" treeName="Weather and Natural Phenomena" title="Weather and Natural Phenomena - 2 Levels" depthGroup="Trees with 2 Levels" declaredLevels="2">
+    <node name="Weather and Natural Phenomena" level="0">
+      <node name="Precipitation" level="1">
+        <node name="Rain" level="2"/>
+        <node name="Drizzle" level="2"/>
+        <node name="Snow" level="2"/>
+        <node name="Graupel" level="2"/>
+        <node name="Hail" level="2"/>
+      </node>
+      <node name="Wind and Air Movement" level="1">
+        <node name="Breeze" level="2"/>
+        <node name="Gust" level="2"/>
+        <node name="Storm" level="2"/>
+        <node name="Hurricane" level="2"/>
+      </node>
+      <node name="Visibility and Atmospheric Phenomena" level="1">
+        <node name="Fog" level="2"/>
+        <node name="Haze" level="2"/>
+        <node name="Rainbow" level="2"/>
+        <node name="Halo" level="2"/>
+      </node>
+      <node name="Thunderstorm Phenomena" level="1">
+        <node name="Lightning" level="2"/>
+        <node name="Thunder" level="2"/>
+        <node name="Storm Cell" level="2"/>
+      </node>
+      <node name="Geological Natural Phenomena" level="1">
+        <node name="Earthquake" level="2"/>
+        <node name="Volcanic Eruption" level="2"/>
+        <node name="Geyser" level="2"/>
+        <node name="Landslide" level="2"/>
+      </node>
+    </node>
+  </tree>
+  <tree treeId="tree_008" treeSlug="cables-and-signal-types-3-levels" treeName="Cables and Signal Types" title="Cables and Signal Types - 3 Levels" depthGroup="Trees with 3 Levels" declaredLevels="3">
+    <node name="Cables and Signal Types" level="0">
+      <node name="Power Cables" level="1">
+        <node name="AC Power Cable" level="2"/>
+        <node name="DC Power Cable" level="2"/>
+        <node name="Internal Power Cable" level="2"/>
+        <node name="Extension Power Cable" level="2"/>
+      </node>
+      <node name="Data Cables" level="1">
+        <node name="USB Cable" level="2"/>
+        <node name="Ethernet Cable" level="2"/>
+        <node name="Serial Data Cable" level="2"/>
+        <node name="Parallel Data Cable" level="2"/>
+      </node>
+      <node name="Video Cables" level="1">
+        <node name="VGA Cable" level="2"/>
+        <node name="DVI Cable" level="2"/>
+        <node name="HDMI Cable" level="2"/>
+        <node name="DisplayPort Cable" level="2"/>
+      </node>
+      <node name="Audio Cables" level="1">
+        <node name="3.5 mm Audio Cable" level="2"/>
+        <node name="RCA Audio Cable" level="2"/>
+        <node name="Optical Audio Cable" level="2"/>
+        <node name="Speaker Cable" level="2"/>
+      </node>
+      <node name="Storage and Internal Cables" level="1">
+        <node name="SATA Cable" level="2"/>
+        <node name="Ribbon Cable" level="2"/>
+        <node name="Front Panel Cable" level="2"/>
+        <node name="Fan Cable" level="2"/>
+      </node>
+      <node name="Fiber and Specialty Cables" level="1">
+        <node name="Fiber Optic Cable" level="2"/>
+        <node name="Coaxial Cable" level="2"/>
+        <node name="Adapter Cable" level="2"/>
+        <node name="Breakout Cable" level="2"/>
+      </node>
+    </node>
+  </tree>
+  <tree treeId="tree_009" treeSlug="computer-ports-and-connectors-3-levels" treeName="Computer Ports and Connectors" title="Computer Ports and Connectors - 3 Levels" depthGroup="Trees with 3 Levels" declaredLevels="3">
+    <node name="Computer Ports and Connectors" level="0">
+      <node name="Data Connectors" level="1">
+        <node name="USB Type-A" level="2"/>
+        <node name="USB Type-C" level="2"/>
+        <node name="Micro-USB" level="2"/>
+        <node name="Mini-USB" level="2"/>
+        <node name="FireWire" level="2"/>
+      </node>
+      <node name="Video Connectors" level="1">
+        <node name="VGA" level="2"/>
+        <node name="DVI" level="2"/>
+        <node name="HDMI" level="2"/>
+        <node name="DisplayPort" level="2"/>
+        <node name="Mini DisplayPort" level="2"/>
+      </node>
+      <node name="Network Connectors" level="1">
+        <node name="Ethernet Port" level="2"/>
+        <node name="Modular Connector" level="2"/>
+        <node name="Fiber Connector" level="2"/>
+        <node name="Coaxial Connector" level="2"/>
+      </node>
+      <node name="Storage Connectors" level="1">
+        <node name="SATA Connector" level="2"/>
+        <node name="eSATA Connector" level="2"/>
+        <node name="M.2 Slot" level="2"/>
+        <node name="U.2 Connector" level="2"/>
+      </node>
+      <node name="Audio Connectors" level="1">
+        <node name="3.5 mm Audio Jack" level="2"/>
+        <node name="6.35 mm Audio Jack" level="2"/>
+        <node name="Optical Audio Port" level="2"/>
+        <node name="RCA Audio Connector" level="2"/>
+      </node>
+      <node name="Legacy and Peripheral Connectors" level="1">
+        <node name="PS/2 Port" level="2"/>
+        <node name="Serial Port" level="2"/>
+        <node name="Parallel Port" level="2"/>
+        <node name="Game Port" level="2"/>
+      </node>
+    </node>
+  </tree>
+  <tree treeId="tree_010" treeSlug="computer-types-3-levels" treeName="Computer Types" title="Computer Types - 3 Levels" depthGroup="Trees with 3 Levels" declaredLevels="3">
+    <node name="Computer Types" level="0">
+      <node name="Personal Computers" level="1">
+        <node name="Desktop Computer" level="2"/>
+        <node name="Tower PC" level="2"/>
+        <node name="Small Form Factor PC" level="2"/>
+        <node name="All-in-One Computer" level="2"/>
+      </node>
+      <node name="Portable Computers" level="1">
+        <node name="Notebook" level="2"/>
+        <node name="Laptop" level="2"/>
+        <node name="Ultrabook" level="2"/>
+        <node name="Convertible Laptop" level="2"/>
+        <node name="Detachable Computer" level="2"/>
+      </node>
+      <node name="Handheld Computing Devices" level="1">
+        <node name="Tablet" level="2"/>
+        <node name="Compact Tablet" level="2"/>
+        <node name="Smartphone" level="2"/>
+        <node name="Foldable Smartphone" level="2"/>
+      </node>
+      <node name="Professional Systems" level="1">
+        <node name="Workstation" level="2"/>
+        <node name="Graphics Workstation" level="2"/>
+        <node name="CAD Workstation" level="2"/>
+        <node name="Scientific Workstation" level="2"/>
+      </node>
+      <node name="Shared and Central Systems" level="1">
+        <node name="Server" level="2"/>
+        <node name="Rack Server" level="2"/>
+        <node name="Blade Server" level="2"/>
+        <node name="Mainframe" level="2"/>
+        <node name="Supercomputer" level="2"/>
+      </node>
+      <node name="Embedded and Specialized Systems" level="1">
+        <node name="Industrial PC" level="2"/>
+        <node name="Panel PC" level="2"/>
+        <node name="Single-Board Computer" level="2"/>
+        <node name="Kiosk Computer" level="2"/>
+        <node name="Point-of-Sale Terminal" level="2"/>
+      </node>
+    </node>
+  </tree>
+  <tree treeId="tree_011" treeSlug="geometric-shapes-and-solids-3-levels" treeName="Geometric Shapes and Solids" title="Geometric Shapes and Solids - 3 Levels" depthGroup="Trees with 3 Levels" declaredLevels="3">
+    <node name="Geometric Shapes and Solids" level="0">
+      <node name="Two-Dimensional Shapes" level="1">
+        <node name="Circle" level="2"/>
+        <node name="Ellipse" level="2"/>
+        <node name="Triangle" level="2"/>
+        <node name="Square" level="2"/>
+        <node name="Rectangle" level="2"/>
+        <node name="Pentagon" level="2"/>
+        <node name="Hexagon" level="2"/>
+      </node>
+      <node name="Lines and Open Forms" level="1">
+        <node name="Line" level="2"/>
+        <node name="Curve" level="2"/>
+        <node name="Angle" level="2"/>
+        <node name="Arc" level="2"/>
+        <node name="Spiral" level="2"/>
+      </node>
+      <node name="Three-Dimensional Solids" level="1">
+        <node name="Sphere" level="2"/>
+        <node name="Cube" level="2"/>
+        <node name="Cuboid" level="2"/>
+        <node name="Cylinder" level="2"/>
+        <node name="Cone" level="2"/>
+        <node name="Pyramid" level="2"/>
+        <node name="Torus" level="2"/>
+      </node>
+      <node name="Composite and Derived Forms" level="1">
+        <node name="Star Shape" level="2"/>
+        <node name="Ring Shape" level="2"/>
+        <node name="Cross Shape" level="2"/>
+        <node name="Wave Form" level="2"/>
+      </node>
+    </node>
+  </tree>
+  <tree treeId="tree_012" treeSlug="rocks-and-minerals-3-levels" treeName="Rocks and Minerals" title="Rocks and Minerals - 3 Levels" depthGroup="Trees with 3 Levels" declaredLevels="3">
+    <node name="Rocks and Minerals" level="0">
+      <node name="Rocks" level="1">
+        <node name="Igneous Rocks" level="2">
+          <node name="Granite" level="3"/>
+          <node name="Basalt" level="3"/>
+          <node name="Obsidian" level="3"/>
+        </node>
+        <node name="Sedimentary Rocks" level="2">
+          <node name="Sandstone" level="3"/>
+          <node name="Limestone" level="3"/>
+          <node name="Conglomerate" level="3"/>
+        </node>
+        <node name="Metamorphic Rocks" level="2">
+          <node name="Marble" level="3"/>
+          <node name="Slate" level="3"/>
+          <node name="Gneiss" level="3"/>
+        </node>
+      </node>
+      <node name="Minerals" level="1">
+        <node name="Silicates" level="2">
+          <node name="Quartz" level="3"/>
+          <node name="Feldspar" level="3"/>
+          <node name="Mica" level="3"/>
+        </node>
+        <node name="Carbonates" level="2">
+          <node name="Calcite" level="3"/>
+          <node name="Dolomite" level="3"/>
+        </node>
+        <node name="Oxides" level="2">
+          <node name="Magnetite" level="3"/>
+          <node name="Hematite" level="3"/>
+        </node>
+        <node name="Sulfates" level="2">
+          <node name="Gypsum" level="3"/>
+        </node>
+      </node>
+    </node>
+  </tree>
+  <tree treeId="tree_013" treeSlug="vehicle-types-3-levels" treeName="Vehicle Types" title="Vehicle Types - 3 Levels" depthGroup="Trees with 3 Levels" declaredLevels="3">
+    <node name="Vehicle Types" level="0">
+      <node name="Road Vehicles" level="1">
+        <node name="Passenger Cars" level="2">
+          <node name="City Car" level="3"/>
+          <node name="Compact Car" level="3"/>
+          <node name="Mid-Size Car" level="3"/>
+          <node name="Sedan" level="3"/>
+          <node name="Station Wagon" level="3"/>
+          <node name="Coupe" level="3"/>
+          <node name="Convertible" level="3"/>
+          <node name="SUV" level="3"/>
+          <node name="Van" level="3"/>
+        </node>
+        <node name="Commercial Vehicles" level="2">
+          <node name="Delivery Van" level="3"/>
+          <node name="Light Truck" level="3"/>
+          <node name="Truck" level="3"/>
+          <node name="Semi-Truck" level="3"/>
+          <node name="Dump Truck" level="3"/>
+          <node name="Tanker Truck" level="3"/>
+        </node>
+        <node name="Two-Wheeled Vehicles" level="2">
+          <node name="Bicycle" level="3"/>
+          <node name="Scooter" level="3"/>
+          <node name="Motorcycle" level="3"/>
+        </node>
+      </node>
+      <node name="Rail Vehicles" level="1">
+        <node name="Urban Rail" level="2">
+          <node name="Tram" level="3"/>
+          <node name="Subway Train" level="3"/>
+        </node>
+        <node name="Mainline Rail" level="2">
+          <node name="Passenger Train" level="3"/>
+          <node name="Freight Train" level="3"/>
+        </node>
+      </node>
+    </node>
+  </tree>
+  <tree treeId="tree_014" treeSlug="buildings-4-levels" treeName="Buildings" title="Buildings - 4 Levels" depthGroup="Trees with 4 Levels" declaredLevels="4">
+    <node name="Buildings" level="0">
+      <node name="Residential Buildings" level="1">
+        <node name="Single-Unit Housing" level="2">
+          <node name="Detached Houses" level="3">
+            <node name="Cottage" level="4"/>
+            <node name="Bungalow" level="4"/>
+            <node name="Villa" level="4"/>
+          </node>
+          <node name="Attached Houses" level="3">
+            <node name="Townhouse" level="4"/>
+            <node name="Row House" level="4"/>
+          </node>
+        </node>
+        <node name="Multi-Unit Housing" level="2">
+          <node name="Low-Rise Residential" level="3">
+            <node name="Duplex" level="4"/>
+            <node name="Triplex" level="4"/>
+            <node name="Courtyard House" level="4"/>
+          </node>
+          <node name="Mid-Rise Residential" level="3">
+            <node name="Apartment Block" level="4"/>
+            <node name="Corner Apartment Building" level="4"/>
+          </node>
+        </node>
+      </node>
+      <node name="Utility Buildings" level="1">
+        <node name="Industrial Buildings" level="2">
+          <node name="Production Facilities" level="3">
+            <node name="Factory Hall" level="4"/>
+            <node name="Assembly Building" level="4"/>
+          </node>
+          <node name="Storage Facilities" level="3">
+            <node name="Warehouse" level="4"/>
+            <node name="Distribution Hall" level="4"/>
+          </node>
+        </node>
+        <node name="Service Buildings" level="2">
+          <node name="Administrative Buildings" level="3">
+            <node name="Office Building" level="4"/>
+            <node name="Municipal Building" level="4"/>
+          </node>
+          <node name="Maintenance Buildings" level="3">
+            <node name="Workshop" level="4"/>
+            <node name="Service Garage" level="4"/>
+          </node>
+        </node>
+      </node>
+      <node name="Transport Structures" level="1">
+        <node name="Bridge Structures" level="2">
+          <node name="Fixed Bridges" level="3">
+            <node name="Beam Bridge" level="4"/>
+            <node name="Arch Bridge" level="4"/>
+          </node>
+          <node name="Movable Bridges" level="3">
+            <node name="Drawbridge" level="4"/>
+            <node name="Swing Bridge" level="4"/>
+          </node>
+        </node>
+        <node name="Tunnel Structures" level="2">
+          <node name="Land Tunnels" level="3">
+            <node name="Road Tunnel" level="4"/>
+            <node name="Rail Tunnel" level="4"/>
+          </node>
+          <node name="Waterway Tunnels" level="3">
+            <node name="Canal Tunnel" level="4"/>
+            <node name="Subaqueous Tunnel" level="4"/>
+          </node>
+        </node>
+      </node>
+      <node name="Towers and Vertical Structures" level="1">
+        <node name="Observation Structures" level="2">
+          <node name="Public Towers" level="3">
+            <node name="Observation Tower" level="4"/>
+            <node name="Viewing Platform Tower" level="4"/>
+          </node>
+          <node name="Landmark Towers" level="3">
+            <node name="Clock Tower" level="4"/>
+            <node name="Bell Tower" level="4"/>
+          </node>
+        </node>
+        <node name="Utility Towers" level="2">
+          <node name="Water Supply Towers" level="3">
+            <node name="Water Tower" level="4"/>
+            <node name="Elevated Tank Tower" level="4"/>
+          </node>
+          <node name="Coastal Towers" level="3">
+            <node name="Lighthouse" level="4"/>
+            <node name="Beacon Tower" level="4"/>
+          </node>
+        </node>
+      </node>
+      <node name="Fortified Structures" level="1">
+        <node name="Defensive Walls" level="2">
+          <node name="Urban Walls" level="3">
+            <node name="City Wall" level="4"/>
+            <node name="Perimeter Wall" level="4"/>
+          </node>
+          <node name="Gate Defenses" level="3">
+            <node name="Gate Complex" level="4"/>
+            <node name="Gate Tower" level="4"/>
+          </node>
+        </node>
+        <node name="Strongholds" level="2">
+          <node name="Enclosed Fortifications" level="3">
+            <node name="Fortress" level="4"/>
+            <node name="Citadel" level="4"/>
+          </node>
+          <node name="Elevated Fortifications" level="3">
+            <node name="Hill Fort" level="4"/>
+            <node name="Watch Fort" level="4"/>
+          </node>
+        </node>
+      </node>
+    </node>
+  </tree>
+  <tree treeId="tree_015" treeSlug="chemical-elements-4-levels" treeName="Chemical Elements" title="Chemical Elements - 4 Levels" depthGroup="Trees with 4 Levels" declaredLevels="4">
+    <node name="Chemical Elements" level="0">
+      <node name="Metals" level="1">
+        <node name="Alkali Metals" level="2">
+          <node name="Light Alkali Metals" level="3">
+            <node name="Lithium" level="4"/>
+            <node name="Sodium" level="4"/>
+            <node name="Potassium" level="4"/>
+          </node>
+          <node name="Heavy Alkali Metals" level="3">
+            <node name="Rubidium" level="4"/>
+            <node name="Cesium" level="4"/>
+            <node name="Francium" level="4"/>
+          </node>
+        </node>
+        <node name="Alkaline Earth Metals" level="2">
+          <node name="Lighter Alkaline Earth Metals" level="3">
+            <node name="Beryllium" level="4"/>
+            <node name="Magnesium" level="4"/>
+            <node name="Calcium" level="4"/>
+          </node>
+          <node name="Heavier Alkaline Earth Metals" level="3">
+            <node name="Strontium" level="4"/>
+            <node name="Barium" level="4"/>
+            <node name="Radium" level="4"/>
+          </node>
+        </node>
+        <node name="Transition Metals" level="2">
+          <node name="Early Transition Metals" level="3">
+            <node name="Scandium" level="4"/>
+            <node name="Titanium" level="4"/>
+            <node name="Vanadium" level="4"/>
+            <node name="Chromium" level="4"/>
+          </node>
+          <node name="Iron Group Metals" level="3">
+            <node name="Manganese" level="4"/>
+            <node name="Iron" level="4"/>
+            <node name="Cobalt" level="4"/>
+            <node name="Nickel" level="4"/>
+          </node>
+          <node name="Coinage and Dense Transition Metals" level="3">
+            <node name="Copper" level="4"/>
+            <node name="Silver" level="4"/>
+            <node name="Gold" level="4"/>
+            <node name="Zinc" level="4"/>
+            <node name="Palladium" level="4"/>
+            <node name="Platinum" level="4"/>
+            <node name="Tungsten" level="4"/>
+            <node name="Mercury" level="4"/>
+          </node>
+        </node>
+        <node name="Post-Transition Metals" level="2">
+          <node name="Light Post-Transition Metals" level="3">
+            <node name="Aluminum" level="4"/>
+            <node name="Gallium" level="4"/>
+            <node name="Indium" level="4"/>
+            <node name="Tin" level="4"/>
+          </node>
+          <node name="Heavy Post-Transition Metals" level="3">
+            <node name="Thallium" level="4"/>
+            <node name="Lead" level="4"/>
+            <node name="Bismuth" level="4"/>
+          </node>
+        </node>
+      </node>
+      <node name="Metalloids" level="1">
+        <node name="Common Metalloids" level="2">
+          <node name="Core Metalloids" level="3">
+            <node name="Boron" level="4"/>
+            <node name="Silicon" level="4"/>
+            <node name="Germanium" level="4"/>
+          </node>
+          <node name="Heavy Metalloids" level="3">
+            <node name="Arsenic" level="4"/>
+            <node name="Antimony" level="4"/>
+            <node name="Tellurium" level="4"/>
+          </node>
+        </node>
+        <node name="Borderline Classifications" level="2">
+          <node name="Frequently Included Borderline Elements" level="3">
+            <node name="Polonium" level="4"/>
+            <node name="Astatine" level="4"/>
+          </node>
+        </node>
+      </node>
+      <node name="Nonmetals" level="1">
+        <node name="Reactive Nonmetals" level="2">
+          <node name="Hydrogen" level="3">
+            <node name="Single Reactive Nonmetal" level="4">
+              <node name="Hydrogen" level="5"/>
+            </node>
+          </node>
+          <node name="Carbon Group Nonmetals" level="3">
+            <node name="Structural Nonmetals" level="4">
+              <node name="Carbon" level="5"/>
+            </node>
+          </node>
+          <node name="Nitrogen Group Nonmetals" level="3">
+            <node name="Atmospheric Nonmetals" level="4">
+              <node name="Nitrogen" level="5"/>
+              <node name="Phosphorus" level="5"/>
+            </node>
+          </node>
+          <node name="Oxygen Group Nonmetals" level="3">
+            <node name="Life-Related Nonmetals" level="4">
+              <node name="Oxygen" level="5"/>
+              <node name="Sulfur" level="5"/>
+              <node name="Selenium" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Halogens" level="2">
+          <node name="Light Halogens" level="3">
+            <node name="Highly Reactive Halogens" level="4">
+              <node name="Fluorine" level="5"/>
+              <node name="Chlorine" level="5"/>
+            </node>
+          </node>
+          <node name="Heavy Halogens" level="3">
+            <node name="Dense Halogens" level="4">
+              <node name="Bromine" level="5"/>
+              <node name="Iodine" level="5"/>
+              <node name="Astatine" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Noble Gases" level="2">
+          <node name="Lighter Noble Gases" level="3">
+            <node name="Low-Mass Noble Gases" level="4">
+              <node name="Helium" level="5"/>
+              <node name="Neon" level="5"/>
+              <node name="Argon" level="5"/>
+            </node>
+          </node>
+          <node name="Heavier Noble Gases" level="3">
+            <node name="Dense Noble Gases" level="4">
+              <node name="Krypton" level="5"/>
+              <node name="Xenon" level="5"/>
+              <node name="Radon" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Inner Transition Elements" level="1">
+        <node name="Lanthanides" level="2">
+          <node name="Early Lanthanides" level="3">
+            <node name="Light Rare Earths" level="4">
+              <node name="Lanthanum" level="5"/>
+              <node name="Cerium" level="5"/>
+              <node name="Praseodymium" level="5"/>
+              <node name="Neodymium" level="5"/>
+            </node>
+          </node>
+          <node name="Middle and Heavy Lanthanides" level="3">
+            <node name="Heavy Rare Earths" level="4">
+              <node name="Samarium" level="5"/>
+              <node name="Europium" level="5"/>
+              <node name="Gadolinium" level="5"/>
+              <node name="Terbium" level="5"/>
+              <node name="Dysprosium" level="5"/>
+              <node name="Holmium" level="5"/>
+              <node name="Erbium" level="5"/>
+              <node name="Thulium" level="5"/>
+              <node name="Ytterbium" level="5"/>
+              <node name="Lutetium" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Actinides" level="2">
+          <node name="Early Actinides" level="3">
+            <node name="Naturally Occurring Heavy Elements" level="4">
+              <node name="Actinium" level="5"/>
+              <node name="Thorium" level="5"/>
+              <node name="Protactinium" level="5"/>
+              <node name="Uranium" level="5"/>
+            </node>
+          </node>
+          <node name="Later Actinides" level="3">
+            <node name="Heavier Actinides" level="4">
+              <node name="Neptunium" level="5"/>
+              <node name="Plutonium" level="5"/>
+              <node name="Americium" level="5"/>
+              <node name="Curium" level="5"/>
+              <node name="Berkelium" level="5"/>
+              <node name="Californium" level="5"/>
+              <node name="Einsteinium" level="5"/>
+              <node name="Fermium" level="5"/>
+              <node name="Mendelevium" level="5"/>
+              <node name="Nobelium" level="5"/>
+              <node name="Lawrencium" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </tree>
+  <tree treeId="tree_016" treeSlug="computer-types-4-levels" treeName="Computer Types" title="Computer Types - 4 Levels" depthGroup="Trees with 4 Levels" declaredLevels="4">
+    <node name="Computer Types" level="0">
+      <node name="Personal Computers" level="1">
+        <node name="Stationary Personal Computers" level="2">
+          <node name="Standard Desktop Systems" level="3">
+            <node name="Desktop Computer" level="4"/>
+            <node name="Tower PC" level="4"/>
+            <node name="Small Form Factor PC" level="4"/>
+          </node>
+          <node name="Integrated Desktop Systems" level="3">
+            <node name="All-in-One Computer" level="4"/>
+            <node name="Mini Desktop Computer" level="4"/>
+          </node>
+        </node>
+        <node name="Portable Personal Computers" level="2">
+          <node name="Folding Portable Systems" level="3">
+            <node name="Notebook" level="4"/>
+            <node name="Laptop" level="4"/>
+            <node name="Ultrabook" level="4"/>
+          </node>
+          <node name="Detachable and Convertible Systems" level="3">
+            <node name="Convertible Laptop" level="4"/>
+            <node name="Detachable Computer" level="4"/>
+            <node name="Two-in-One Device" level="4"/>
+          </node>
+        </node>
+        <node name="Handheld Personal Devices" level="2">
+          <node name="Touch-Based Mobile Systems" level="3">
+            <node name="Tablet" level="4"/>
+            <node name="Compact Tablet" level="4"/>
+            <node name="Large Tablet" level="4"/>
+          </node>
+          <node name="Phone-Based Smart Devices" level="3">
+            <node name="Smartphone" level="4"/>
+            <node name="Rugged Smartphone" level="4"/>
+            <node name="Foldable Smartphone" level="4"/>
+          </node>
+        </node>
+      </node>
+      <node name="Professional and Workstation Computers" level="1">
+        <node name="Technical Workstations" level="2">
+          <node name="Engineering and Design Systems" level="3">
+            <node name="CAD Workstation" level="4"/>
+            <node name="Graphics Workstation" level="4"/>
+            <node name="Scientific Workstation" level="4"/>
+          </node>
+        </node>
+        <node name="Business Workstations" level="2">
+          <node name="Secure Productivity Systems" level="3">
+            <node name="Office Workstation" level="4"/>
+            <node name="Financial Workstation" level="4"/>
+            <node name="Multi-Monitor Workstation" level="4"/>
+          </node>
+        </node>
+      </node>
+      <node name="Shared and Multi-User Computers" level="1">
+        <node name="Centralized Business Systems" level="2">
+          <node name="Enterprise Computing Systems" level="3">
+            <node name="Server" level="4"/>
+            <node name="Rack Server" level="4"/>
+            <node name="Blade Server" level="4"/>
+          </node>
+          <node name="High-Reliability Systems" level="3">
+            <node name="Mainframe" level="4"/>
+            <node name="Fault-Tolerant System" level="4"/>
+          </node>
+        </node>
+        <node name="Large-Scale Computing Systems" level="2">
+          <node name="Performance Clusters" level="3">
+            <node name="Compute Node" level="4"/>
+            <node name="Cluster Server" level="4"/>
+          </node>
+          <node name="Supercomputing Systems" level="3">
+            <node name="Supercomputer" level="4"/>
+            <node name="Parallel Processing System" level="4"/>
+          </node>
+        </node>
+      </node>
+      <node name="Embedded and Specialized Computers" level="1">
+        <node name="Control and Industrial Systems" level="2">
+          <node name="Industrial Computing Units" level="3">
+            <node name="Industrial PC" level="4"/>
+            <node name="Panel PC" level="4"/>
+            <node name="Embedded Controller" level="4"/>
+          </node>
+        </node>
+        <node name="Single-Board and Compact Systems" level="2">
+          <node name="Small Development Systems" level="3">
+            <node name="Single-Board Computer" level="4"/>
+            <node name="Compact Embedded Computer" level="4"/>
+            <node name="Edge Device" level="4"/>
+          </node>
+        </node>
+        <node name="Dedicated Device Computers" level="2">
+          <node name="Application-Specific Units" level="3">
+            <node name="Kiosk Computer" level="4"/>
+            <node name="Point-of-Sale Terminal" level="4"/>
+            <node name="Automotive Computer" level="4"/>
+          </node>
+        </node>
+      </node>
+    </node>
+  </tree>
+  <tree treeId="tree_017" treeSlug="hi-fi-devices-4-levels" treeName="Hi-Fi Devices" title="Hi-Fi Devices - 4 Levels" depthGroup="Trees with 4 Levels" declaredLevels="4">
+    <node name="Hi-Fi Devices" level="0">
+      <node name="Source Devices" level="1">
+        <node name="Analog Source Devices" level="2">
+          <node name="Disc Playback Devices" level="3">
+            <node name="Turntable" level="4"/>
+            <node name="Automatic Turntable" level="4"/>
+            <node name="Manual Turntable" level="4"/>
+          </node>
+          <node name="Tape Playback Devices" level="3">
+            <node name="Cassette Deck" level="4"/>
+            <node name="Reel-to-Reel Recorder" level="4"/>
+            <node name="Portable Cassette Player" level="4"/>
+          </node>
+        </node>
+        <node name="Digital Source Devices" level="2">
+          <node name="Optical Disc Players" level="3">
+            <node name="CD Player" level="4"/>
+            <node name="Portable CD Player" level="4"/>
+            <node name="DVD Audio Player" level="4"/>
+          </node>
+          <node name="File and Signal Players" level="3">
+            <node name="Digital Audio Player" level="4"/>
+            <node name="Network Audio Player" level="4"/>
+            <node name="Media Streamer" level="4"/>
+          </node>
+        </node>
+        <node name="Radio Reception Devices" level="2">
+          <node name="Broadcast Tuners" level="3">
+            <node name="AM Tuner" level="4"/>
+            <node name="FM Tuner" level="4"/>
+            <node name="Digital Radio Tuner" level="4"/>
+          </node>
+          <node name="Integrated Radio Units" level="3">
+            <node name="Table Radio" level="4"/>
+            <node name="Portable Radio" level="4"/>
+            <node name="Hi-Fi Tuner Unit" level="4"/>
+          </node>
+        </node>
+      </node>
+      <node name="Amplification Devices" level="1">
+        <node name="Pre-Amplification Units" level="2">
+          <node name="Signal Control Units" level="3">
+            <node name="Preamplifier" level="4"/>
+            <node name="Phono Preamplifier" level="4"/>
+            <node name="Tone Control Unit" level="4"/>
+          </node>
+        </node>
+        <node name="Power Amplification Units" level="2">
+          <node name="Stereo Power Units" level="3">
+            <node name="Stereo Power Amplifier" level="4"/>
+            <node name="Dual Mono Amplifier" level="4"/>
+          </node>
+          <node name="High-Power Units" level="3">
+            <node name="Monoblock Amplifier" level="4"/>
+            <node name="Multi-Channel Power Amplifier" level="4"/>
+          </node>
+        </node>
+        <node name="Integrated Amplification Units" level="2">
+          <node name="Combined Amplifier Systems" level="3">
+            <node name="Integrated Amplifier" level="4"/>
+            <node name="Stereo Receiver" level="4"/>
+            <node name="AV Receiver" level="4"/>
+          </node>
+        </node>
+      </node>
+      <node name="Speaker Systems" level="1">
+        <node name="Passive Speaker Systems" level="2">
+          <node name="Home Listening Speakers" level="3">
+            <node name="Bookshelf Speaker" level="4"/>
+            <node name="Floorstanding Speaker" level="4"/>
+            <node name="Center Speaker" level="4"/>
+          </node>
+          <node name="Special Purpose Speakers" level="3">
+            <node name="Surround Speaker" level="4"/>
+            <node name="Outdoor Speaker" level="4"/>
+          </node>
+        </node>
+        <node name="Active Speaker Systems" level="2">
+          <node name="Powered Stereo Speakers" level="3">
+            <node name="Desktop Active Speaker" level="4"/>
+            <node name="Studio Active Speaker" level="4"/>
+          </node>
+          <node name="Enhanced Low-End Systems" level="3">
+            <node name="Subwoofer" level="4"/>
+            <node name="Active Subwoofer" level="4"/>
+          </node>
+        </node>
+      </node>
+      <node name="Recording and Processing Devices" level="1">
+        <node name="Analog Recording Devices" level="2">
+          <node name="Tape Recording Units" level="3">
+            <node name="Cassette Recorder" level="4"/>
+            <node name="Reel-to-Reel Recorder" level="4"/>
+          </node>
+        </node>
+        <node name="Digital Recording Devices" level="2">
+          <node name="Disc and File Recorders" level="3">
+            <node name="MiniDisc Recorder" level="4"/>
+            <node name="Digital Audio Recorder" level="4"/>
+            <node name="Hard Disk Recorder" level="4"/>
+          </node>
+        </node>
+        <node name="Signal Processing Units" level="2">
+          <node name="Sound Adjustment Units" level="3">
+            <node name="Equalizer" level="4"/>
+            <node name="Graphic Equalizer" level="4"/>
+            <node name="Digital Signal Processor" level="4"/>
+          </node>
+        </node>
+      </node>
+      <node name="Portable Audio Devices" level="1">
+        <node name="Personal Listening Devices" level="2">
+          <node name="Portable Playback Units" level="3">
+            <node name="Portable Cassette Player" level="4"/>
+            <node name="Portable CD Player" level="4"/>
+            <node name="Portable Digital Audio Player" level="4"/>
+          </node>
+        </node>
+        <node name="Portable Radio and Combo Units" level="2">
+          <node name="Compact Portable Units" level="3">
+            <node name="Boombox" level="4"/>
+            <node name="Clock Radio" level="4"/>
+            <node name="Portable Stereo Unit" level="4"/>
+          </node>
+        </node>
+      </node>
+    </node>
+  </tree>
+  <tree treeId="tree_018" treeSlug="landscape-forms-4-levels" treeName="Landscape Forms" title="Landscape Forms - 4 Levels" depthGroup="Trees with 4 Levels" declaredLevels="4">
+    <node name="Landscape Forms" level="0">
+      <node name="Elevated Landforms" level="1">
+        <node name="Mountain Landforms" level="2">
+          <node name="High Mountain Types" level="3">
+            <node name="Alpine Mountain" level="4"/>
+            <node name="Glaciated Peak" level="4"/>
+            <node name="Rocky Summit" level="4"/>
+          </node>
+          <node name="Volcanic Mountain Types" level="3">
+            <node name="Stratovolcano" level="4"/>
+            <node name="Shield Volcano" level="4"/>
+            <node name="Volcanic Cone" level="4"/>
+          </node>
+        </node>
+        <node name="Hill Landforms" level="2">
+          <node name="Rounded Hill Types" level="3">
+            <node name="Rolling Hill" level="4"/>
+            <node name="Dome Hill" level="4"/>
+          </node>
+          <node name="Steep Hill Types" level="3">
+            <node name="Ridge Hill" level="4"/>
+            <node name="Knoll" level="4"/>
+          </node>
+        </node>
+      </node>
+      <node name="Flat and Gently Sloping Landforms" level="1">
+        <node name="Plains" level="2">
+          <node name="Broad Plain Types" level="3">
+            <node name="Grass Plain" level="4"/>
+            <node name="Alluvial Plain" level="4"/>
+            <node name="Coastal Plain" level="4"/>
+          </node>
+          <node name="Elevated Plain Types" level="3">
+            <node name="Plateau Plain" level="4"/>
+            <node name="Steppe Plain" level="4"/>
+          </node>
+        </node>
+        <node name="Plateaus and Tablelands" level="2">
+          <node name="Flat Elevated Landforms" level="3">
+            <node name="Plateau" level="4"/>
+            <node name="Mesa" level="4"/>
+            <node name="Tableland" level="4"/>
+          </node>
+          <node name="Eroded Elevated Landforms" level="3">
+            <node name="Butte" level="4"/>
+            <node name="Escarpment" level="4"/>
+          </node>
+        </node>
+      </node>
+      <node name="Depressed and Enclosed Landforms" level="1">
+        <node name="Valley Landforms" level="2">
+          <node name="River Valley Types" level="3">
+            <node name="Narrow River Valley" level="4"/>
+            <node name="Broad River Valley" level="4"/>
+            <node name="Floodplain Valley" level="4"/>
+          </node>
+          <node name="Glacial Valley Types" level="3">
+            <node name="U-Shaped Valley" level="4"/>
+            <node name="Hanging Valley" level="4"/>
+          </node>
+        </node>
+        <node name="Basin and Depression Landforms" level="2">
+          <node name="Closed Basin Types" level="3">
+            <node name="Desert Basin" level="4"/>
+            <node name="Inland Basin" level="4"/>
+          </node>
+          <node name="Surface Depression Types" level="3">
+            <node name="Sinkhole Basin" level="4"/>
+            <node name="Tectonic Depression" level="4"/>
+          </node>
+        </node>
+      </node>
+      <node name="Water-Influenced Landforms" level="1">
+        <node name="Coastal Landforms" level="2">
+          <node name="Shoreline Forms" level="3">
+            <node name="Beach" level="4"/>
+            <node name="Sand Spit" level="4"/>
+            <node name="Coastal Dune" level="4"/>
+          </node>
+          <node name="Rocky Coastal Forms" level="3">
+            <node name="Sea Cliff" level="4"/>
+            <node name="Headland" level="4"/>
+            <node name="Sea Stack" level="4"/>
+          </node>
+        </node>
+        <node name="River and Lake Landforms" level="2">
+          <node name="River Edge Forms" level="3">
+            <node name="Riverbank" level="4"/>
+            <node name="Delta" level="4"/>
+            <node name="Meander Bend" level="4"/>
+          </node>
+          <node name="Lake Edge Forms" level="3">
+            <node name="Lakeshore" level="4"/>
+            <node name="Marsh Edge" level="4"/>
+            <node name="Lagoon Margin" level="4"/>
+          </node>
+        </node>
+      </node>
+    </node>
+  </tree>
+  <tree treeId="tree_019" treeSlug="machines-and-mechanical-components-4-levels" treeName="Machines and Mechanical Components" title="Machines and Mechanical Components - 4 Levels" depthGroup="Trees with 4 Levels" declaredLevels="4">
+    <node name="Machines and Mechanical Components" level="0">
+      <node name="Power Transmission Components" level="1">
+        <node name="Rotating Transmission Components" level="2">
+          <node name="Shaft Components" level="3">
+            <node name="Plain Shaft Elements" level="4">
+              <node name="Drive Shaft" level="5"/>
+              <node name="Line Shaft" level="5"/>
+            </node>
+            <node name="Mounted Shaft Elements" level="4">
+              <node name="Spindle" level="5"/>
+              <node name="Axle" level="5"/>
+            </node>
+          </node>
+          <node name="Coupling Components" level="3">
+            <node name="Flexible Couplings" level="4">
+              <node name="Jaw Coupling" level="5"/>
+              <node name="Oldham Coupling" level="5"/>
+            </node>
+            <node name="Rigid Couplings" level="4">
+              <node name="Sleeve Coupling" level="5"/>
+              <node name="Flange Coupling" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Speed and Torque Conversion Components" level="2">
+          <node name="Gear Components" level="3">
+            <node name="Spur Gear Systems" level="4">
+              <node name="Spur Gear" level="5"/>
+              <node name="Gear Pair" level="5"/>
+            </node>
+            <node name="Angular Gear Systems" level="4">
+              <node name="Bevel Gear" level="5"/>
+              <node name="Worm Gear" level="5"/>
+            </node>
+            <node name="Planetary Gear Systems" level="4">
+              <node name="Sun Gear Set" level="5"/>
+              <node name="Planetary Gear Unit" level="5"/>
+            </node>
+          </node>
+          <node name="Belt and Chain Drives" level="3">
+            <node name="Belt Drive Components" level="4">
+              <node name="Pulley" level="5"/>
+              <node name="V-Belt" level="5"/>
+              <node name="Timing Belt" level="5"/>
+            </node>
+            <node name="Chain Drive Components" level="4">
+              <node name="Roller Chain" level="5"/>
+              <node name="Sprocket" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Motion Control Components" level="1">
+        <node name="Linear Motion Components" level="2">
+          <node name="Guiding Components" level="3">
+            <node name="Sliding Guides" level="4">
+              <node name="Slide Rail" level="5"/>
+              <node name="Dovetail Guide" level="5"/>
+            </node>
+            <node name="Rolling Guides" level="4">
+              <node name="Linear Bearing" level="5"/>
+              <node name="Ball Guide Rail" level="5"/>
+            </node>
+          </node>
+          <node name="Actuation Components" level="3">
+            <node name="Screw-Based Actuators" level="4">
+              <node name="Lead Screw" level="5"/>
+              <node name="Ball Screw" level="5"/>
+            </node>
+            <node name="Fluid Actuators" level="4">
+              <node name="Hydraulic Cylinder" level="5"/>
+              <node name="Pneumatic Cylinder" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Rotary Motion Components" level="2">
+          <node name="Support Components" level="3">
+            <node name="Bearing Units" level="4">
+              <node name="Ball Bearing" level="5"/>
+              <node name="Roller Bearing" level="5"/>
+            </node>
+            <node name="Mounted Bearing Units" level="4">
+              <node name="Pillow Block Bearing" level="5"/>
+              <node name="Flange Bearing" level="5"/>
+            </node>
+          </node>
+          <node name="Positioning Components" level="3">
+            <node name="Indexing Components" level="4">
+              <node name="Indexing Table" level="5"/>
+              <node name="Rotary Stage" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Fluid and Pressure Components" level="1">
+        <node name="Pumping Components" level="2">
+          <node name="Positive Displacement Pumps" level="3">
+            <node name="Reciprocating Pumps" level="4">
+              <node name="Piston Pump" level="5"/>
+              <node name="Diaphragm Pump" level="5"/>
+            </node>
+            <node name="Rotary Pumps" level="4">
+              <node name="Gear Pump" level="5"/>
+              <node name="Vane Pump" level="5"/>
+            </node>
+          </node>
+          <node name="Dynamic Pumps" level="3">
+            <node name="Centrifugal Pumps" level="4">
+              <node name="Single-Stage Centrifugal Pump" level="5"/>
+              <node name="Multi-Stage Centrifugal Pump" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Valve and Control Components" level="2">
+          <node name="Shut-Off Valves" level="3">
+            <node name="Manual Shut-Off Valves" level="4">
+              <node name="Ball Valve" level="5"/>
+              <node name="Gate Valve" level="5"/>
+            </node>
+            <node name="Regulating Valves" level="4">
+              <node name="Needle Valve" level="5"/>
+              <node name="Globe Valve" level="5"/>
+            </node>
+          </node>
+          <node name="Directional and Pressure Controls" level="3">
+            <node name="Pressure Control Devices" level="4">
+              <node name="Pressure Regulator" level="5"/>
+              <node name="Relief Valve" level="5"/>
+            </node>
+            <node name="Flow Direction Devices" level="4">
+              <node name="Check Valve" level="5"/>
+              <node name="Directional Control Valve" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Structural and Support Components" level="1">
+        <node name="Fastening Components" level="2">
+          <node name="Threaded Fasteners" level="3">
+            <node name="External Thread Fasteners" level="4">
+              <node name="Bolt" level="5"/>
+              <node name="Stud" level="5"/>
+            </node>
+            <node name="Internal Thread Fasteners" level="4">
+              <node name="Nut" level="5"/>
+              <node name="Threaded Insert" level="5"/>
+            </node>
+          </node>
+          <node name="Non-Threaded Fasteners" level="3">
+            <node name="Permanent Fasteners" level="4">
+              <node name="Rivet" level="5"/>
+              <node name="Dowel Pin" level="5"/>
+            </node>
+            <node name="Retaining Fasteners" level="4">
+              <node name="Circlip" level="5"/>
+              <node name="Cotter Pin" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Frame and Mounting Components" level="2">
+          <node name="Machine Frames" level="3">
+            <node name="Rigid Support Frames" level="4">
+              <node name="Base Frame" level="5"/>
+              <node name="Welded Frame" level="5"/>
+            </node>
+            <node name="Modular Support Frames" level="4">
+              <node name="Profile Frame" level="5"/>
+              <node name="Machine Stand" level="5"/>
+            </node>
+          </node>
+          <node name="Mounting Elements" level="3">
+            <node name="Vibration Control Elements" level="4">
+              <node name="Rubber Mount" level="5"/>
+              <node name="Spring Isolator" level="5"/>
+            </node>
+            <node name="Alignment Elements" level="4">
+              <node name="Shim" level="5"/>
+              <node name="Spacer" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Complete Machine Types" level="1">
+        <node name="Material Removal Machines" level="2">
+          <node name="Cutting Machines" level="3">
+            <node name="Turning Machines" level="4">
+              <node name="Lathe" level="5"/>
+              <node name="CNC Lathe" level="5"/>
+            </node>
+            <node name="Milling Machines" level="4">
+              <node name="Vertical Mill" level="5"/>
+              <node name="CNC Milling Machine" level="5"/>
+            </node>
+            <node name="Grinding Machines" level="4">
+              <node name="Surface Grinder" level="5"/>
+              <node name="Cylindrical Grinder" level="5"/>
+            </node>
+          </node>
+          <node name="Drilling and Boring Machines" level="3">
+            <node name="Holemaking Machines" level="4">
+              <node name="Drill Press" level="5"/>
+              <node name="Radial Drill" level="5"/>
+            </node>
+            <node name="Precision Enlargement Machines" level="4">
+              <node name="Boring Machine" level="5"/>
+              <node name="Jig Borer" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Material Forming and Handling Machines" level="2">
+          <node name="Forming Machines" level="3">
+            <node name="Press Systems" level="4">
+              <node name="Hydraulic Press" level="5"/>
+              <node name="Mechanical Press" level="5"/>
+            </node>
+            <node name="Rolling and Bending Systems" level="4">
+              <node name="Plate Roller" level="5"/>
+              <node name="Tube Bender" level="5"/>
+            </node>
+          </node>
+          <node name="Handling Machines" level="3">
+            <node name="Lifting Systems" level="4">
+              <node name="Hoist" level="5"/>
+              <node name="Winch" level="5"/>
+            </node>
+            <node name="Conveying Systems" level="4">
+              <node name="Belt Conveyor" level="5"/>
+              <node name="Roller Conveyor" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </tree>
+  <tree treeId="tree_020" treeSlug="tools-and-equipment-4-levels" treeName="Tools and Equipment" title="Tools and Equipment - 4 Levels" depthGroup="Trees with 4 Levels" declaredLevels="4">
+    <node name="Tools and Equipment" level="0">
+      <node name="Hand Tools" level="1">
+        <node name="Cutting Hand Tools" level="2">
+          <node name="Saws" level="3">
+            <node name="Wood Saws" level="4">
+              <node name="Hand Saw" level="5"/>
+              <node name="Back Saw" level="5"/>
+              <node name="Coping Saw" level="5"/>
+            </node>
+            <node name="Metal Saws" level="4">
+              <node name="Hacksaw" level="5"/>
+              <node name="Junior Hacksaw" level="5"/>
+            </node>
+          </node>
+          <node name="Edge Cutting Tools" level="3">
+            <node name="Knife Tools" level="4">
+              <node name="Utility Knife" level="5"/>
+              <node name="Craft Knife" level="5"/>
+            </node>
+            <node name="Shearing Tools" level="4">
+              <node name="Scissors" level="5"/>
+              <node name="Tin Snips" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Striking Hand Tools" level="2">
+          <node name="Hammers" level="3">
+            <node name="General Hammers" level="4">
+              <node name="Claw Hammer" level="5"/>
+              <node name="Ball Peen Hammer" level="5"/>
+            </node>
+            <node name="Soft-Face Hammers" level="4">
+              <node name="Rubber Mallet" level="5"/>
+              <node name="Wooden Mallet" level="5"/>
+            </node>
+          </node>
+          <node name="Chiseling Tools" level="3">
+            <node name="Chisel Sets" level="4">
+              <node name="Wood Chisel" level="5"/>
+              <node name="Cold Chisel" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Gripping and Turning Hand Tools" level="2">
+          <node name="Pliers" level="3">
+            <node name="General Pliers" level="4">
+              <node name="Combination Pliers" level="5"/>
+              <node name="Long-Nose Pliers" level="5"/>
+            </node>
+            <node name="Cutting Pliers" level="4">
+              <node name="Diagonal Cutter" level="5"/>
+              <node name="End Cutter" level="5"/>
+            </node>
+          </node>
+          <node name="Wrenches and Keys" level="3">
+            <node name="Fixed-Size Wrenches" level="4">
+              <node name="Open-End Wrench" level="5"/>
+              <node name="Ring Wrench" level="5"/>
+            </node>
+            <node name="Adjustable Tools" level="4">
+              <node name="Adjustable Wrench" level="5"/>
+              <node name="Pipe Wrench" level="5"/>
+            </node>
+            <node name="Hex Tools" level="4">
+              <node name="Hex Key" level="5"/>
+              <node name="T-Handle Hex Key" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Measuring and Marking Equipment" level="1">
+        <node name="Linear Measuring Tools" level="2">
+          <node name="Short Measuring Tools" level="3">
+            <node name="Bench Measuring Tools" level="4">
+              <node name="Ruler" level="5"/>
+              <node name="Caliper" level="5"/>
+            </node>
+            <node name="Flexible Measuring Tools" level="4">
+              <node name="Tape Measure" level="5"/>
+              <node name="Sewing Tape" level="5"/>
+            </node>
+          </node>
+          <node name="Alignment Measuring Tools" level="3">
+            <node name="Leveling Tools" level="4">
+              <node name="Spirit Level" level="5"/>
+              <node name="Line Level" level="5"/>
+            </node>
+            <node name="Precision Checking Tools" level="4">
+              <node name="Feeler Gauge" level="5"/>
+              <node name="Square" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Marking Tools" level="2">
+          <node name="Surface Marking Tools" level="3">
+            <node name="General Markers" level="4">
+              <node name="Carpenter Pencil" level="5"/>
+              <node name="Chalk Marker" level="5"/>
+            </node>
+            <node name="Precision Markers" level="4">
+              <node name="Scriber" level="5"/>
+              <node name="Center Punch" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Power Tools" level="1">
+        <node name="Drilling and Driving Tools" level="2">
+          <node name="Electric Drills" level="3">
+            <node name="General Drills" level="4">
+              <node name="Corded Drill" level="5"/>
+              <node name="Cordless Drill" level="5"/>
+            </node>
+            <node name="Impact Tools" level="4">
+              <node name="Impact Driver" level="5"/>
+              <node name="Hammer Drill" level="5"/>
+            </node>
+          </node>
+          <node name="Fastening Tools" level="3">
+            <node name="Screwdriving Systems" level="4">
+              <node name="Power Screwdriver" level="5"/>
+              <node name="Drywall Screw Gun" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Cutting Power Tools" level="2">
+          <node name="Circular Cutting Tools" level="3">
+            <node name="Wood Cutting Saws" level="4">
+              <node name="Circular Saw" level="5"/>
+              <node name="Plunge Saw" level="5"/>
+            </node>
+            <node name="Metal and Masonry Cutting Tools" level="4">
+              <node name="Cut-Off Saw" level="5"/>
+              <node name="Angle Grinder" level="5"/>
+            </node>
+          </node>
+          <node name="Reciprocating and Oscillating Tools" level="3">
+            <node name="Demolition Cutting Tools" level="4">
+              <node name="Reciprocating Saw" level="5"/>
+              <node name="Oscillating Multi-Tool" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Surface Finishing Tools" level="2">
+          <node name="Sanding Tools" level="3">
+            <node name="Handheld Sanders" level="4">
+              <node name="Orbital Sander" level="5"/>
+              <node name="Belt Sander" level="5"/>
+            </node>
+            <node name="Polishing Tools" level="4">
+              <node name="Rotary Polisher" level="5"/>
+              <node name="Dual Action Polisher" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Workshop Equipment" level="1">
+        <node name="Holding and Support Equipment" level="2">
+          <node name="Clamping Equipment" level="3">
+            <node name="Bench Clamps" level="4">
+              <node name="C-Clamp" level="5"/>
+              <node name="F-Clamp" level="5"/>
+            </node>
+            <node name="Workpiece Holding Tools" level="4">
+              <node name="Vise" level="5"/>
+              <node name="Bench Vise" level="5"/>
+            </node>
+          </node>
+          <node name="Support Equipment" level="3">
+            <node name="Work Surfaces" level="4">
+              <node name="Workbench" level="5"/>
+              <node name="Folding Workbench" level="5"/>
+            </node>
+            <node name="Material Supports" level="4">
+              <node name="Sawhorse" level="5"/>
+              <node name="Roller Stand" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Air and Fluid Equipment" level="2">
+          <node name="Compressed Air Equipment" level="3">
+            <node name="Air Supply Units" level="4">
+              <node name="Air Compressor" level="5"/>
+              <node name="Portable Compressor" level="5"/>
+            </node>
+            <node name="Pneumatic Tools" level="4">
+              <node name="Air Ratchet" level="5"/>
+              <node name="Pneumatic Nailer" level="5"/>
+            </node>
+          </node>
+          <node name="Liquid Handling Equipment" level="3">
+            <node name="Dispensing Tools" level="4">
+              <node name="Grease Gun" level="5"/>
+              <node name="Hand Pump" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Safety and Protective Equipment" level="1">
+        <node name="Personal Protective Equipment" level="2">
+          <node name="Eye and Face Protection" level="3">
+            <node name="Impact Protection" level="4">
+              <node name="Safety Glasses" level="5"/>
+              <node name="Face Shield" level="5"/>
+            </node>
+          </node>
+          <node name="Hand Protection" level="3">
+            <node name="Work Gloves" level="4">
+              <node name="Cut-Resistant Gloves" level="5"/>
+              <node name="Heat-Resistant Gloves" level="5"/>
+            </node>
+          </node>
+          <node name="Breathing and Hearing Protection" level="3">
+            <node name="Respiratory Protection" level="4">
+              <node name="Dust Mask" level="5"/>
+              <node name="Half-Face Respirator" level="5"/>
+            </node>
+            <node name="Hearing Protection" level="4">
+              <node name="Ear Plugs" level="5"/>
+              <node name="Ear Muffs" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Site Safety Equipment" level="2">
+          <node name="Visibility and Warning Equipment" level="3">
+            <node name="Wearable Visibility Items" level="4">
+              <node name="Reflective Vest" level="5"/>
+              <node name="High-Visibility Jacket" level="5"/>
+            </node>
+            <node name="Area Warning Devices" level="4">
+              <node name="Warning Cone" level="5"/>
+              <node name="Barrier Tape" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </tree>
+  <tree treeId="tree_021" treeSlug="clothing-types-5-levels" treeName="Clothing Types" title="Clothing Types - 5 Levels" depthGroup="Trees with 5 Levels" declaredLevels="5">
+    <node name="Clothing Types" level="0">
+      <node name="Upper Body Clothing" level="1">
+        <node name="Shirts and Tops" level="2">
+          <node name="Casual Tops" level="3">
+            <node name="Short-Sleeve Tops" level="4">
+              <node name="T-Shirt" level="5"/>
+              <node name="V-Neck T-Shirt" level="5"/>
+              <node name="Henley Shirt" level="5"/>
+            </node>
+            <node name="Long-Sleeve Tops" level="4">
+              <node name="Long-Sleeve Shirt" level="5"/>
+              <node name="Turtleneck Top" level="5"/>
+              <node name="Mock Neck Top" level="5"/>
+            </node>
+          </node>
+          <node name="Structured Shirts" level="3">
+            <node name="Buttoned Shirts" level="4">
+              <node name="Dress Shirt" level="5"/>
+              <node name="Oxford Shirt" level="5"/>
+              <node name="Flannel Shirt" level="5"/>
+            </node>
+            <node name="Pullover Shirts" level="4">
+              <node name="Polo Shirt" level="5"/>
+              <node name="Rugby Shirt" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Sweaters and Knitwear" level="2">
+          <node name="Light Knitwear" level="3">
+            <node name="Fine Knit Sweaters" level="4">
+              <node name="Crew Neck Sweater" level="5"/>
+              <node name="V-Neck Sweater" level="5"/>
+            </node>
+            <node name="Knit Layering Pieces" level="4">
+              <node name="Knit Vest" level="5"/>
+              <node name="Sleeveless Sweater" level="5"/>
+            </node>
+          </node>
+          <node name="Heavy Knitwear" level="3">
+            <node name="Thick Sweaters" level="4">
+              <node name="Cable Knit Sweater" level="5"/>
+              <node name="Ribbed Sweater" level="5"/>
+            </node>
+            <node name="Oversized Knitwear" level="4">
+              <node name="Oversized Pullover" level="5"/>
+              <node name="Chunky Knit Sweater" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Jackets and Outer Layers" level="2">
+          <node name="Lightweight Jackets" level="3">
+            <node name="Casual Light Jackets" level="4">
+              <node name="Bomber Jacket" level="5"/>
+              <node name="Harrington Jacket" level="5"/>
+              <node name="Windbreaker" level="5"/>
+            </node>
+            <node name="Utility Light Jackets" level="4">
+              <node name="Field Jacket" level="5"/>
+              <node name="Shirt Jacket" level="5"/>
+            </node>
+          </node>
+          <node name="Heavy Outerwear" level="3">
+            <node name="Insulated Jackets" level="4">
+              <node name="Puffer Jacket" level="5"/>
+              <node name="Quilted Jacket" level="5"/>
+            </node>
+            <node name="Coats" level="4">
+              <node name="Overcoat" level="5"/>
+              <node name="Peacoat" level="5"/>
+              <node name="Parka" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Lower Body Clothing" level="1">
+        <node name="Trousers and Pants" level="2">
+          <node name="Casual Pants" level="3">
+            <node name="Straight-Leg Pants" level="4">
+              <node name="Chino Pants" level="5"/>
+              <node name="Twill Pants" level="5"/>
+            </node>
+            <node name="Relaxed Pants" level="4">
+              <node name="Cargo Pants" level="5"/>
+              <node name="Jogger Pants" level="5"/>
+            </node>
+          </node>
+          <node name="Formal Pants" level="3">
+            <node name="Tailored Pants" level="4">
+              <node name="Dress Trousers" level="5"/>
+              <node name="Pleated Trousers" level="5"/>
+            </node>
+            <node name="Slim Tailored Pants" level="4">
+              <node name="Slim Trousers" level="5"/>
+              <node name="Tapered Trousers" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Denim Clothing" level="2">
+          <node name="Classic Denim" level="3">
+            <node name="Standard Jeans" level="4">
+              <node name="Straight Jeans" level="5"/>
+              <node name="Regular Fit Jeans" level="5"/>
+            </node>
+            <node name="Narrow Jeans" level="4">
+              <node name="Slim Jeans" level="5"/>
+              <node name="Skinny Jeans" level="5"/>
+            </node>
+          </node>
+          <node name="Loose Denim" level="3">
+            <node name="Relaxed Jeans" level="4">
+              <node name="Baggy Jeans" level="5"/>
+              <node name="Wide-Leg Jeans" level="5"/>
+            </node>
+            <node name="Workwear Denim" level="4">
+              <node name="Carpenter Jeans" level="5"/>
+              <node name="Utility Jeans" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Skirts and Similar Garments" level="2">
+          <node name="Short Skirts" level="3">
+            <node name="Straight Short Skirts" level="4">
+              <node name="Mini Skirt" level="5"/>
+              <node name="Denim Mini Skirt" level="5"/>
+            </node>
+          </node>
+          <node name="Mid-Length Skirts" level="3">
+            <node name="Structured Mid-Length Skirts" level="4">
+              <node name="Pencil Skirt" level="5"/>
+              <node name="A-Line Skirt" level="5"/>
+            </node>
+          </node>
+          <node name="Long Skirts" level="3">
+            <node name="Flowing Long Skirts" level="4">
+              <node name="Maxi Skirt" level="5"/>
+              <node name="Pleated Maxi Skirt" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Full-Body Clothing" level="1">
+        <node name="Dresses" level="2">
+          <node name="Casual Dresses" level="3">
+            <node name="Short Casual Dresses" level="4">
+              <node name="T-Shirt Dress" level="5"/>
+              <node name="Shift Dress" level="5"/>
+            </node>
+            <node name="Mid-Length Casual Dresses" level="4">
+              <node name="Shirt Dress" level="5"/>
+              <node name="Wrap Dress" level="5"/>
+            </node>
+          </node>
+          <node name="Formal Dresses" level="3">
+            <node name="Structured Formal Dresses" level="4">
+              <node name="Sheath Dress" level="5"/>
+              <node name="Evening Dress" level="5"/>
+            </node>
+            <node name="Full-Length Formal Dresses" level="4">
+              <node name="Gown" level="5"/>
+              <node name="Column Dress" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="One-Piece Garments" level="2">
+          <node name="Jumpsuits" level="3">
+            <node name="Casual Jumpsuits" level="4">
+              <node name="Utility Jumpsuit" level="5"/>
+              <node name="Sleeveless Jumpsuit" level="5"/>
+            </node>
+            <node name="Formal Jumpsuits" level="4">
+              <node name="Tailored Jumpsuit" level="5"/>
+              <node name="Wide-Leg Jumpsuit" level="5"/>
+            </node>
+          </node>
+          <node name="Overalls" level="3">
+            <node name="Work Overalls" level="4">
+              <node name="Bib Overall" level="5"/>
+              <node name="Coverall" level="5"/>
+            </node>
+            <node name="Casual Overalls" level="4">
+              <node name="Denim Overall" level="5"/>
+              <node name="Short Overall" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Leg and Foot Clothing" level="1">
+        <node name="Short Legwear" level="2">
+          <node name="Ankle-Length Items" level="3">
+            <node name="Light Socks" level="4">
+              <node name="Ankle Socks" level="5"/>
+              <node name="No-Show Socks" level="5"/>
+            </node>
+            <node name="Sport Socks" level="4">
+              <node name="Athletic Ankle Socks" level="5"/>
+              <node name="Cushioned Training Socks" level="5"/>
+            </node>
+          </node>
+          <node name="Mid-Length Socks" level="3">
+            <node name="Casual Mid-Length Socks" level="4">
+              <node name="Crew Socks" level="5"/>
+              <node name="Ribbed Crew Socks" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Long Legwear" level="2">
+          <node name="Knee-Length Items" level="3">
+            <node name="Structured Long Socks" level="4">
+              <node name="Knee Socks" level="5"/>
+              <node name="Compression Socks" level="5"/>
+            </node>
+          </node>
+          <node name="Full-Length Items" level="3">
+            <node name="Close-Fit Legwear" level="4">
+              <node name="Leggings" level="5"/>
+              <node name="Thermal Leggings" level="5"/>
+            </node>
+            <node name="Sheer Legwear" level="4">
+              <node name="Tights" level="5"/>
+              <node name="Stockings" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Specialized Clothing" level="1">
+        <node name="Sleepwear" level="2">
+          <node name="Sleep Tops" level="3">
+            <node name="Light Sleep Tops" level="4">
+              <node name="Pajama Shirt" level="5"/>
+              <node name="Sleep T-Shirt" level="5"/>
+            </node>
+          </node>
+          <node name="Sleep Bottoms" level="3">
+            <node name="Soft Sleep Bottoms" level="4">
+              <node name="Pajama Pants" level="5"/>
+              <node name="Sleep Shorts" level="5"/>
+            </node>
+          </node>
+          <node name="Full Sleep Sets" level="3">
+            <node name="Matching Sleep Sets" level="4">
+              <node name="Two-Piece Pajama Set" level="5"/>
+              <node name="Buttoned Pajama Set" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Undergarments" level="2">
+          <node name="Upper Undergarments" level="3">
+            <node name="Support Garments" level="4">
+              <node name="Bra" level="5"/>
+              <node name="Sports Bra" level="5"/>
+            </node>
+            <node name="Base Layer Tops" level="4">
+              <node name="Undershirt" level="5"/>
+              <node name="Tank Undershirt" level="5"/>
+            </node>
+          </node>
+          <node name="Lower Undergarments" level="3">
+            <node name="Brief Styles" level="4">
+              <node name="Briefs" level="5"/>
+              <node name="High-Waist Briefs" level="5"/>
+            </node>
+            <node name="Short Styles" level="4">
+              <node name="Boxer Briefs" level="5"/>
+              <node name="Boxers" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Performance and Protective Clothing" level="2">
+          <node name="Athletic Clothing" level="3">
+            <node name="Training Tops" level="4">
+              <node name="Compression Shirt" level="5"/>
+              <node name="Training Jersey" level="5"/>
+            </node>
+            <node name="Training Bottoms" level="4">
+              <node name="Running Shorts" level="5"/>
+              <node name="Track Pants" level="5"/>
+            </node>
+          </node>
+          <node name="Protective Outerwear" level="3">
+            <node name="Weather Protection" level="4">
+              <node name="Raincoat" level="5"/>
+              <node name="Waterproof Shell" level="5"/>
+            </node>
+            <node name="Visibility Clothing" level="4">
+              <node name="Reflective Vest" level="5"/>
+              <node name="High-Visibility Jacket" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </tree>
+  <tree treeId="tree_022" treeSlug="container-and-storage-types-5-levels" treeName="Container and Storage Types" title="Container and Storage Types - 5 Levels" depthGroup="Trees with 5 Levels" declaredLevels="5">
+    <node name="Container and Storage Types" level="0">
+      <node name="Portable Containers" level="1">
+        <node name="Personal Carry Containers" level="2">
+          <node name="Soft Carry Containers" level="3">
+            <node name="Everyday Carry Bags" level="4">
+              <node name="Tote Bag" level="5"/>
+              <node name="Shoulder Bag" level="5"/>
+            </node>
+            <node name="Travel Carry Bags" level="4">
+              <node name="Duffel Bag" level="5"/>
+              <node name="Garment Bag" level="5"/>
+            </node>
+          </node>
+          <node name="Structured Carry Containers" level="3">
+            <node name="Small Hand-Carry Cases" level="4">
+              <node name="Briefcase" level="5"/>
+              <node name="Hard Shell Case" level="5"/>
+            </node>
+            <node name="Wheeled Travel Cases" level="4">
+              <node name="Cabin Suitcase" level="5"/>
+              <node name="Rolling Suitcase" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Utility Transport Containers" level="2">
+          <node name="Open Utility Containers" level="3">
+            <node name="Hand-Carry Utility Types" level="4">
+              <node name="Basket" level="5"/>
+              <node name="Carry Crate" level="5"/>
+            </node>
+            <node name="Stackable Utility Types" level="4">
+              <node name="Plastic Crate" level="5"/>
+              <node name="Folding Crate" level="5"/>
+            </node>
+          </node>
+          <node name="Closed Utility Containers" level="3">
+            <node name="Tool and Equipment Cases" level="4">
+              <node name="Toolbox" level="5"/>
+              <node name="Equipment Case" level="5"/>
+            </node>
+            <node name="Insulated Utility Containers" level="4">
+              <node name="Cooler Box" level="5"/>
+              <node name="Thermal Carrier" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Household Storage" level="1">
+        <node name="Room Storage Containers" level="2">
+          <node name="Bedroom Storage" level="3">
+            <node name="Garment Storage Types" level="4">
+              <node name="Laundry Basket" level="5"/>
+              <node name="Underbed Storage Box" level="5"/>
+            </node>
+            <node name="Accessory Storage Types" level="4">
+              <node name="Jewelry Box" level="5"/>
+              <node name="Watch Case" level="5"/>
+            </node>
+          </node>
+          <node name="Kitchen Storage" level="3">
+            <node name="Dry Goods Storage" level="4">
+              <node name="Canister" level="5"/>
+              <node name="Pantry Bin" level="5"/>
+            </node>
+            <node name="Food Preservation Storage" level="4">
+              <node name="Bread Box" level="5"/>
+              <node name="Refrigerator Container" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="General Home Storage" level="2">
+          <node name="Shelf and Cabinet Containers" level="3">
+            <node name="Open Storage Units" level="4">
+              <node name="Storage Basket" level="5"/>
+              <node name="Shelf Bin" level="5"/>
+            </node>
+            <node name="Closed Storage Units" level="4">
+              <node name="Lidded Box" level="5"/>
+              <node name="Drawer Organizer" level="5"/>
+            </node>
+          </node>
+          <node name="Seasonal and Bulk Storage" level="3">
+            <node name="Long-Term Storage Types" level="4">
+              <node name="Vacuum Storage Bag" level="5"/>
+              <node name="Archive Box" level="5"/>
+            </node>
+            <node name="Protective Storage Types" level="4">
+              <node name="Storage Trunk" level="5"/>
+              <node name="Cedar Chest" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Industrial and Commercial Storage" level="1">
+        <node name="Warehouse Storage" level="2">
+          <node name="Bulk Storage Containers" level="3">
+            <node name="Heavy-Duty Storage Units" level="4">
+              <node name="Pallet Box" level="5"/>
+              <node name="Bulk Bin" level="5"/>
+            </node>
+            <node name="Flow Storage Units" level="4">
+              <node name="Hopper Bin" level="5"/>
+              <node name="Gravity Bin" level="5"/>
+            </node>
+          </node>
+          <node name="Shelving-Compatible Containers" level="3">
+            <node name="Pick Storage Types" level="4">
+              <node name="Parts Bin" level="5"/>
+              <node name="Shelf Tote" level="5"/>
+            </node>
+            <node name="Stackable Stock Types" level="4">
+              <node name="Euro Container" level="5"/>
+              <node name="Nesting Container" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Shipping and Distribution" level="2">
+          <node name="Transport Packaging" level="3">
+            <node name="Corrugated Shipping Types" level="4">
+              <node name="Shipping Carton" level="5"/>
+              <node name="Mailer Box" level="5"/>
+            </node>
+            <node name="Protective Transit Types" level="4">
+              <node name="Foam-Lined Box" level="5"/>
+              <node name="Shockproof Case" level="5"/>
+            </node>
+          </node>
+          <node name="Freight Containers" level="3">
+            <node name="Intermodal Freight Types" level="4">
+              <node name="Standard Freight Container" level="5"/>
+              <node name="High Cube Container" level="5"/>
+            </node>
+            <node name="Specialized Freight Types" level="4">
+              <node name="Refrigerated Container" level="5"/>
+              <node name="Open Top Container" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Document and Media Storage" level="1">
+        <node name="Paper Storage" level="2">
+          <node name="Office Document Storage" level="3">
+            <node name="Everyday Filing Types" level="4">
+              <node name="Folder" level="5"/>
+              <node name="Ring Binder" level="5"/>
+            </node>
+            <node name="Long-Term Record Storage" level="4">
+              <node name="Archive Box" level="5"/>
+              <node name="Document Case" level="5"/>
+            </node>
+          </node>
+          <node name="Flat Media Storage" level="3">
+            <node name="Large Format Storage" level="4">
+              <node name="Portfolio Case" level="5"/>
+              <node name="Plan Drawer Folder" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Audio and Visual Media Storage" level="2">
+          <node name="Disc Storage" level="3">
+            <node name="Optical Media Storage" level="4">
+              <node name="CD Wallet" level="5"/>
+              <node name="Disc Binder" level="5"/>
+            </node>
+            <node name="Protective Disc Cases" level="4">
+              <node name="Jewel Case" level="5"/>
+              <node name="Disc Sleeve" level="5"/>
+            </node>
+          </node>
+          <node name="Tape and Cartridge Storage" level="3">
+            <node name="Audio Tape Storage" level="4">
+              <node name="Cassette Case" level="5"/>
+              <node name="Tape Drawer Box" level="5"/>
+            </node>
+            <node name="Data Cartridge Storage" level="4">
+              <node name="Cartridge Case" level="5"/>
+              <node name="Media Archive Box" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Specialized Storage Systems" level="1">
+        <node name="Secure Storage" level="2">
+          <node name="Lockable Storage Types" level="3">
+            <node name="Small Security Units" level="4">
+              <node name="Lockbox" level="5"/>
+              <node name="Cash Box" level="5"/>
+            </node>
+            <node name="Reinforced Security Units" level="4">
+              <node name="Safe" level="5"/>
+              <node name="Fireproof Safe" level="5"/>
+            </node>
+          </node>
+          <node name="Controlled Access Storage" level="3">
+            <node name="Keyed Access Types" level="4">
+              <node name="Key Cabinet" level="5"/>
+              <node name="Locking File Cabinet" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Technical and Protective Storage" level="2">
+          <node name="Equipment Protection Storage" level="3">
+            <node name="Shock-Resistant Types" level="4">
+              <node name="Rugged Equipment Case" level="5"/>
+              <node name="Waterproof Case" level="5"/>
+            </node>
+            <node name="Component Storage Types" level="4">
+              <node name="Anti-Static Box" level="5"/>
+              <node name="Parts Organizer" level="5"/>
+            </node>
+          </node>
+          <node name="Display and Preservation Storage" level="3">
+            <node name="Presentation Storage Types" level="4">
+              <node name="Display Case" level="5"/>
+              <node name="Collector Box" level="5"/>
+            </node>
+            <node name="Conservation Storage Types" level="4">
+              <node name="Acid-Free Archive Case" level="5"/>
+              <node name="Preservation Box" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </tree>
+  <tree treeId="tree_023" treeSlug="furniture-types-5-levels" treeName="Furniture Types" title="Furniture Types - 5 Levels" depthGroup="Trees with 5 Levels" declaredLevels="5">
+    <node name="Furniture Types" level="0">
+      <node name="Seating Furniture" level="1">
+        <node name="Single-Seat Furniture" level="2">
+          <node name="Basic Chairs" level="3">
+            <node name="Dining Chairs" level="4">
+              <node name="Wooden Dining Chair" level="5"/>
+              <node name="Upholstered Dining Chair" level="5"/>
+            </node>
+            <node name="Work Chairs" level="4">
+              <node name="Desk Chair" level="5"/>
+              <node name="Drafting Chair" level="5"/>
+            </node>
+          </node>
+          <node name="Lounge Seating" level="3">
+            <node name="Relaxation Chairs" level="4">
+              <node name="Armchair" level="5"/>
+              <node name="Recliner" level="5"/>
+            </node>
+            <node name="Accent Seating" level="4">
+              <node name="Accent Chair" level="5"/>
+              <node name="Club Chair" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Multi-Seat Furniture" level="2">
+          <node name="Benches" level="3">
+            <node name="Indoor Bench Types" level="4">
+              <node name="Entryway Bench" level="5"/>
+              <node name="Dining Bench" level="5"/>
+            </node>
+            <node name="Outdoor Bench Types" level="4">
+              <node name="Garden Bench" level="5"/>
+              <node name="Park Bench" level="5"/>
+            </node>
+          </node>
+          <node name="Sofas and Couches" level="3">
+            <node name="Compact Sofa Types" level="4">
+              <node name="Loveseat" level="5"/>
+              <node name="Two-Seat Sofa" level="5"/>
+            </node>
+            <node name="Full-Size Sofa Types" level="4">
+              <node name="Three-Seat Sofa" level="5"/>
+              <node name="Sectional Sofa" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Tables and Surface Furniture" level="1">
+        <node name="Dining and Work Tables" level="2">
+          <node name="Dining Tables" level="3">
+            <node name="Fixed Dining Tables" level="4">
+              <node name="Round Dining Table" level="5"/>
+              <node name="Rectangular Dining Table" level="5"/>
+            </node>
+            <node name="Expandable Dining Tables" level="4">
+              <node name="Drop-Leaf Table" level="5"/>
+              <node name="Extension Table" level="5"/>
+            </node>
+          </node>
+          <node name="Work Tables" level="3">
+            <node name="Desk Types" level="4">
+              <node name="Writing Desk" level="5"/>
+              <node name="Computer Desk" level="5"/>
+            </node>
+            <node name="Utility Work Tables" level="4">
+              <node name="Worktable" level="5"/>
+              <node name="Drafting Table" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Small Surface Furniture" level="2">
+          <node name="Occasional Tables" level="3">
+            <node name="Living Room Table Types" level="4">
+              <node name="Coffee Table" level="5"/>
+              <node name="Side Table" level="5"/>
+            </node>
+            <node name="Bedroom Table Types" level="4">
+              <node name="Nightstand" level="5"/>
+              <node name="Bedside Table" level="5"/>
+            </node>
+          </node>
+          <node name="Console and Display Tables" level="3">
+            <node name="Narrow Wall Tables" level="4">
+              <node name="Console Table" level="5"/>
+              <node name="Hall Table" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Storage Furniture" level="1">
+        <node name="Cabinet Furniture" level="2">
+          <node name="Freestanding Cabinets" level="3">
+            <node name="General Storage Cabinets" level="4">
+              <node name="Utility Cabinet" level="5"/>
+              <node name="Display Cabinet" level="5"/>
+            </node>
+            <node name="Room-Specific Cabinets" level="4">
+              <node name="Bathroom Cabinet" level="5"/>
+              <node name="Kitchen Cabinet" level="5"/>
+            </node>
+          </node>
+          <node name="Drawer-Based Storage" level="3">
+            <node name="Small Drawer Units" level="4">
+              <node name="Bedside Chest" level="5"/>
+              <node name="Filing Drawer Unit" level="5"/>
+            </node>
+            <node name="Large Drawer Units" level="4">
+              <node name="Chest of Drawers" level="5"/>
+              <node name="Dresser" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Shelf Furniture" level="2">
+          <node name="Open Shelving" level="3">
+            <node name="Standard Shelf Units" level="4">
+              <node name="Bookcase" level="5"/>
+              <node name="Open Display Shelf" level="5"/>
+            </node>
+            <node name="Modular Shelving" level="4">
+              <node name="Cube Shelf" level="5"/>
+              <node name="Ladder Shelf" level="5"/>
+            </node>
+          </node>
+          <node name="Closed Shelf Systems" level="3">
+            <node name="Door Shelf Units" level="4">
+              <node name="Wardrobe" level="5"/>
+              <node name="Linen Cabinet" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Sleeping Furniture" level="1">
+        <node name="Bed Frames" level="2">
+          <node name="Standard Bed Types" level="3">
+            <node name="Single Bed Frames" level="4">
+              <node name="Twin Bed" level="5"/>
+              <node name="Daybed" level="5"/>
+            </node>
+            <node name="Large Bed Frames" level="4">
+              <node name="Double Bed" level="5"/>
+              <node name="Queen Bed" level="5"/>
+              <node name="King Bed" level="5"/>
+            </node>
+          </node>
+          <node name="Specialized Bed Frames" level="3">
+            <node name="Raised Bed Types" level="4">
+              <node name="Loft Bed" level="5"/>
+              <node name="Bunk Bed" level="5"/>
+            </node>
+            <node name="Convertible Bed Types" level="4">
+              <node name="Sofa Bed" level="5"/>
+              <node name="Folding Bed" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Support Bedroom Furniture" level="2">
+          <node name="Mattress Support Units" level="3">
+            <node name="Foundation Types" level="4">
+              <node name="Slatted Base" level="5"/>
+              <node name="Box Foundation" level="5"/>
+            </node>
+          </node>
+          <node name="Bedroom Storage Units" level="3">
+            <node name="Garment Storage Types" level="4">
+              <node name="Wardrobe" level="5"/>
+              <node name="Clothes Rack" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Specialized Furniture" level="1">
+        <node name="Office Furniture" level="2">
+          <node name="Task Furniture" level="3">
+            <node name="Computer Work Furniture" level="4">
+              <node name="Monitor Stand" level="5"/>
+              <node name="Keyboard Tray Unit" level="5"/>
+            </node>
+            <node name="Filing Furniture" level="4">
+              <node name="Filing Cabinet" level="5"/>
+              <node name="Mobile Pedestal" level="5"/>
+            </node>
+          </node>
+          <node name="Meeting Furniture" level="3">
+            <node name="Shared Work Furniture" level="4">
+              <node name="Conference Table" level="5"/>
+              <node name="Meeting Chair" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Outdoor Furniture" level="2">
+          <node name="Outdoor Seating" level="3">
+            <node name="Garden Seating Types" level="4">
+              <node name="Patio Chair" level="5"/>
+              <node name="Folding Garden Chair" level="5"/>
+            </node>
+            <node name="Outdoor Lounging Types" level="4">
+              <node name="Sun Lounger" level="5"/>
+              <node name="Hammock Stand" level="5"/>
+            </node>
+          </node>
+          <node name="Outdoor Surface Furniture" level="3">
+            <node name="Exterior Tables" level="4">
+              <node name="Patio Table" level="5"/>
+              <node name="Picnic Table" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </tree>
+  <tree treeId="tree_024" treeSlug="materials-5-levels" treeName="Materials" title="Materials - 5 Levels" depthGroup="Trees with 5 Levels" declaredLevels="5">
+    <node name="Materials" level="0">
+      <node name="Metals" level="1">
+        <node name="Ferrous Metals" level="2">
+          <node name="Steel Families" level="3">
+            <node name="Structural Steels" level="4">
+              <node name="Beam Steel" level="5"/>
+              <node name="Plate Steel" level="5"/>
+            </node>
+            <node name="Tool Steels" level="4">
+              <node name="Cutting Tool Steel" level="5"/>
+              <node name="Die Steel" level="5"/>
+            </node>
+          </node>
+          <node name="Cast Iron Families" level="3">
+            <node name="General Cast Irons" level="4">
+              <node name="Gray Cast Iron" level="5"/>
+              <node name="Ductile Cast Iron" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Non-Ferrous Metals" level="2">
+          <node name="Light Metals" level="3">
+            <node name="Aluminum Families" level="4">
+              <node name="Cast Aluminum" level="5"/>
+              <node name="Rolled Aluminum" level="5"/>
+            </node>
+            <node name="Magnesium Families" level="4">
+              <node name="Cast Magnesium" level="5"/>
+              <node name="Wrought Magnesium" level="5"/>
+            </node>
+          </node>
+          <node name="Copper-Based Metals" level="3">
+            <node name="Pure Copper Forms" level="4">
+              <node name="Copper Sheet" level="5"/>
+              <node name="Copper Wire" level="5"/>
+            </node>
+            <node name="Copper Alloys" level="4">
+              <node name="Brass" level="5"/>
+              <node name="Bronze" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Polymers" level="1">
+        <node name="Thermoplastics" level="2">
+          <node name="Commodity Thermoplastics" level="3">
+            <node name="Packaging Plastics" level="4">
+              <node name="Polyethylene" level="5"/>
+              <node name="Polypropylene" level="5"/>
+            </node>
+            <node name="Transparent Plastics" level="4">
+              <node name="Polystyrene" level="5"/>
+              <node name="PET" level="5"/>
+            </node>
+          </node>
+          <node name="Engineering Thermoplastics" level="3">
+            <node name="Tough Engineering Plastics" level="4">
+              <node name="ABS" level="5"/>
+              <node name="Polycarbonate" level="5"/>
+            </node>
+            <node name="Low-Friction Plastics" level="4">
+              <node name="Nylon" level="5"/>
+              <node name="Acetal" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Thermosets" level="2">
+          <node name="Resin Systems" level="3">
+            <node name="Casting Resins" level="4">
+              <node name="Epoxy Resin" level="5"/>
+              <node name="Polyester Resin" level="5"/>
+            </node>
+            <node name="Laminating Resins" level="4">
+              <node name="Phenolic Resin" level="5"/>
+              <node name="Melamine Resin" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Ceramics and Glass" level="1">
+        <node name="Ceramics" level="2">
+          <node name="Traditional Ceramics" level="3">
+            <node name="Building Ceramics" level="4">
+              <node name="Brick Ceramic" level="5"/>
+              <node name="Roof Tile Ceramic" level="5"/>
+            </node>
+            <node name="Fine Ceramics" level="4">
+              <node name="Porcelain" level="5"/>
+              <node name="Stoneware" level="5"/>
+            </node>
+          </node>
+          <node name="Technical Ceramics" level="3">
+            <node name="Wear-Resistant Ceramics" level="4">
+              <node name="Alumina Ceramic" level="5"/>
+              <node name="Silicon Carbide Ceramic" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Glass" level="2">
+          <node name="Flat Glass" level="3">
+            <node name="Architectural Glass" level="4">
+              <node name="Float Glass" level="5"/>
+              <node name="Coated Glass" level="5"/>
+            </node>
+          </node>
+          <node name="Shaped Glass" level="3">
+            <node name="Hollow Glass" level="4">
+              <node name="Bottle Glass" level="5"/>
+              <node name="Laboratory Glass" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Natural Materials" level="1">
+        <node name="Wood" level="2">
+          <node name="Solid Wood" level="3">
+            <node name="Hardwood Types" level="4">
+              <node name="Oak Wood" level="5"/>
+              <node name="Beech Wood" level="5"/>
+            </node>
+            <node name="Softwood Types" level="4">
+              <node name="Pine Wood" level="5"/>
+              <node name="Spruce Wood" level="5"/>
+            </node>
+          </node>
+          <node name="Engineered Wood" level="3">
+            <node name="Layered Wood Products" level="4">
+              <node name="Plywood" level="5"/>
+              <node name="Laminated Timber" level="5"/>
+            </node>
+            <node name="Fiber-Based Wood Products" level="4">
+              <node name="MDF" level="5"/>
+              <node name="Hardboard" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Stone" level="2">
+          <node name="Building Stone" level="3">
+            <node name="Dense Stone Types" level="4">
+              <node name="Granite" level="5"/>
+              <node name="Basalt" level="5"/>
+            </node>
+            <node name="Decorative Stone Types" level="4">
+              <node name="Marble" level="5"/>
+              <node name="Slate" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Fibers" level="2">
+          <node name="Plant Fibers" level="3">
+            <node name="Soft Plant Fibers" level="4">
+              <node name="Cotton Fiber" level="5"/>
+              <node name="Flax Fiber" level="5"/>
+            </node>
+            <node name="Coarse Plant Fibers" level="4">
+              <node name="Jute Fiber" level="5"/>
+              <node name="Hemp Fiber" level="5"/>
+            </node>
+          </node>
+          <node name="Animal Fibers" level="3">
+            <node name="Fine Animal Fibers" level="4">
+              <node name="Wool" level="5"/>
+              <node name="Silk" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </tree>
+  <tree treeId="tree_025" treeSlug="signage-symbols-and-markings-5-levels" treeName="Signage, Symbols and Markings" title="Signage, Symbols and Markings - 5 Levels" depthGroup="Trees with 5 Levels" declaredLevels="5">
+    <node name="Signage, Symbols and Markings" level="0">
+      <node name="Information Signage" level="1">
+        <node name="Directional Signage" level="2">
+          <node name="Building Navigation Signs" level="3">
+            <node name="Interior Navigation Types" level="4">
+              <node name="Room Direction Sign" level="5"/>
+              <node name="Floor Directory Sign" level="5"/>
+            </node>
+            <node name="Exterior Navigation Types" level="4">
+              <node name="Entrance Sign" level="5"/>
+              <node name="Parking Direction Sign" level="5"/>
+            </node>
+          </node>
+          <node name="Public Wayfinding Signs" level="3">
+            <node name="Route Guidance Types" level="4">
+              <node name="Trail Marker Sign" level="5"/>
+              <node name="Transit Direction Sign" level="5"/>
+            </node>
+            <node name="Location Identification Types" level="4">
+              <node name="Street Name Sign" level="5"/>
+              <node name="Platform Sign" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Identification Signage" level="2">
+          <node name="Location Identification" level="3">
+            <node name="Room and Area Labels" level="4">
+              <node name="Door Nameplate" level="5"/>
+              <node name="Area Label Sign" level="5"/>
+            </node>
+            <node name="Site Identification" level="4">
+              <node name="Building Name Sign" level="5"/>
+              <node name="Facility Name Sign" level="5"/>
+            </node>
+          </node>
+          <node name="Object Identification" level="3">
+            <node name="Asset Labeling Types" level="4">
+              <node name="Equipment Label" level="5"/>
+              <node name="Shelf Label" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Safety Signage" level="1">
+        <node name="Hazard Signs" level="2">
+          <node name="Warning Signs" level="3">
+            <node name="General Warning Types" level="4">
+              <node name="Caution Sign" level="5"/>
+              <node name="Hazard Warning Sign" level="5"/>
+            </node>
+            <node name="Specific Hazard Types" level="4">
+              <node name="High Voltage Sign" level="5"/>
+              <node name="Hot Surface Sign" level="5"/>
+            </node>
+          </node>
+          <node name="Prohibition Signs" level="3">
+            <node name="Access Restriction Types" level="4">
+              <node name="No Entry Sign" level="5"/>
+              <node name="Authorized Personnel Only Sign" level="5"/>
+            </node>
+            <node name="Activity Restriction Types" level="4">
+              <node name="No Smoking Sign" level="5"/>
+              <node name="No Photography Sign" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Emergency Signs" level="2">
+          <node name="Exit and Escape Signs" level="3">
+            <node name="Egress Guidance Types" level="4">
+              <node name="Emergency Exit Sign" level="5"/>
+              <node name="Escape Route Sign" level="5"/>
+            </node>
+          </node>
+          <node name="Emergency Equipment Signs" level="3">
+            <node name="Response Equipment Types" level="4">
+              <node name="Fire Extinguisher Sign" level="5"/>
+              <node name="First Aid Sign" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Operational and Instructional Markings" level="1">
+        <node name="Surface Markings" level="2">
+          <node name="Floor Markings" level="3">
+            <node name="Route and Zone Markings" level="4">
+              <node name="Walkway Line Marking" level="5"/>
+              <node name="Loading Zone Marking" level="5"/>
+            </node>
+            <node name="Hazard Floor Markings" level="4">
+              <node name="Caution Stripe Marking" level="5"/>
+              <node name="Edge Warning Marking" level="5"/>
+            </node>
+          </node>
+          <node name="Wall and Boundary Markings" level="3">
+            <node name="Boundary Indicators" level="4">
+              <node name="Clearance Marking" level="5"/>
+              <node name="Height Limit Marking" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Equipment and Interface Markings" level="2">
+          <node name="Control Panel Symbols" level="3">
+            <node name="Functional Control Types" level="4">
+              <node name="Power Symbol" level="5"/>
+              <node name="Reset Symbol" level="5"/>
+            </node>
+            <node name="Adjustment Control Types" level="4">
+              <node name="Volume Symbol" level="5"/>
+              <node name="Temperature Symbol" level="5"/>
+            </node>
+          </node>
+          <node name="Machine Markings" level="3">
+            <node name="Status and Operation Types" level="4">
+              <node name="Start Marking" level="5"/>
+              <node name="Stop Marking" level="5"/>
+            </node>
+            <node name="Maintenance and Service Types" level="4">
+              <node name="Lubrication Marking" level="5"/>
+              <node name="Service Point Marking" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Symbols and Graphic Indicators" level="1">
+        <node name="Functional Symbols" level="2">
+          <node name="Utility Symbols" level="3">
+            <node name="Service Symbols" level="4">
+              <node name="Water Symbol" level="5"/>
+              <node name="Electrical Symbol" level="5"/>
+            </node>
+            <node name="Connectivity Symbols" level="4">
+              <node name="Network Symbol" level="5"/>
+              <node name="Signal Symbol" level="5"/>
+            </node>
+          </node>
+          <node name="Status Symbols" level="3">
+            <node name="State Indicators" level="4">
+              <node name="Active Symbol" level="5"/>
+              <node name="Standby Symbol" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Public Communication Symbols" level="2">
+          <node name="Access Symbols" level="3">
+            <node name="Movement and Entry Symbols" level="4">
+              <node name="Elevator Symbol" level="5"/>
+              <node name="Stair Symbol" level="5"/>
+            </node>
+            <node name="Facility Symbols" level="4">
+              <node name="Restroom Symbol" level="5"/>
+              <node name="Accessible Entrance Symbol" level="5"/>
+            </node>
+          </node>
+          <node name="Service Symbols" level="3">
+            <node name="Public Service Types" level="4">
+              <node name="Information Symbol" level="5"/>
+              <node name="Help Point Symbol" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Decorative and Applied Markings" level="1">
+        <node name="Surface Graphics" level="2">
+          <node name="Decorative Applied Graphics" level="3">
+            <node name="Retail and Display Graphics" level="4">
+              <node name="Window Graphic" level="5"/>
+              <node name="Promotional Decal" level="5"/>
+            </node>
+            <node name="Architectural Graphics" level="4">
+              <node name="Wall Graphic" level="5"/>
+              <node name="Glass Film Graphic" level="5"/>
+            </node>
+          </node>
+          <node name="Applied Labels and Decals" level="3">
+            <node name="Product Labeling Types" level="4">
+              <node name="Brand Label" level="5"/>
+              <node name="Specification Label" level="5"/>
+            </node>
+            <node name="Compliance Labeling Types" level="4">
+              <node name="Rating Plate" level="5"/>
+              <node name="Inspection Sticker" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Pattern and Boundary Markings" level="2">
+          <node name="Visual Boundary Types" level="3">
+            <node name="Delimitation Patterns" level="4">
+              <node name="Border Stripe" level="5"/>
+              <node name="Perimeter Band" level="5"/>
+            </node>
+          </node>
+          <node name="Repeated Surface Markings" level="3">
+            <node name="Patterned Marking Types" level="4">
+              <node name="Grid Marking" level="5"/>
+              <node name="Checker Pattern Marking" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </tree>
+  <tree treeId="tree_026" treeSlug="vehicle-types-5-levels" treeName="Vehicle Types" title="Vehicle Types - 5 Levels" depthGroup="Trees with 5 Levels" declaredLevels="5">
+    <node name="Vehicle Types" level="0">
+      <node name="Road Vehicles" level="1">
+        <node name="Passenger Vehicles" level="2">
+          <node name="Private Passenger Vehicles" level="3">
+            <node name="Small Passenger Cars" level="4">
+              <node name="City Car" level="5"/>
+              <node name="Microcar" level="5"/>
+            </node>
+            <node name="Standard Passenger Cars" level="4">
+              <node name="Compact Car" level="5"/>
+              <node name="Mid-Size Sedan" level="5"/>
+              <node name="Station Wagon" level="5"/>
+            </node>
+            <node name="Sport-Oriented Passenger Cars" level="4">
+              <node name="Coupe" level="5"/>
+              <node name="Convertible" level="5"/>
+            </node>
+          </node>
+          <node name="Multi-Purpose Passenger Vehicles" level="3">
+            <node name="Family Transport Vehicles" level="4">
+              <node name="Van" level="5"/>
+              <node name="Minivan" level="5"/>
+            </node>
+            <node name="Raised-Body Passenger Vehicles" level="4">
+              <node name="SUV" level="5"/>
+              <node name="Crossover" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Commercial Road Vehicles" level="2">
+          <node name="Light Commercial Vehicles" level="3">
+            <node name="Urban Delivery Vehicles" level="4">
+              <node name="Delivery Van" level="5"/>
+              <node name="Panel Van" level="5"/>
+            </node>
+            <node name="Service Vehicles" level="4">
+              <node name="Utility Pickup" level="5"/>
+              <node name="Service Van" level="5"/>
+            </node>
+          </node>
+          <node name="Heavy Commercial Vehicles" level="3">
+            <node name="Cargo Transport Trucks" level="4">
+              <node name="Box Truck" level="5"/>
+              <node name="Flatbed Truck" level="5"/>
+              <node name="Curtain-Side Truck" level="5"/>
+            </node>
+            <node name="Specialized Heavy Trucks" level="4">
+              <node name="Dump Truck" level="5"/>
+              <node name="Tanker Truck" level="5"/>
+              <node name="Refrigerated Truck" level="5"/>
+            </node>
+            <node name="Long-Haul Truck Units" level="4">
+              <node name="Semi-Truck" level="5"/>
+              <node name="Sleeper Cab Truck" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Two-Wheeled Road Vehicles" level="2">
+          <node name="Human-Powered Two-Wheelers" level="3">
+            <node name="Standard Bicycle Types" level="4">
+              <node name="City Bicycle" level="5"/>
+              <node name="Touring Bicycle" level="5"/>
+            </node>
+            <node name="Sport Bicycle Types" level="4">
+              <node name="Road Bicycle" level="5"/>
+              <node name="Mountain Bicycle" level="5"/>
+            </node>
+          </node>
+          <node name="Motorized Two-Wheelers" level="3">
+            <node name="Light Motor Two-Wheelers" level="4">
+              <node name="Scooter" level="5"/>
+              <node name="Moped" level="5"/>
+            </node>
+            <node name="Full Motorcycles" level="4">
+              <node name="Street Motorcycle" level="5"/>
+              <node name="Touring Motorcycle" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Rail Vehicles" level="1">
+        <node name="Urban Rail Vehicles" level="2">
+          <node name="Street Rail Systems" level="3">
+            <node name="Surface Rail Vehicles" level="4">
+              <node name="Tram" level="5"/>
+              <node name="Articulated Tram" level="5"/>
+            </node>
+          </node>
+          <node name="Rapid Transit Systems" level="3">
+            <node name="Metropolitan Rail Vehicles" level="4">
+              <node name="Subway Train" level="5"/>
+              <node name="Driverless Metro Train" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Mainline Rail Vehicles" level="2">
+          <node name="Passenger Rail Equipment" level="3">
+            <node name="Intercity Passenger Sets" level="4">
+              <node name="Passenger Train" level="5"/>
+              <node name="High-Speed Train" level="5"/>
+            </node>
+          </node>
+          <node name="Freight Rail Equipment" level="3">
+            <node name="Cargo Haul Systems" level="4">
+              <node name="Freight Train" level="5"/>
+              <node name="Container Freight Train" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </tree>
+  <tree treeId="tree_027" treeSlug="materials-6-levels" treeName="Materials" title="Materials - 6 Levels" depthGroup="Trees with 6 Levels" declaredLevels="6">
+    <node name="Materials" level="0">
+      <node name="Metals" level="1">
+        <node name="Ferrous Metals" level="2">
+          <node name="Steel Families" level="3">
+            <node name="Carbon Steels" level="4">
+              <node name="Low Carbon Steel" level="5">
+                <node name="Mild Steel Sheet" level="6"/>
+                <node name="Mild Steel Bar" level="6"/>
+              </node>
+              <node name="Medium Carbon Steel" level="5">
+                <node name="Medium Carbon Steel Rod" level="6"/>
+                <node name="Medium Carbon Steel Plate" level="6"/>
+              </node>
+            </node>
+            <node name="Alloy Steels" level="4">
+              <node name="Structural Alloy Steels" level="5">
+                <node name="Chromium Alloy Steel" level="6"/>
+                <node name="Nickel Alloy Steel" level="6"/>
+              </node>
+              <node name="Tool and Wear Steels" level="5">
+                <node name="Tool Steel" level="6"/>
+                <node name="Spring Steel" level="6"/>
+              </node>
+            </node>
+          </node>
+          <node name="Cast Iron Families" level="3">
+            <node name="Gray and Ductile Cast Irons" level="4">
+              <node name="Gray Cast Iron" level="5">
+                <node name="General Casting Iron" level="6"/>
+                <node name="Machine Base Iron" level="6"/>
+              </node>
+              <node name="Ductile Cast Iron" level="5">
+                <node name="Nodular Iron Casting" level="6"/>
+                <node name="Pipe Grade Ductile Iron" level="6"/>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node name="Non-Ferrous Metals" level="2">
+          <node name="Aluminum Families" level="3">
+            <node name="Wrought Aluminum" level="4">
+              <node name="Rolled Aluminum Products" level="5">
+                <node name="Aluminum Sheet" level="6"/>
+                <node name="Aluminum Plate" level="6"/>
+              </node>
+              <node name="Extruded Aluminum Products" level="5">
+                <node name="Aluminum Profile" level="6"/>
+                <node name="Aluminum Tube" level="6"/>
+              </node>
+            </node>
+            <node name="Cast Aluminum" level="4">
+              <node name="General Cast Grades" level="5">
+                <node name="Cast Aluminum Housing" level="6"/>
+                <node name="Cast Aluminum Bracket" level="6"/>
+              </node>
+            </node>
+          </node>
+          <node name="Copper Families" level="3">
+            <node name="Pure Copper Forms" level="4">
+              <node name="Electrical Copper" level="5">
+                <node name="Copper Wire" level="6"/>
+                <node name="Copper Busbar" level="6"/>
+              </node>
+              <node name="Sheet and Tube Copper" level="5">
+                <node name="Copper Sheet" level="6"/>
+                <node name="Copper Tube" level="6"/>
+              </node>
+            </node>
+            <node name="Copper Alloys" level="4">
+              <node name="Zinc-Based Copper Alloys" level="5">
+                <node name="Brass" level="6"/>
+                <node name="Naval Brass" level="6"/>
+              </node>
+              <node name="Tin-Based Copper Alloys" level="5">
+                <node name="Bronze" level="6"/>
+                <node name="Phosphor Bronze" level="6"/>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Polymers" level="1">
+        <node name="Thermoplastics" level="2">
+          <node name="Commodity Thermoplastics" level="3">
+            <node name="Polyolefins" level="4">
+              <node name="Polyethylene Types" level="5">
+                <node name="Low-Density Polyethylene" level="6"/>
+                <node name="High-Density Polyethylene" level="6"/>
+              </node>
+              <node name="Polypropylene Types" level="5">
+                <node name="Homopolymer Polypropylene" level="6"/>
+                <node name="Copolymer Polypropylene" level="6"/>
+              </node>
+            </node>
+            <node name="Transparent Commodity Plastics" level="4">
+              <node name="Polystyrene Families" level="5">
+                <node name="General Purpose Polystyrene" level="6"/>
+                <node name="High Impact Polystyrene" level="6"/>
+              </node>
+              <node name="Polyester Packaging Plastics" level="5">
+                <node name="PET Sheet" level="6"/>
+                <node name="PET Bottle Grade" level="6"/>
+              </node>
+            </node>
+          </node>
+          <node name="Engineering Thermoplastics" level="3">
+            <node name="Tough Engineering Plastics" level="4">
+              <node name="ABS Families" level="5">
+                <node name="Standard ABS" level="6"/>
+                <node name="Flame-Retardant ABS" level="6"/>
+              </node>
+              <node name="Polycarbonate Families" level="5">
+                <node name="Clear Polycarbonate" level="6"/>
+                <node name="Impact-Modified Polycarbonate" level="6"/>
+              </node>
+            </node>
+            <node name="Low-Friction Engineering Plastics" level="4">
+              <node name="Polyamide Families" level="5">
+                <node name="Nylon 6" level="6"/>
+                <node name="Nylon 66" level="6"/>
+              </node>
+              <node name="Acetal Families" level="5">
+                <node name="Homopolymer Acetal" level="6"/>
+                <node name="Copolymer Acetal" level="6"/>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node name="Thermosets" level="2">
+          <node name="Resin Systems" level="3">
+            <node name="Epoxy Systems" level="4">
+              <node name="Casting Epoxies" level="5">
+                <node name="Clear Casting Epoxy" level="6"/>
+                <node name="Filled Casting Epoxy" level="6"/>
+              </node>
+              <node name="Structural Epoxies" level="5">
+                <node name="Laminating Epoxy" level="6"/>
+                <node name="Adhesive Grade Epoxy" level="6"/>
+              </node>
+            </node>
+            <node name="Polyester and Phenolic Systems" level="4">
+              <node name="Polyester Resin Types" level="5">
+                <node name="General Polyester Resin" level="6"/>
+                <node name="Fiber-Reinforced Polyester Resin" level="6"/>
+              </node>
+              <node name="Phenolic Resin Types" level="5">
+                <node name="Molded Phenolic Resin" level="6"/>
+                <node name="Heat-Resistant Phenolic Resin" level="6"/>
+              </node>
+            </node>
+          </node>
+          <node name="Elastomeric and Flexible Systems" level="3">
+            <node name="Flexible Resin Systems" level="4">
+              <node name="Polyurethane Types" level="5">
+                <node name="Flexible Polyurethane" level="6"/>
+                <node name="Rigid Polyurethane" level="6"/>
+              </node>
+              <node name="Silicone Types" level="5">
+                <node name="Silicone Rubber" level="6"/>
+                <node name="High-Temperature Silicone" level="6"/>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Ceramics and Glass" level="1">
+        <node name="Ceramics" level="2">
+          <node name="Traditional Ceramics" level="3">
+            <node name="Building Ceramics" level="4">
+              <node name="Structural Ceramic Types" level="5">
+                <node name="Brick Ceramic" level="6"/>
+                <node name="Roof Tile Ceramic" level="6"/>
+              </node>
+              <node name="Surface Ceramic Types" level="5">
+                <node name="Wall Tile Ceramic" level="6"/>
+                <node name="Floor Tile Ceramic" level="6"/>
+              </node>
+            </node>
+            <node name="Fine Ceramics" level="4">
+              <node name="Whiteware Types" level="5">
+                <node name="Porcelain" level="6"/>
+                <node name="Bone China" level="6"/>
+              </node>
+              <node name="Dense Utility Ceramics" level="5">
+                <node name="Stoneware" level="6"/>
+                <node name="Earthenware" level="6"/>
+              </node>
+            </node>
+          </node>
+          <node name="Technical Ceramics" level="3">
+            <node name="Oxide Ceramics" level="4">
+              <node name="Alumina-Based Ceramics" level="5">
+                <node name="Alumina Ceramic" level="6"/>
+                <node name="Wear Alumina Ceramic" level="6"/>
+              </node>
+              <node name="Zirconia-Based Ceramics" level="5">
+                <node name="Zirconia Ceramic" level="6"/>
+                <node name="Stabilized Zirconia Ceramic" level="6"/>
+              </node>
+            </node>
+            <node name="Non-Oxide Ceramics" level="4">
+              <node name="Carbide Ceramics" level="5">
+                <node name="Silicon Carbide Ceramic" level="6"/>
+                <node name="Tungsten Carbide Ceramic" level="6"/>
+              </node>
+              <node name="Nitride Ceramics" level="5">
+                <node name="Silicon Nitride Ceramic" level="6"/>
+                <node name="Aluminum Nitride Ceramic" level="6"/>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node name="Glass" level="2">
+          <node name="Flat Glass" level="3">
+            <node name="Architectural Glass" level="4">
+              <node name="Basic Building Glass" level="5">
+                <node name="Float Glass" level="6"/>
+                <node name="Tinted Glass" level="6"/>
+              </node>
+              <node name="Performance Building Glass" level="5">
+                <node name="Coated Glass" level="6"/>
+                <node name="Laminated Safety Glass" level="6"/>
+              </node>
+            </node>
+            <node name="Specialty Flat Glass" level="4">
+              <node name="Heat and Impact Resistant Types" level="5">
+                <node name="Tempered Glass" level="6"/>
+                <node name="Fire-Resistant Glass" level="6"/>
+              </node>
+            </node>
+          </node>
+          <node name="Shaped Glass" level="3">
+            <node name="Hollow Glass" level="4">
+              <node name="Container Glass" level="5">
+                <node name="Bottle Glass" level="6"/>
+                <node name="Jar Glass" level="6"/>
+              </node>
+              <node name="Laboratory and Technical Glass" level="5">
+                <node name="Borosilicate Laboratory Glass" level="6"/>
+                <node name="Gauge Glass" level="6"/>
+              </node>
+            </node>
+            <node name="Decorative and Optical Glass" level="4">
+              <node name="Optical Glass Types" level="5">
+                <node name="Lens Glass" level="6"/>
+                <node name="Prism Glass" level="6"/>
+              </node>
+              <node name="Decorative Formed Glass" level="5">
+                <node name="Art Glass" level="6"/>
+                <node name="Frosted Decorative Glass" level="6"/>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Natural Materials" level="1">
+        <node name="Wood" level="2">
+          <node name="Solid Wood" level="3">
+            <node name="Hardwood Types" level="4">
+              <node name="Furniture Hardwoods" level="5">
+                <node name="Oak Wood" level="6"/>
+                <node name="Beech Wood" level="6"/>
+              </node>
+              <node name="Dense Decorative Hardwoods" level="5">
+                <node name="Walnut Wood" level="6"/>
+                <node name="Mahogany Wood" level="6"/>
+              </node>
+            </node>
+            <node name="Softwood Types" level="4">
+              <node name="Construction Softwoods" level="5">
+                <node name="Pine Wood" level="6"/>
+                <node name="Spruce Wood" level="6"/>
+              </node>
+              <node name="Lightweight Utility Softwoods" level="5">
+                <node name="Fir Wood" level="6"/>
+                <node name="Cedar Wood" level="6"/>
+              </node>
+            </node>
+          </node>
+          <node name="Engineered Wood" level="3">
+            <node name="Layered Wood Products" level="4">
+              <node name="Veneer-Based Panels" level="5">
+                <node name="Plywood" level="6"/>
+                <node name="Laminated Veneer Lumber" level="6"/>
+              </node>
+              <node name="Structural Laminated Products" level="5">
+                <node name="Laminated Timber" level="6"/>
+                <node name="Cross-Laminated Timber" level="6"/>
+              </node>
+            </node>
+            <node name="Fiber and Particle Boards" level="4">
+              <node name="Fiberboard Types" level="5">
+                <node name="MDF" level="6"/>
+                <node name="Hardboard" level="6"/>
+              </node>
+              <node name="Particle-Based Boards" level="5">
+                <node name="Particle Board" level="6"/>
+                <node name="Oriented Strand Board" level="6"/>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node name="Stone" level="2">
+          <node name="Building Stone" level="3">
+            <node name="Dense Structural Stone" level="4">
+              <node name="Igneous Building Stones" level="5">
+                <node name="Granite" level="6"/>
+                <node name="Basalt" level="6"/>
+              </node>
+              <node name="Sedimentary Building Stones" level="5">
+                <node name="Sandstone" level="6"/>
+                <node name="Limestone" level="6"/>
+              </node>
+            </node>
+            <node name="Decorative Stone" level="4">
+              <node name="Polished Decorative Stone" level="5">
+                <node name="Marble" level="6"/>
+                <node name="Onyx" level="6"/>
+              </node>
+              <node name="Split and Layered Decorative Stone" level="5">
+                <node name="Slate" level="6"/>
+                <node name="Schist" level="6"/>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node name="Fibers" level="2">
+          <node name="Plant Fibers" level="3">
+            <node name="Soft Plant Fibers" level="4">
+              <node name="Spinnable Soft Fibers" level="5">
+                <node name="Cotton Fiber" level="6"/>
+                <node name="Flax Fiber" level="6"/>
+              </node>
+              <node name="Refined Cellulosic Fibers" level="5">
+                <node name="Bamboo Fiber" level="6"/>
+                <node name="Ramie Fiber" level="6"/>
+              </node>
+            </node>
+            <node name="Coarse Plant Fibers" level="4">
+              <node name="Structural Plant Fibers" level="5">
+                <node name="Jute Fiber" level="6"/>
+                <node name="Hemp Fiber" level="6"/>
+              </node>
+              <node name="Rope and Matting Fibers" level="5">
+                <node name="Sisal Fiber" level="6"/>
+                <node name="Coir Fiber" level="6"/>
+              </node>
+            </node>
+          </node>
+          <node name="Animal Fibers" level="3">
+            <node name="Fine Animal Fibers" level="4">
+              <node name="Soft Apparel Fibers" level="5">
+                <node name="Wool" level="6"/>
+                <node name="Cashmere" level="6"/>
+              </node>
+              <node name="Luxury Fine Fibers" level="5">
+                <node name="Silk" level="6"/>
+                <node name="Mohair" level="6"/>
+              </node>
+            </node>
+            <node name="Coarser Animal Fibers" level="4">
+              <node name="Utility Hair Fibers" level="5">
+                <node name="Alpaca Fiber" level="6"/>
+                <node name="Camel Hair" level="6"/>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </tree>
+  <tree treeId="tree_028" treeSlug="plant-types-6-levels" treeName="Plant Types" title="Plant Types - 6 Levels" depthGroup="Trees with 6 Levels" declaredLevels="6">
+    <node name="Plant Types" level="0">
+      <node name="Flowering Plants" level="1">
+        <node name="Trees" level="2">
+          <node name="Deciduous Trees" level="3">
+            <node name="Broadleaf Deciduous Trees" level="4">
+              <node name="Oak Relatives" level="5">
+                <node name="White Oak" level="6"/>
+                <node name="Red Oak" level="6"/>
+              </node>
+              <node name="Maple Relatives" level="5">
+                <node name="Sugar Maple" level="6"/>
+                <node name="Field Maple" level="6"/>
+              </node>
+            </node>
+            <node name="Flowering Deciduous Trees" level="4">
+              <node name="Blossom Trees" level="5">
+                <node name="Cherry Tree" level="6"/>
+                <node name="Magnolia Tree" level="6"/>
+              </node>
+            </node>
+          </node>
+          <node name="Evergreen Trees" level="3">
+            <node name="Conifer Trees" level="4">
+              <node name="Needle-Bearing Conifers" level="5">
+                <node name="Pine Tree" level="6"/>
+                <node name="Spruce Tree" level="6"/>
+                <node name="Fir Tree" level="6"/>
+              </node>
+              <node name="Scale-Leaf Conifers" level="5">
+                <node name="Cypress Tree" level="6"/>
+                <node name="Juniper Tree" level="6"/>
+              </node>
+            </node>
+            <node name="Broadleaf Evergreen Trees" level="4">
+              <node name="Dense Foliage Evergreens" level="5">
+                <node name="Holly Tree" level="6"/>
+                <node name="Live Oak" level="6"/>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node name="Shrubs" level="2">
+          <node name="Flowering Shrubs" level="3">
+            <node name="Seasonal Flowering Shrubs" level="4">
+              <node name="Spring Flowering Types" level="5">
+                <node name="Azalea" level="6"/>
+                <node name="Rhododendron" level="6"/>
+              </node>
+              <node name="Summer Flowering Types" level="5">
+                <node name="Hydrangea" level="6"/>
+                <node name="Rose Shrub" level="6"/>
+              </node>
+            </node>
+            <node name="Fragrant Flowering Shrubs" level="4">
+              <node name="Scented Ornamental Types" level="5">
+                <node name="Lilac" level="6"/>
+                <node name="Gardenia" level="6"/>
+              </node>
+            </node>
+          </node>
+          <node name="Evergreen Shrubs" level="3">
+            <node name="Compact Evergreen Shrubs" level="4">
+              <node name="Formal Garden Types" level="5">
+                <node name="Boxwood" level="6"/>
+                <node name="Dwarf Holly" level="6"/>
+              </node>
+            </node>
+            <node name="Spreading Evergreen Shrubs" level="4">
+              <node name="Ground-Covering Shrubs" level="5">
+                <node name="Creeping Juniper" level="6"/>
+                <node name="Wintercreeper" level="6"/>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node name="Herbaceous Flowering Plants" level="2">
+          <node name="Perennials" level="3">
+            <node name="Upright Perennials" level="4">
+              <node name="Border Perennials" level="5">
+                <node name="Coneflower" level="6"/>
+                <node name="Delphinium" level="6"/>
+              </node>
+              <node name="Shade Perennials" level="5">
+                <node name="Hosta" level="6"/>
+                <node name="Astilbe" level="6"/>
+              </node>
+            </node>
+            <node name="Low-Growing Perennials" level="4">
+              <node name="Ground Layer Perennials" level="5">
+                <node name="Sedum" level="6"/>
+                <node name="Heuchera" level="6"/>
+              </node>
+            </node>
+          </node>
+          <node name="Annuals" level="3">
+            <node name="Bedding Annuals" level="4">
+              <node name="Color Bedding Types" level="5">
+                <node name="Petunia" level="6"/>
+                <node name="Marigold" level="6"/>
+                <node name="Zinnia" level="6"/>
+              </node>
+            </node>
+            <node name="Climbing Annuals" level="4">
+              <node name="Seasonal Vining Types" level="5">
+                <node name="Morning Glory" level="6"/>
+                <node name="Sweet Pea" level="6"/>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Non-Flowering Plants" level="1">
+        <node name="Conifers and Related Plants" level="2">
+          <node name="Tall Conifers" level="3">
+            <node name="Forest Conifer Types" level="4">
+              <node name="Cold-Climate Conifers" level="5">
+                <node name="Norway Spruce" level="6"/>
+                <node name="Scots Pine" level="6"/>
+              </node>
+              <node name="Mountain Conifers" level="5">
+                <node name="Larch" level="6"/>
+                <node name="Silver Fir" level="6"/>
+              </node>
+            </node>
+          </node>
+          <node name="Compact Conifers" level="3">
+            <node name="Ornamental Conifer Types" level="4">
+              <node name="Dwarf Garden Conifers" level="5">
+                <node name="Dwarf Pine" level="6"/>
+                <node name="Dwarf Spruce" level="6"/>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node name="Ferns" level="2">
+          <node name="Woodland Ferns" level="3">
+            <node name="Shade-Loving Ferns" level="4">
+              <node name="Moist Woodland Types" level="5">
+                <node name="Lady Fern" level="6"/>
+                <node name="Wood Fern" level="6"/>
+              </node>
+            </node>
+            <node name="Decorative Ferns" level="4">
+              <node name="Garden Display Types" level="5">
+                <node name="Japanese Painted Fern" level="6"/>
+                <node name="Autumn Fern" level="6"/>
+              </node>
+            </node>
+          </node>
+          <node name="Tropical and Large Ferns" level="3">
+            <node name="Bold Foliage Ferns" level="4">
+              <node name="Architectural Fern Types" level="5">
+                <node name="Tree Fern" level="6"/>
+                <node name="Bird's Nest Fern" level="6"/>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node name="Mosses and Liverworts" level="2">
+          <node name="Cushion and Carpet Mosses" level="3">
+            <node name="Forest Floor Mosses" level="4">
+              <node name="Dense Carpet Types" level="5">
+                <node name="Sheet Moss" level="6"/>
+                <node name="Cushion Moss" level="6"/>
+              </node>
+            </node>
+          </node>
+          <node name="Rock and Wall Mosses" level="3">
+            <node name="Stone Surface Mosses" level="4">
+              <node name="Moist Surface Types" level="5">
+                <node name="Rock Moss" level="6"/>
+                <node name="Wall Moss" level="6"/>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Aquatic and Wetland Plants" level="1">
+        <node name="Floating Plants" level="2">
+          <node name="Free-Floating Plants" level="3">
+            <node name="Small Floating Species" level="4">
+              <node name="Surface Mat Types" level="5">
+                <node name="Duckweed" level="6"/>
+                <node name="Water Lettuce" level="6"/>
+              </node>
+            </node>
+            <node name="Larger Floating Species" level="4">
+              <node name="Rosette Floating Types" level="5">
+                <node name="Water Hyacinth" level="6"/>
+                <node name="Floating Fern" level="6"/>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node name="Rooted Aquatic Plants" level="2">
+          <node name="Floating-Leaf Plants" level="3">
+            <node name="Pond Surface Types" level="4">
+              <node name="Broad Floating-Leaf Species" level="5">
+                <node name="Water Lily" level="6"/>
+                <node name="Lotus" level="6"/>
+              </node>
+            </node>
+          </node>
+          <node name="Submerged and Emergent Plants" level="3">
+            <node name="Marginal Wetland Types" level="4">
+              <node name="Reed-Forming Species" level="5">
+                <node name="Common Reed" level="6"/>
+                <node name="Bulrush" level="6"/>
+              </node>
+              <node name="Upright Edge Species" level="5">
+                <node name="Cattail" level="6"/>
+                <node name="Sweet Flag" level="6"/>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Vining and Climbing Plants" level="1">
+        <node name="Twining Climbers" level="2">
+          <node name="Ornamental Twining Plants" level="3">
+            <node name="Flowering Twining Types" level="4">
+              <node name="Fragrant Flowering Climbers" level="5">
+                <node name="Honeysuckle" level="6"/>
+                <node name="Jasmine" level="6"/>
+              </node>
+              <node name="Dense Covering Climbers" level="5">
+                <node name="Wisteria" level="6"/>
+                <node name="Morning Glory Vine" level="6"/>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node name="Tendril Climbers" level="2">
+          <node name="Fine-Gripping Climbers" level="3">
+            <node name="Decorative Tendril Types" level="4">
+              <node name="Clematis" level="5"/>
+              <node name="Passionflower" level="5"/>
+            </node>
+          </node>
+        </node>
+        <node name="Self-Clinging Climbers" level="2">
+          <node name="Surface-Attaching Climbers" level="3">
+            <node name="Wall-Covering Types" level="4">
+              <node name="Ivy" level="5"/>
+              <node name="Virginia Creeper" level="5"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </tree>
+  <tree treeId="tree_029" treeSlug="clothing-types-7-levels" treeName="Clothing Types" title="Clothing Types - 7 Levels" depthGroup="Trees with 7 Levels" declaredLevels="7">
+    <node name="Clothing Types" level="0">
+      <node name="Upper Body Clothing" level="1">
+        <node name="Shirts and Tops" level="2">
+          <node name="Casual Tops" level="3">
+            <node name="Short-Sleeve Casual Tops" level="4">
+              <node name="Basic Knit Tops" level="5">
+                <node name="Crew Neck Knit Tops" level="6">
+                  <node name="Standard Crew Neck T-Shirt" level="7"/>
+                  <node name="Relaxed Fit Crew Neck T-Shirt" level="7"/>
+                </node>
+                <node name="V-Shaped Neck Knit Tops" level="6">
+                  <node name="V-Neck T-Shirt" level="7"/>
+                  <node name="Deep V-Neck T-Shirt" level="7"/>
+                </node>
+              </node>
+              <node name="Structured Casual Tops" level="5">
+                <node name="Button-Front Casual Tops" level="6">
+                  <node name="Short-Sleeve Casual Button Shirt" level="7"/>
+                  <node name="Camp Collar Shirt" level="7"/>
+                </node>
+              </node>
+            </node>
+            <node name="Long-Sleeve Casual Tops" level="4">
+              <node name="Soft Pull-On Tops" level="5">
+                <node name="Plain Long-Sleeve Tops" level="6">
+                  <node name="Standard Long-Sleeve Shirt" level="7"/>
+                  <node name="Thermal Long-Sleeve Top" level="7"/>
+                </node>
+                <node name="Neck-Defined Tops" level="6">
+                  <node name="Turtleneck Top" level="7"/>
+                  <node name="Mock Neck Top" level="7"/>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node name="Structured Shirts" level="3">
+            <node name="Formal Shirts" level="4">
+              <node name="Buttoned Dress Shirts" level="5">
+                <node name="Classic Dress Shirt Types" level="6">
+                  <node name="Standard Dress Shirt" level="7"/>
+                  <node name="Spread Collar Dress Shirt" level="7"/>
+                </node>
+                <node name="Textured Dress Shirt Types" level="6">
+                  <node name="Oxford Shirt" level="7"/>
+                  <node name="Twill Dress Shirt" level="7"/>
+                </node>
+              </node>
+            </node>
+            <node name="Casual Structured Shirts" level="4">
+              <node name="Heavier Casual Shirts" level="5">
+                <node name="Brushed Fabric Shirts" level="6">
+                  <node name="Flannel Shirt" level="7"/>
+                  <node name="Heavy Overshirt" level="7"/>
+                </node>
+                <node name="Utility Casual Shirts" level="6">
+                  <node name="Work Shirt" level="7"/>
+                  <node name="Pocket Utility Shirt" level="7"/>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node name="Sweaters and Knitwear" level="2">
+          <node name="Lightweight Knitwear" level="3">
+            <node name="Fine Gauge Knitwear" level="4">
+              <node name="Pullover Knitwear" level="5">
+                <node name="Basic Fine Pullovers" level="6">
+                  <node name="Crew Neck Sweater" level="7"/>
+                  <node name="V-Neck Sweater" level="7"/>
+                </node>
+                <node name="Refined Fine Pullovers" level="6">
+                  <node name="Fine Merino Sweater" level="7"/>
+                  <node name="Fine Knit Mock Neck" level="7"/>
+                </node>
+              </node>
+            </node>
+            <node name="Sleeveless Knitwear" level="4">
+              <node name="Layering Knit Pieces" level="5">
+                <node name="Vest Types" level="6">
+                  <node name="Knit Vest" level="7"/>
+                  <node name="Sweater Vest" level="7"/>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node name="Heavy Knitwear" level="3">
+            <node name="Thick Pullovers" level="4">
+              <node name="Textured Heavy Knitwear" level="5">
+                <node name="Cable Pattern Knitwear" level="6">
+                  <node name="Cable Knit Sweater" level="7"/>
+                  <node name="Heavy Cable Pullover" level="7"/>
+                </node>
+                <node name="Ribbed Heavy Knitwear" level="6">
+                  <node name="Ribbed Sweater" level="7"/>
+                  <node name="Chunky Ribbed Pullover" level="7"/>
+                </node>
+              </node>
+            </node>
+            <node name="Oversized Knitwear" level="4">
+              <node name="Relaxed Heavy Knitwear" level="5">
+                <node name="Loose Silhouette Sweaters" level="6">
+                  <node name="Oversized Pullover" level="7"/>
+                  <node name="Chunky Knit Sweater" level="7"/>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node name="Jackets and Outer Layers" level="2">
+          <node name="Lightweight Jackets" level="3">
+            <node name="Casual Light Jackets" level="4">
+              <node name="Short Casual Jackets" level="5">
+                <node name="Classic Waist-Length Jackets" level="6">
+                  <node name="Bomber Jacket" level="7"/>
+                  <node name="Harrington Jacket" level="7"/>
+                </node>
+                <node name="Utility Short Jackets" level="6">
+                  <node name="Field Jacket" level="7"/>
+                  <node name="Shirt Jacket" level="7"/>
+                </node>
+              </node>
+            </node>
+            <node name="Weather-Resistant Light Jackets" level="4">
+              <node name="Wind and Rain Layers" level="5">
+                <node name="Light Protective Shells" level="6">
+                  <node name="Windbreaker" level="7"/>
+                  <node name="Packable Rain Jacket" level="7"/>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node name="Heavy Outerwear" level="3">
+            <node name="Insulated Jackets" level="4">
+              <node name="Quilted Insulated Outerwear" level="5">
+                <node name="Short Insulated Jackets" level="6">
+                  <node name="Puffer Jacket" level="7"/>
+                  <node name="Quilted Jacket" level="7"/>
+                </node>
+                <node name="Longer Insulated Jackets" level="6">
+                  <node name="Long Puffer Coat" level="7"/>
+                  <node name="Insulated Parka" level="7"/>
+                </node>
+              </node>
+            </node>
+            <node name="Structured Coats" level="4">
+              <node name="Wool and Tailored Coats" level="5">
+                <node name="Classic Coat Shapes" level="6">
+                  <node name="Overcoat" level="7"/>
+                  <node name="Peacoat" level="7"/>
+                </node>
+                <node name="Full-Length Coat Shapes" level="6">
+                  <node name="Long Wool Coat" level="7"/>
+                  <node name="Double-Breasted Coat" level="7"/>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Lower Body Clothing" level="1">
+        <node name="Trousers and Pants" level="2">
+          <node name="Casual Pants" level="3">
+            <node name="Straight and Standard Fits" level="4">
+              <node name="Everyday Casual Trousers" level="5">
+                <node name="Clean Casual Styles" level="6">
+                  <node name="Chino Pants" level="7"/>
+                  <node name="Twill Pants" level="7"/>
+                </node>
+                <node name="Utility Casual Styles" level="6">
+                  <node name="Work Pants" level="7"/>
+                  <node name="Five-Pocket Casual Pants" level="7"/>
+                </node>
+              </node>
+            </node>
+            <node name="Relaxed Casual Fits" level="4">
+              <node name="Loose Utility Styles" level="5">
+                <node name="Pocketed Relaxed Styles" level="6">
+                  <node name="Cargo Pants" level="7"/>
+                  <node name="Relaxed Cargo Pants" level="7"/>
+                </node>
+                <node name="Soft Casual Styles" level="6">
+                  <node name="Jogger Pants" level="7"/>
+                  <node name="Drawstring Lounge Pants" level="7"/>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node name="Formal Pants" level="3">
+            <node name="Tailored Formal Trousers" level="4">
+              <node name="Classic Tailored Fits" level="5">
+                <node name="Standard Formal Styles" level="6">
+                  <node name="Dress Trousers" level="7"/>
+                  <node name="Pleated Trousers" level="7"/>
+                </node>
+                <node name="Narrow Tailored Fits" level="6">
+                  <node name="Slim Trousers" level="7"/>
+                  <node name="Tapered Trousers" level="7"/>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node name="Denim Clothing" level="2">
+          <node name="Standard Denim" level="3">
+            <node name="Straight and Regular Fits" level="4">
+              <node name="Classic Denim Lines" level="5">
+                <node name="Standard Straight Styles" level="6">
+                  <node name="Straight Jeans" level="7"/>
+                  <node name="Regular Fit Jeans" level="7"/>
+                </node>
+              </node>
+            </node>
+            <node name="Narrow Denim Fits" level="4">
+              <node name="Slim Narrow Styles" level="5">
+                <node name="Fitted Denim Lines" level="6">
+                  <node name="Slim Jeans" level="7"/>
+                  <node name="Skinny Jeans" level="7"/>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node name="Loose and Utility Denim" level="3">
+            <node name="Relaxed Denim Fits" level="4">
+              <node name="Wide Casual Styles" level="5">
+                <node name="Loose Denim Lines" level="6">
+                  <node name="Baggy Jeans" level="7"/>
+                  <node name="Wide-Leg Jeans" level="7"/>
+                </node>
+              </node>
+            </node>
+            <node name="Workwear Denim" level="4">
+              <node name="Reinforced Utility Styles" level="5">
+                <node name="Functional Denim Lines" level="6">
+                  <node name="Carpenter Jeans" level="7"/>
+                  <node name="Utility Jeans" level="7"/>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node name="Skirts and Similar Garments" level="2">
+          <node name="Short Skirts" level="3">
+            <node name="Fitted Short Skirts" level="4">
+              <node name="Structured Mini Styles" level="5">
+                <node name="Basic Short Skirts" level="6">
+                  <node name="Mini Skirt" level="7"/>
+                  <node name="Denim Mini Skirt" level="7"/>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node name="Mid-Length Skirts" level="3">
+            <node name="Structured Mid-Length Styles" level="4">
+              <node name="Tailored Mid-Length Skirts" level="5">
+                <node name="Office and Dress Styles" level="6">
+                  <node name="Pencil Skirt" level="7"/>
+                  <node name="A-Line Skirt" level="7"/>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node name="Long Skirts" level="3">
+            <node name="Flowing Long Styles" level="4">
+              <node name="Soft Full-Length Skirts" level="5">
+                <node name="Extended Hem Styles" level="6">
+                  <node name="Maxi Skirt" level="7"/>
+                  <node name="Pleated Maxi Skirt" level="7"/>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Full-Body Clothing" level="1">
+        <node name="Dresses" level="2">
+          <node name="Casual Dresses" level="3">
+            <node name="Short Casual Dresses" level="4">
+              <node name="Simple Casual Shapes" level="5">
+                <node name="Easy-Wear Dress Styles" level="6">
+                  <node name="T-Shirt Dress" level="7"/>
+                  <node name="Shift Dress" level="7"/>
+                </node>
+              </node>
+            </node>
+            <node name="Mid-Length Casual Dresses" level="4">
+              <node name="Structured Casual Shapes" level="5">
+                <node name="Daywear Dress Styles" level="6">
+                  <node name="Shirt Dress" level="7"/>
+                  <node name="Wrap Dress" level="7"/>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node name="Formal Dresses" level="3">
+            <node name="Short Formal Dresses" level="4">
+              <node name="Structured Occasion Dresses" level="5">
+                <node name="Fitted Event Styles" level="6">
+                  <node name="Cocktail Dress" level="7"/>
+                  <node name="Sheath Dress" level="7"/>
+                </node>
+              </node>
+            </node>
+            <node name="Long Formal Dresses" level="4">
+              <node name="Full-Length Occasion Dresses" level="5">
+                <node name="Eveningwear Dress Styles" level="6">
+                  <node name="Evening Dress" level="7"/>
+                  <node name="Column Dress" level="7"/>
+                  <node name="Gown" level="7"/>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node name="One-Piece Garments" level="2">
+          <node name="Jumpsuits" level="3">
+            <node name="Casual Jumpsuits" level="4">
+              <node name="Everyday One-Piece Styles" level="5">
+                <node name="Relaxed Casual Cuts" level="6">
+                  <node name="Utility Jumpsuit" level="7"/>
+                  <node name="Sleeveless Jumpsuit" level="7"/>
+                </node>
+              </node>
+            </node>
+            <node name="Formal Jumpsuits" level="4">
+              <node name="Tailored One-Piece Styles" level="5">
+                <node name="Structured Formal Cuts" level="6">
+                  <node name="Tailored Jumpsuit" level="7"/>
+                  <node name="Wide-Leg Jumpsuit" level="7"/>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node name="Overalls" level="3">
+            <node name="Work Overalls" level="4">
+              <node name="Protective Coverage Styles" level="5">
+                <node name="Full Coverage Utility Pieces" level="6">
+                  <node name="Bib Overall" level="7"/>
+                  <node name="Coverall" level="7"/>
+                </node>
+              </node>
+            </node>
+            <node name="Casual Overalls" level="4">
+              <node name="Leisure One-Piece Styles" level="5">
+                <node name="Denim Casual Pieces" level="6">
+                  <node name="Denim Overall" level="7"/>
+                  <node name="Short Overall" level="7"/>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node name="Specialized Clothing" level="1">
+        <node name="Sleepwear" level="2">
+          <node name="Sleep Sets" level="3">
+            <node name="Coordinated Sleepwear" level="4">
+              <node name="Matching Top and Bottom Sets" level="5">
+                <node name="Soft Two-Piece Sets" level="6">
+                  <node name="Two-Piece Pajama Set" level="7"/>
+                  <node name="Buttoned Pajama Set" level="7"/>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node name="Sleep Separates" level="3">
+            <node name="Sleep Tops" level="4">
+              <node name="Light Sleep Upper Pieces" level="5">
+                <node name="Basic Sleep Top Types" level="6">
+                  <node name="Pajama Shirt" level="7"/>
+                  <node name="Sleep T-Shirt" level="7"/>
+                </node>
+              </node>
+            </node>
+            <node name="Sleep Bottoms" level="4">
+              <node name="Soft Sleep Lower Pieces" level="5">
+                <node name="Relaxed Sleep Bottom Types" level="6">
+                  <node name="Pajama Pants" level="7"/>
+                  <node name="Sleep Shorts" level="7"/>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node name="Undergarments" level="2">
+          <node name="Upper Undergarments" level="3">
+            <node name="Support Layers" level="4">
+              <node name="Supportive Upper Basewear" level="5">
+                <node name="Structured Support Types" level="6">
+                  <node name="Bra" level="7"/>
+                  <node name="Sports Bra" level="7"/>
+                </node>
+              </node>
+            </node>
+            <node name="Base Tops" level="4">
+              <node name="Lightweight Under Layers" level="5">
+                <node name="Soft Base Top Types" level="6">
+                  <node name="Undershirt" level="7"/>
+                  <node name="Tank Undershirt" level="7"/>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node name="Lower Undergarments" level="3">
+            <node name="Brief Styles" level="4">
+              <node name="Close-Fit Base Layers" level="5">
+                <node name="Basic Brief Types" level="6">
+                  <node name="Briefs" level="7"/>
+                  <node name="High-Waist Briefs" level="7"/>
+                </node>
+              </node>
+            </node>
+            <node name="Short Styles" level="4">
+              <node name="Extended Base Layers" level="5">
+                <node name="Short Undergarment Types" level="6">
+                  <node name="Boxer Briefs" level="7"/>
+                  <node name="Boxers" level="7"/>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node name="Performance and Protective Clothing" level="2">
+          <node name="Athletic Clothing" level="3">
+            <node name="Training Tops" level="4">
+              <node name="Performance Upper Layers" level="5">
+                <node name="Active Top Types" level="6">
+                  <node name="Compression Shirt" level="7"/>
+                  <node name="Training Jersey" level="7"/>
+                </node>
+              </node>
+            </node>
+            <node name="Training Bottoms" level="4">
+              <node name="Performance Lower Layers" level="5">
+                <node name="Active Bottom Types" level="6">
+                  <node name="Running Shorts" level="7"/>
+                  <node name="Track Pants" level="7"/>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node name="Protective Outerwear" level="3">
+            <node name="Weather Protection" level="4">
+              <node name="Environmental Shield Layers" level="5">
+                <node name="Protective Shell Types" level="6">
+                  <node name="Raincoat" level="7"/>
+                  <node name="Waterproof Shell" level="7"/>
+                </node>
+              </node>
+            </node>
+            <node name="Visibility Clothing" level="4">
+              <node name="High-Visibility Layers" level="5">
+                <node name="Safety Visibility Types" level="6">
+                  <node name="Reflective Vest" level="7"/>
+                  <node name="High-Visibility Jacket" level="7"/>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </tree>
+  <tree treeId="tree_030" treeSlug="animal-types-8-levels" treeName="Animal Types" title="Animal Types - 8 Levels" depthGroup="Trees with 8 Levels" declaredLevels="8">
+    <node name="Animal Types" level="0">
+      <node name="Vertebrates" level="1">
+        <node name="Mammals" level="2">
+          <node name="Carnivorous Mammals" level="3">
+            <node name="Feline Mammals" level="4">
+              <node name="Big Cats" level="5">
+                <node name="Panthera-Type Cats" level="6">
+                  <node name="Spotted Panthera Cats" level="7">
+                    <node name="Leopard" level="8"/>
+                    <node name="Jaguar" level="8"/>
+                  </node>
+                  <node name="Striped and Plain Panthera Cats" level="7">
+                    <node name="Tiger" level="8"/>
+                    <node name="Lion" level="8"/>
+                  </node>
+                </node>
+                <node name="Non-Panthera Large Cats" level="6">
+                  <node name="Puma-Type Cats" level="7">
+                    <node name="Cougar" level="8"/>
+                    <node name="Jaguarundi" level="8"/>
+                  </node>
+                </node>
+              </node>
+              <node name="Small Wild Cats" level="5">
+                <node name="Forest and Brush Cats" level="6">
+                  <node name="Lynx-Type Cats" level="7">
+                    <node name="Eurasian Lynx" level="8"/>
+                    <node name="Bobcat" level="8"/>
+                  </node>
+                  <node name="Small Solitary Cats" level="7">
+                    <node name="Ocelot" level="8"/>
+                    <node name="Serval" level="8"/>
+                  </node>
+                </node>
+              </node>
+            </node>
+            <node name="Canine Mammals" level="4">
+              <node name="Wolf and Fox Relatives" level="5">
+                <node name="Wolf-Type Canids" level="6">
+                  <node name="Pack-Hunting Canids" level="7">
+                    <node name="Gray Wolf" level="8"/>
+                    <node name="African Wild Dog" level="8"/>
+                  </node>
+                  <node name="Solitary or Paired Canids" level="7">
+                    <node name="Coyote" level="8"/>
+                    <node name="Golden Jackal" level="8"/>
+                  </node>
+                </node>
+                <node name="Fox-Type Canids" level="6">
+                  <node name="Small Foxes" level="7">
+                    <node name="Red Fox" level="8"/>
+                    <node name="Arctic Fox" level="8"/>
+                  </node>
+                  <node name="Desert and Large-Eared Foxes" level="7">
+                    <node name="Fennec Fox" level="8"/>
+                    <node name="Bat-Eared Fox" level="8"/>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node name="Herbivorous Mammals" level="3">
+            <node name="Hoofed Mammals" level="4">
+              <node name="Even-Toed Hoofed Mammals" level="5">
+                <node name="Deer Relatives" level="6">
+                  <node name="Forest Deer" level="7">
+                    <node name="Red Deer" level="8"/>
+                    <node name="Roe Deer" level="8"/>
+                  </node>
+                  <node name="Large Open-Area Deer" level="7">
+                    <node name="Elk" level="8"/>
+                    <node name="Reindeer" level="8"/>
+                  </node>
+                </node>
+                <node name="Bovids" level="6">
+                  <node name="Wild Cattle Relatives" level="7">
+                    <node name="Bison" level="8"/>
+                    <node name="Yak" level="8"/>
+                  </node>
+                  <node name="Antelope and Goat Relatives" level="7">
+                    <node name="Gazelle" level="8"/>
+                    <node name="Ibex" level="8"/>
+                  </node>
+                </node>
+              </node>
+              <node name="Odd-Toed Hoofed Mammals" level="5">
+                <node name="Horse Relatives" level="6">
+                  <node name="Open-Plain Grazers" level="7">
+                    <node name="Horse" level="8"/>
+                    <node name="Zebra" level="8"/>
+                  </node>
+                </node>
+                <node name="Rhinoceros Relatives" level="6">
+                  <node name="Large Browsing Types" level="7">
+                    <node name="White Rhinoceros" level="8"/>
+                    <node name="Black Rhinoceros" level="8"/>
+                  </node>
+                </node>
+              </node>
+            </node>
+            <node name="Small Herbivorous Mammals" level="4">
+              <node name="Rodent Mammals" level="5">
+                <node name="Tree and Ground Rodents" level="6">
+                  <node name="Tree Rodents" level="7">
+                    <node name="Squirrel" level="8"/>
+                    <node name="Chipmunk" level="8"/>
+                  </node>
+                  <node name="Ground Rodents" level="7">
+                    <node name="Marmot" level="8"/>
+                    <node name="Prairie Dog" level="8"/>
+                  </node>
+                </node>
+                <node name="Burrowing and Water Rodents" level="6">
+                  <node name="Burrowing Rodents" level="7">
+                    <node name="Mole Rat" level="8"/>
+                    <node name="Pocket Gopher" level="8"/>
+                  </node>
+                  <node name="Semi-Aquatic Rodents" level="7">
+                    <node name="Beaver" level="8"/>
+                    <node name="Capybara" level="8"/>
+                  </node>
+                </node>
+              </node>
+              <node name="Lagomorph Mammals" level="5">
+                <node name="Rabbit Relatives" level="6">
+                  <node name="Small Rabbit Types" level="7">
+                    <node name="Cottontail Rabbit" level="8"/>
+                    <node name="Pygmy Rabbit" level="8"/>
+                  </node>
+                </node>
+                <node name="Hare Relatives" level="6">
+                  <node name="Open-Land Hare Types" level="7">
+                    <node name="European Hare" level="8"/>
+                    <node name="Arctic Hare" level="8"/>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node name="Birds" level="2">
+          <node name="Flying Birds" level="3">
+            <node name="Perching Birds" level="4">
+              <node name="Songbird Types" level="5">
+                <node name="Finch-Like Birds" level="6">
+                  <node name="Seed-Eating Songbirds" level="7">
+                    <node name="Finch" level="8"/>
+                    <node name="Canary" level="8"/>
+                  </node>
+                  <node name="Small Colorful Songbirds" level="7">
+                    <node name="Goldfinch" level="8"/>
+                    <node name="Siskin" level="8"/>
+                  </node>
+                </node>
+                <node name="Crow and Raven Relatives" level="6">
+                  <node name="Medium Corvids" level="7">
+                    <node name="Crow" level="8"/>
+                    <node name="Magpie" level="8"/>
+                  </node>
+                  <node name="Large Corvids" level="7">
+                    <node name="Raven" level="8"/>
+                    <node name="Rook" level="8"/>
+                  </node>
+                </node>
+              </node>
+            </node>
+            <node name="Birds of Prey" level="4">
+              <node name="Daytime Predators" level="5">
+                <node name="Falcon Types" level="6">
+                  <node name="Fast Aerial Hunters" level="7">
+                    <node name="Peregrine Falcon" level="8"/>
+                    <node name="Kestrel" level="8"/>
+                  </node>
+                </node>
+                <node name="Eagle and Hawk Types" level="6">
+                  <node name="Broad-Wing Hunters" level="7">
+                    <node name="Eagle" level="8"/>
+                    <node name="Hawk" level="8"/>
+                  </node>
+                  <node name="Forest Ambush Hunters" level="7">
+                    <node name="Sparrowhawk" level="8"/>
+                    <node name="Goshawk" level="8"/>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node name="Flightless and Water-Associated Birds" level="3">
+            <node name="Water Birds" level="4">
+              <node name="Surface Water Birds" level="5">
+                <node name="Duck Relatives" level="6">
+                  <node name="Freshwater Ducks" level="7">
+                    <node name="Mallard" level="8"/>
+                    <node name="Teal" level="8"/>
+                  </node>
+                  <node name="Diving Ducks" level="7">
+                    <node name="Pochard" level="8"/>
+                    <node name="Scaup" level="8"/>
+                  </node>
+                </node>
+                <node name="Swan and Goose Relatives" level="6">
+                  <node name="Large Grazing Water Birds" level="7">
+                    <node name="Swan" level="8"/>
+                    <node name="Goose" level="8"/>
+                  </node>
+                </node>
+              </node>
+              <node name="Shore and Wading Birds" level="5">
+                <node name="Long-Legged Waders" level="6">
+                  <node name="Marsh Waders" level="7">
+                    <node name="Heron" level="8"/>
+                    <node name="Egret" level="8"/>
+                  </node>
+                </node>
+              </node>
+            </node>
+            <node name="Flightless Birds" level="4">
+              <node name="Running Birds" level="5">
+                <node name="Large Running Birds" level="6">
+                  <node name="Open-Land Runners" level="7">
+                    <node name="Ostrich" level="8"/>
+                    <node name="Emu" level="8"/>
+                  </node>
+                </node>
+              </node>
+              <node name="Swimming Flightless Birds" level="5">
+                <node name="Cold-Region Swimmers" level="6">
+                  <node name="Penguin Types" level="7">
+                    <node name="Emperor Penguin" level="8"/>
+                    <node name="Adélie Penguin" level="8"/>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node name="Reptiles and Amphibians" level="2">
+          <node name="Reptiles" level="3">
+            <node name="Lizards and Snakes" level="4">
+              <node name="Lizard Types" level="5">
+                <node name="Ground Lizards" level="6">
+                  <node name="Monitor-Type Lizards" level="7">
+                    <node name="Komodo Dragon" level="8"/>
+                    <node name="Savannah Monitor" level="8"/>
+                  </node>
+                  <node name="Small Agile Lizards" level="7">
+                    <node name="Gecko" level="8"/>
+                    <node name="Skink" level="8"/>
+                  </node>
+                </node>
+              </node>
+              <node name="Snake Types" level="5">
+                <node name="Constricting Snakes" level="6">
+                  <node name="Large Constrictors" level="7">
+                    <node name="Python" level="8"/>
+                    <node name="Boa" level="8"/>
+                  </node>
+                </node>
+                <node name="Venomous Snakes" level="6">
+                  <node name="Front-Fanged Snakes" level="7">
+                    <node name="Cobra" level="8"/>
+                    <node name="Viper" level="8"/>
+                  </node>
+                </node>
+              </node>
+            </node>
+            <node name="Turtles and Crocodilians" level="4">
+              <node name="Turtle Types" level="5">
+                <node name="Land Turtles" level="6">
+                  <node name="Heavy-Shelled Tortoises" level="7">
+                    <node name="Tortoise" level="8"/>
+                    <node name="Giant Tortoise" level="8"/>
+                  </node>
+                </node>
+                <node name="Water Turtles" level="6">
+                  <node name="Freshwater Turtles" level="7">
+                    <node name="Pond Turtle" level="8"/>
+                    <node name="Snapping Turtle" level="8"/>
+                  </node>
+                </node>
+              </node>
+              <node name="Crocodilian Types" level="5">
+                <node name="River Predators" level="6">
+                  <node name="Large Aquatic Predators" level="7">
+                    <node name="Crocodile" level="8"/>
+                    <node name="Alligator" level="8"/>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node name="Amphibians" level="3">
+            <node name="Frogs and Toads" level="4">
+              <node name="Frog Types" level="5">
+                <node name="Tree Frogs" level="6">
+                  <node name="Climbing Frog Types" level="7">
+                    <node name="Tree Frog" level="8"/>
+                    <node name="Glass Frog" level="8"/>
+                  </node>
+                </node>
+                <node name="Ground and Pond Frogs" level="6">
+                  <node name="Common Pond Frog Types" level="7">
+                    <node name="Bullfrog" level="8"/>
+                    <node name="Marsh Frog" level="8"/>
+                  </node>
+                </node>
+              </node>
+              <node name="Toad Types" level="5">
+                <node name="Dry-Land Toads" level="6">
+                  <node name="Warted Toad Types" level="7">
+                    <node name="Common Toad" level="8"/>
+                    <node name="Cane Toad" level="8"/>
+                  </node>
+                </node>
+              </node>
+            </node>
+            <node name="Salamanders and Newts" level="4">
+              <node name="Salamander Types" level="5">
+                <node name="Forest Salamanders" level="6">
+                  <node name="Moist-Habitat Types" level="7">
+                    <node name="Fire Salamander" level="8"/>
+                    <node name="Tiger Salamander" level="8"/>
+                  </node>
+                </node>
+              </node>
+              <node name="Newt Types" level="5">
+                <node name="Pond Newts" level="6">
+                  <node name="Small Aquatic Types" level="7">
+                    <node name="Smooth Newt" level="8"/>
+                    <node name="Great Crested Newt" level="8"/>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </tree>
+</exampleTrees>

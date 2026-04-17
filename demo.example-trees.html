@@ -1,0 +1,39 @@
+<!--
+==================================================================================================
+File: demo.example-trees.html
+Description: Simple local demo for loading and rendering example tree datasets in multiple formats
+Author: Stephan Kühn (LoTeK)
+Mail: info@lotek-zone.com
+Web: https://lotek-zone.com/
+GitHub: https://github.com/LoTeK-Zone
+Repository: https://github.com/LoTeK-Zone/dataset-multi-level-tree-test-data
+Version: 0.1.0
+Last Updated: 18.04.2026
+License: MIT
+==================================================================================================
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Demo Example Trees</title>
+  <link rel="stylesheet" href="./assets/css/demo.example-trees.css">
+</head>
+<body>
+  <main class="page">
+    <h1>Demo Example Trees</h1>
+
+    <section class="controls">
+      <label for="fileInput">Open data file</label>
+      <input id="fileInput" type="file" accept=".json,.xml,.csv,.md,.txt">
+      <input id="filter" type="text" placeholder="Filter">
+      <div id="status" class="status">Choose a JSON, XML, CSV, or Markdown tree file.</div>
+    </section>
+
+    <section id="app" class="output"></section>
+  </main>
+
+  <script src="./assets/js/demo.example-trees.js"></script>
+</body>
+</html>
