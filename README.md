@@ -1,6 +1,6 @@
 # Multi Level Example Trees
 
-![Version](https://img.shields.io/badge/version-v0.1.0-blue?style=flat-square)
+![Version](https://img.shields.io/badge/version-v0.1.1-blue?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 ![Data](https://img.shields.io/badge/data-Markdown%20%7C%20JSON%20%7C%20XML%20%7C%20CSV-blue?style=flat-square)
 ![Demo](https://img.shields.io/badge/demo-HTML-lightgrey?style=flat-square)
