@@ -103,7 +103,7 @@ The dataset currently includes the following tree groups and topics:
 
 ### Total
 
-- Total: 32 Trees with 2916 Items
+- 32 Trees with 2916 Items
 
 ## Level Counting Rule
 
@@ -118,8 +118,8 @@ Level counting uses this convention:
 Example:
 
 - Root node only = Level 0
-- Root -> Category -> Item = Two Levels
-- Root -> Category -> Subcategory -> Item = Three Levels
+- Root -> Category -> Item = 2 Levels
+- Root -> Category -> Subcategory -> Item = 3 Levels
 
 ## Data Characteristics
 
@@ -187,6 +187,9 @@ Examples:
 
 ## Repository Structure
 
+<details>
+<summary>Show repository structure</summary>
+
 ```text
 data-example-trees
 ├── assets
@@ -206,22 +209,8 @@ data-example-trees
 │   └── example-trees.nested-tree.xml            # Nested tree dataset in XML format
 ├── CHANGELOG.md                                 # Version history
 ├── demo.example-trees.html                      # Simple local demo for loading and viewing the datasets
+├── LICENSE                                      # License Text
 └── README.md                                    # Project overview, usage notes, and dataset description
 ```
 
-## Versioning
-
-This repository uses semantic versioning.
-
-Current version:
-- `v0.1.0`
-
-Version details are tracked in:
-
-- `CHANGELOG.md`
-
-## License
-
-MIT License
-
-See `LICENSE` for details.
+</details>
