@@ -50,54 +50,60 @@ The dataset currently includes the following tree groups and topics:
 
 ### Trees with 2 Levels
 
-- Buildings - 2 Levels
-- Celestial Bodies - 2 Levels
-- Geometric Shapes and Solids - 2 Levels
-- Mythical Creatures - 2 Levels
-- Plant Forms - 2 Levels
-- Tools - 2 Levels
-- Weather and Natural Phenomena - 2 Levels
+Buildings - 2 Level Trees - 24 Items
+Cables and Signal Types - 2 Level Trees - 30 Items
+Celestial Bodies - 2 Level Trees - 23 Items
+Computer Ports and Connectors - 2 Level Trees - 32 Items
+Computer Types - 2 Level Trees - 33 Items
+Geometric Shapes and Solids - 2 Level Trees - 28 Items
+Mythical Creatures - 2 Level Trees - 28 Items
+Plant Forms - 2 Level Trees - 23 Items
+Tools - 2 Level Trees - 24 Items
+Weather and Natural Phenomena - 2 Level Trees - 25 Items
 
 ### Trees with 3 Levels
 
-- Cables and Signal Types - 3 Levels
-- Computer Ports and Connectors - 3 Levels
-- Computer Types - 3 Levels
-- Geometric Shapes and Solids - 3 Levels
-- Rocks and Minerals - 3 Levels
-- Vehicle Types - 3 Levels
+Electrical Components - 3 Level Trees - 43 Items
+Geometric Shapes and Solids - 3 Level Trees - 50 Items
+Musical Instruments - 3 Level Trees - 42 Items
+Rocks and Minerals - 3 Level Trees - 26 Items
+Vehicle Types - 3 Level Trees - 29 Items
 
 ### Trees with 4 Levels
 
-- Buildings - 4 Levels
-- Chemical Elements - 4 Levels
-- Computer Types - 4 Levels
-- Hi-Fi Devices - 4 Levels
-- Landscape Forms - 4 Levels
-- Machines and Mechanical Components - 4 Levels
-- Tools and Equipment - 4 Levels
+Buildings - 4 Level Trees - 77 Items
+Computer Types - 4 Level Trees - 70 Items
+Hi-Fi Devices - 4 Level Trees - 88 Items
+Landscape Forms - 4 Level Trees - 69 Items
 
 ### Trees with 5 Levels
 
-- Clothing Types - 5 Levels
-- Container and Storage Types - 5 Levels
-- Furniture Types - 5 Levels
-- Materials - 5 Levels
-- Signage, Symbols and Markings - 5 Levels
-- Vehicle Types - 5 Levels
+Chemical Elements - 5 Level Trees - 141 Items
+Clothing Types - 5 Level Trees - 195 Items
+Container and Storage Types - 5 Level Trees - 149 Items
+Furniture Types - 5 Level Trees - 138 Items
+Machines and Mechanical Components - 5 Level Trees - 156 Items
+Materials - 5 Level Trees - 110 Items
+Signage, Symbols and Markings - 5 Level Trees - 131 Items
+Tools and Equipment - 5 Level Trees - 157 Items
+Vehicle Types - 5 Level Trees - 74 Items
 
 ### Trees with 6 Levels
 
-- Materials - 6 Levels
-- Plant Types - 6 Levels
+Materials - 6 Level Trees - 245 Items
+Plant Types - 6 Level Trees - 158 Items
 
 ### Trees with 7 Levels
 
-- Clothing Types - 7 Levels
+Clothing Types - 7 Level Trees - 284 Items
 
 ### Trees with 8 Levels
 
-- Animal Types - 8 Levels
+Animal Types - 8 Level Trees - 214 Items
+
+### Total
+
+Total: 32 Trees with 2916 Items
 
 ## Level Counting Rule
 

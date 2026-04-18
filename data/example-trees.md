@@ -1,8 +1,8 @@
 # Example Trees
 
-## Trees with 2 Levels
+## 2 Level Trees
 
-### Buildings - 2 Levels
+### Buildings - 2 Level Trees - 24 Items
 Buildings
 - Residential Buildings
   - Single-Family House
@@ -29,174 +29,7 @@ Buildings
   - Pavilion
   - Amphitheater
 
-### Celestial Bodies - 2 Levels
-Celestial Bodies
-- Stars
-  - Dwarf Star
-  - Main-Sequence Star
-  - Giant Star
-  - Neutron Star
-- Planetary Bodies
-  - Rocky Planet
-  - Gas Planet
-  - Ice Planet
-  - Dwarf Planet
-- Moons
-  - Rocky Moon
-  - Ice Moon
-- Small Bodies
-  - Asteroid
-  - Comet
-  - Meteoroid
-  - Meteorite
-- Systems and Large Structures
-  - Planetary System
-  - Star Cluster
-  - Nebula
-  - Galaxy
-
-### Geometric Shapes and Solids - 2 Levels
-Geometric Shapes and Solids
-- Two-Dimensional Shapes
-  - Circle
-  - Ellipse
-  - Triangle
-  - Square
-  - Rectangle
-  - Pentagon
-  - Hexagon
-- Lines and Open Forms
-  - Line
-  - Curve
-  - Angle
-- Three-Dimensional Solids
-  - Sphere
-  - Cube
-  - Cuboid
-  - Cylinder
-  - Cone
-  - Pyramid
-  - Torus
-- Composite Forms
-  - Star Shape
-  - Ring Shape
-  - Spiral Shape
-
-### Mythical Creatures - 2 Levels
-Mythical Creatures
-- Nocturnal Beings
-  - Vampire
-  - Werewolf
-  - Ghost
-  - Shadow Creature
-- Dragon-Like Beings
-  - Dragon
-  - Lindworm
-  - Hydra
-- Forest and Nature Beings
-  - Elf
-  - Dryad
-  - Tree Being
-  - Forest Spirit
-- Hybrid Creatures
-  - Centaur
-  - Minotaur
-  - Griffin
-  - Sphinx
-- Small Magical Beings
-  - Fairy
-  - Goblin
-  - Gnome
-  - Pixie
-- Water Beings
-  - Mermaid
-  - Merman
-  - Nixie
-
-### Plant Forms - 2 Levels
-Plant Forms
-- Trees
-  - Deciduous Tree
-  - Conifer
-  - Fruit Tree
-- Shrubs
-  - Flowering Shrub
-  - Berry Shrub
-  - Evergreen Shrub
-- Herbaceous Plants
-  - Wild Herb
-  - Ornamental Plant
-  - Perennial
-- Ground Covers and Low Plants
-  - Moss
-  - Fern
-  - Ground Cover
-- Climbing Plants
-  - Vine
-  - Twining Plant
-- Aquatic and Marsh Plants
-  - Water Lily
-  - Reed
-  - Floating Plant
-
-### Tools - 2 Levels
-Tools
-- Striking Tools
-  - Hammer
-  - Rubber Mallet
-  - Wooden Mallet
-- Gripping and Holding Tools
-  - Pliers
-  - Pipe Wrench
-  - Clamp
-- Screw Tools
-  - Screwdriver
-  - Hex Key
-  - Wrench
-- Cutting Tools
-  - Knife
-  - Scissors
-  - Saw
-- Measuring Tools
-  - Ruler
-  - Caliper
-  - Spirit Level
-- Drilling and Turning Tools
-  - Hand Drill
-  - Power Drill
-  - Brace Drill
-
-### Weather and Natural Phenomena - 2 Levels
-Weather and Natural Phenomena
-- Precipitation
-  - Rain
-  - Drizzle
-  - Snow
-  - Graupel
-  - Hail
-- Wind and Air Movement
-  - Breeze
-  - Gust
-  - Storm
-  - Hurricane
-- Visibility and Atmospheric Phenomena
-  - Fog
-  - Haze
-  - Rainbow
-  - Halo
-- Thunderstorm Phenomena
-  - Lightning
-  - Thunder
-  - Storm Cell
-- Geological Natural Phenomena
-  - Earthquake
-  - Volcanic Eruption
-  - Geyser
-  - Landslide
-## Trees with 3 Levels
-
-### Cables and Signal Types - 3 Levels
-
+### Cables and Signal Types - 2 Level Trees - 30 Items
 Cables and Signal Types
 - Power Cables
   - AC Power Cable
@@ -229,9 +62,33 @@ Cables and Signal Types
   - Adapter Cable
   - Breakout Cable
 
+### Celestial Bodies - 2 Level Trees - 23 Items
+Celestial Bodies
+- Stars
+  - Dwarf Star
+  - Main-Sequence Star
+  - Giant Star
+  - Neutron Star
+- Planetary Bodies
+  - Rocky Planet
+  - Gas Planet
+  - Ice Planet
+  - Dwarf Planet
+- Moons
+  - Rocky Moon
+  - Ice Moon
+- Small Bodies
+  - Asteroid
+  - Comet
+  - Meteoroid
+  - Meteorite
+- Systems and Large Structures
+  - Planetary System
+  - Star Cluster
+  - Nebula
+  - Galaxy
 
-### Computer Ports and Connectors - 3 Levels
-
+### Computer Ports and Connectors - 2 Level Trees - 32 Items
 Computer Ports and Connectors
 - Data Connectors
   - USB Type-A
@@ -266,8 +123,7 @@ Computer Ports and Connectors
   - Parallel Port
   - Game Port
 
-### Computer Types - 3 Levels
-
+### Computer Types - 2 Level Trees - 33 Items
 Computer Types
 - Personal Computers
   - Desktop Computer
@@ -303,8 +159,7 @@ Computer Types
   - Kiosk Computer
   - Point-of-Sale Terminal
 
-### Geometric Shapes and Solids - 3 Levels
-
+### Geometric Shapes and Solids - 2 Level Trees - 28 Items
 Geometric Shapes and Solids
 - Two-Dimensional Shapes
   - Circle
@@ -333,8 +188,267 @@ Geometric Shapes and Solids
   - Ring Shape
   - Cross Shape
   - Wave Form
+  - Spiral Shape
 
-### Rocks and Minerals - 3 Levels
+### Mythical Creatures - 2 Level Trees - 28 Items
+Mythical Creatures
+- Nocturnal Beings
+  - Vampire
+  - Werewolf
+  - Ghost
+  - Shadow Creature
+- Dragon-Like Beings
+  - Dragon
+  - Lindworm
+  - Hydra
+- Forest and Nature Beings
+  - Elf
+  - Dryad
+  - Tree Being
+  - Forest Spirit
+- Hybrid Creatures
+  - Centaur
+  - Minotaur
+  - Griffin
+  - Sphinx
+- Small Magical Beings
+  - Fairy
+  - Goblin
+  - Gnome
+  - Pixie
+- Water Beings
+  - Mermaid
+  - Merman
+  - Nixie
+
+### Plant Forms - 2 Level Trees - 23 Items
+Plant Forms
+- Trees
+  - Deciduous Tree
+  - Conifer
+  - Fruit Tree
+- Shrubs
+  - Flowering Shrub
+  - Berry Shrub
+  - Evergreen Shrub
+- Herbaceous Plants
+  - Wild Herb
+  - Ornamental Plant
+  - Perennial
+- Ground Covers and Low Plants
+  - Moss
+  - Fern
+  - Ground Cover
+- Climbing Plants
+  - Vine
+  - Twining Plant
+- Aquatic and Marsh Plants
+  - Water Lily
+  - Reed
+  - Floating Plant
+
+### Tools - 2 Level Trees - 24 Items
+Tools
+- Striking Tools
+  - Hammer
+  - Rubber Mallet
+  - Wooden Mallet
+- Gripping and Holding Tools
+  - Pliers
+  - Pipe Wrench
+  - Clamp
+- Screw Tools
+  - Screwdriver
+  - Hex Key
+  - Wrench
+- Cutting Tools
+  - Knife
+  - Scissors
+  - Saw
+- Measuring Tools
+  - Ruler
+  - Caliper
+  - Spirit Level
+- Drilling and Turning Tools
+  - Hand Drill
+  - Power Drill
+  - Brace Drill
+
+### Weather and Natural Phenomena - 2 Level Trees - 25 Items
+Weather and Natural Phenomena
+- Precipitation
+  - Rain
+  - Drizzle
+  - Snow
+  - Graupel
+  - Hail
+- Wind and Air Movement
+  - Breeze
+  - Gust
+  - Storm
+  - Hurricane
+- Visibility and Atmospheric Phenomena
+  - Fog
+  - Haze
+  - Rainbow
+  - Halo
+- Thunderstorm Phenomena
+  - Lightning
+  - Thunder
+  - Storm Cell
+- Geological Natural Phenomena
+  - Earthquake
+  - Volcanic Eruption
+  - Geyser
+  - Landslide
+
+## 3 Level Trees
+
+### Electrical Components - 3 Level Trees - 43 Items
+Electrical Components
+- Passive Components
+  - Resistors
+    - Fixed Resistor
+    - Variable Resistor
+    - Thermistor
+    - Photoresistor
+  - Capacitors
+    - Ceramic Capacitor
+    - Electrolytic Capacitor
+    - Film Capacitor
+    - Tantalum Capacitor
+  - Inductive Components
+    - Inductor
+    - Choke Coil
+    - Transformer
+- Active Components
+  - Diodes
+    - Rectifier Diode
+    - Zener Diode
+    - Light-Emitting Diode
+    - Schottky Diode
+  - Transistors
+    - Bipolar Transistor
+    - MOSFET
+    - IGBT
+  - Integrated Circuits
+    - Microcontroller
+    - Operational Amplifier
+    - Voltage Regulator
+    - Memory Chip
+- Electromechanical Components
+  - Switching Components
+    - Push Button Switch
+    - Toggle Switch
+    - Relay
+  - Connection Components
+    - Terminal Block
+    - Plug Connector
+    - Socket Connector
+  - Protection Components
+    - Fuse
+    - Circuit Breaker
+    - Surge Protector
+
+### Geometric Shapes and Solids - 3 Level Trees - 50 Items
+Geometric Shapes and Solids
+- Plane Geometry
+  - Basic Polygons
+    - Triangle
+    - Square
+    - Rectangle
+    - Pentagon
+  - Curved Plane Shapes
+    - Circle
+    - Ellipse
+    - Oval
+  - Star and Radial Shapes
+    - Star Polygon
+    - Rosette Shape
+- Linear and Open Forms
+  - Fundamental Line Forms
+    - Line
+    - Ray
+    - Line Segment
+  - Angular Forms
+    - Acute Angle
+    - Right Angle
+    - Obtuse Angle
+  - Curved Open Forms
+    - Arc
+    - Spiral
+    - Wave Curve
+- Solid Geometry
+  - Round Solids
+    - Sphere
+    - Cylinder
+    - Cone
+  - Polyhedra
+    - Cube
+    - Tetrahedron
+    - Octahedron
+    - Dodecahedron
+  - Prism and Pyramid Forms
+    - Triangular Prism
+    - Hexagonal Prism
+    - Square Pyramid
+- Composite and Derived Forms
+  - Ring and Hollow Forms
+    - Torus
+    - Annulus
+  - Symmetry-Based Forms
+    - Cross Shape
+    - Chevron Shape
+  - Tessellation Units
+    - Rhombus Tile
+    - Hexagon Tile
+
+### Musical Instruments - 3 Level Trees - 42 Items
+Musical Instruments
+- String Instruments
+  - Bowed Strings
+    - Violin
+    - Viola
+    - Cello
+    - Double Bass
+  - Plucked Strings
+    - Acoustic Guitar
+    - Electric Guitar
+    - Harp
+    - Mandolin
+  - Keyboard Strings
+    - Harpsichord
+    - Clavichord
+- Wind Instruments
+  - Woodwinds
+    - Flute
+    - Clarinet
+    - Oboe
+    - Bassoon
+  - Brass Instruments
+    - Trumpet
+    - Trombone
+    - French Horn
+    - Tuba
+  - Free-Reed Winds
+    - Harmonica
+    - Accordion
+- Percussion Instruments
+  - Tuned Percussion
+    - Xylophone
+    - Vibraphone
+    - Glockenspiel
+  - Untuned Percussion
+    - Snare Drum
+    - Bass Drum
+    - Cymbal
+    - Tambourine
+  - Hand Percussion
+    - Bongos
+    - Congas
+    - Maracas
+
+### Rocks and Minerals - 3 Level Trees - 26 Items
 Rocks and Minerals
 - Rocks
   - Igneous Rocks
@@ -363,7 +477,7 @@ Rocks and Minerals
   - Sulfates
     - Gypsum
 
-### Vehicle Types - 3 Levels
+### Vehicle Types - 3 Level Trees - 29 Items
 Vehicle Types
 - Road Vehicles
   - Passenger Cars
@@ -395,9 +509,9 @@ Vehicle Types
     - Passenger Train
     - Freight Train
 
-## Trees with 4 Levels
+## 4 Level Trees
 
-### Buildings - 4 Levels
+### Buildings - 4 Level Trees - 77 Items
 Buildings
 - Residential Buildings
   - Single-Unit Housing
@@ -477,7 +591,245 @@ Buildings
       - Hill Fort
       - Watch Fort
 
-### Chemical Elements - 4 Levels
+### Computer Types - 4 Level Trees - 70 Items
+Computer Types
+- Personal Computers
+  - Stationary Personal Computers
+    - Standard Desktop Systems
+      - Desktop Computer
+      - Tower PC
+      - Small Form Factor PC
+    - Integrated Desktop Systems
+      - All-in-One Computer
+      - Mini Desktop Computer
+  - Portable Personal Computers
+    - Folding Portable Systems
+      - Notebook
+      - Laptop
+      - Ultrabook
+    - Detachable and Convertible Systems
+      - Convertible Laptop
+      - Detachable Computer
+      - Two-in-One Device
+  - Handheld Personal Devices
+    - Touch-Based Mobile Systems
+      - Tablet
+      - Compact Tablet
+      - Large Tablet
+    - Phone-Based Smart Devices
+      - Smartphone
+      - Rugged Smartphone
+      - Foldable Smartphone
+- Professional and Workstation Computers
+  - Technical Workstations
+    - Engineering and Design Systems
+      - CAD Workstation
+      - Graphics Workstation
+      - Scientific Workstation
+  - Business Workstations
+    - Secure Productivity Systems
+      - Office Workstation
+      - Financial Workstation
+      - Multi-Monitor Workstation
+- Shared and Multi-User Computers
+  - Centralized Business Systems
+    - Enterprise Computing Systems
+      - Server
+      - Rack Server
+      - Blade Server
+    - High-Reliability Systems
+      - Mainframe
+      - Fault-Tolerant System
+  - Large-Scale Computing Systems
+    - Performance Clusters
+      - Compute Node
+      - Cluster Server
+    - Supercomputing Systems
+      - Supercomputer
+      - Parallel Processing System
+- Embedded and Specialized Computers
+  - Control and Industrial Systems
+    - Industrial Computing Units
+      - Industrial PC
+      - Panel PC
+      - Embedded Controller
+  - Single-Board and Compact Systems
+    - Small Development Systems
+      - Single-Board Computer
+      - Compact Embedded Computer
+      - Edge Device
+  - Dedicated Device Computers
+    - Application-Specific Units
+      - Kiosk Computer
+      - Point-of-Sale Terminal
+      - Automotive Computer
+
+### Hi-Fi Devices - 4 Level Trees - 88 Items
+Hi-Fi Devices
+- Source Devices
+  - Analog Source Devices
+    - Disc Playback Devices
+      - Turntable
+      - Automatic Turntable
+      - Manual Turntable
+    - Tape Playback Devices
+      - Cassette Deck
+      - Reel-to-Reel Recorder
+      - Portable Cassette Player
+  - Digital Source Devices
+    - Optical Disc Players
+      - CD Player
+      - Portable CD Player
+      - DVD Audio Player
+    - File and Signal Players
+      - Digital Audio Player
+      - Network Audio Player
+      - Media Streamer
+  - Radio Reception Devices
+    - Broadcast Tuners
+      - AM Tuner
+      - FM Tuner
+      - Digital Radio Tuner
+    - Integrated Radio Units
+      - Table Radio
+      - Portable Radio
+      - Hi-Fi Tuner Unit
+- Amplification Devices
+  - Pre-Amplification Units
+    - Signal Control Units
+      - Preamplifier
+      - Phono Preamplifier
+      - Tone Control Unit
+  - Power Amplification Units
+    - Stereo Power Units
+      - Stereo Power Amplifier
+      - Dual Mono Amplifier
+    - High-Power Units
+      - Monoblock Amplifier
+      - Multi-Channel Power Amplifier
+  - Integrated Amplification Units
+    - Combined Amplifier Systems
+      - Integrated Amplifier
+      - Stereo Receiver
+      - AV Receiver
+- Speaker Systems
+  - Passive Speaker Systems
+    - Home Listening Speakers
+      - Bookshelf Speaker
+      - Floorstanding Speaker
+      - Center Speaker
+    - Special Purpose Speakers
+      - Surround Speaker
+      - Outdoor Speaker
+  - Active Speaker Systems
+    - Powered Stereo Speakers
+      - Desktop Active Speaker
+      - Studio Active Speaker
+    - Enhanced Low-End Systems
+      - Subwoofer
+      - Active Subwoofer
+- Recording and Processing Devices
+  - Analog Recording Devices
+    - Tape Recording Units
+      - Cassette Recorder
+      - Reel-to-Reel Recorder
+  - Digital Recording Devices
+    - Disc and File Recorders
+      - MiniDisc Recorder
+      - Digital Audio Recorder
+      - Hard Disk Recorder
+  - Signal Processing Units
+    - Sound Adjustment Units
+      - Equalizer
+      - Graphic Equalizer
+      - Digital Signal Processor
+- Portable Audio Devices
+  - Personal Listening Devices
+    - Portable Playback Units
+      - Portable Cassette Player
+      - Portable CD Player
+      - Portable Digital Audio Player
+  - Portable Radio and Combo Units
+    - Compact Portable Units
+      - Boombox
+      - Clock Radio
+      - Portable Stereo Unit
+
+### Landscape Forms - 4 Level Trees - 69 Items
+Landscape Forms
+- Elevated Landforms
+  - Mountain Landforms
+    - High Mountain Types
+      - Alpine Mountain
+      - Glaciated Peak
+      - Rocky Summit
+    - Volcanic Mountain Types
+      - Stratovolcano
+      - Shield Volcano
+      - Volcanic Cone
+  - Hill Landforms
+    - Rounded Hill Types
+      - Rolling Hill
+      - Dome Hill
+    - Steep Hill Types
+      - Ridge Hill
+      - Knoll
+- Flat and Gently Sloping Landforms
+  - Plains
+    - Broad Plain Types
+      - Grass Plain
+      - Alluvial Plain
+      - Coastal Plain
+    - Elevated Plain Types
+      - Plateau Plain
+      - Steppe Plain
+  - Plateaus and Tablelands
+    - Flat Elevated Landforms
+      - Plateau
+      - Mesa
+      - Tableland
+    - Eroded Elevated Landforms
+      - Butte
+      - Escarpment
+- Depressed and Enclosed Landforms
+  - Valley Landforms
+    - River Valley Types
+      - Narrow River Valley
+      - Broad River Valley
+      - Floodplain Valley
+    - Glacial Valley Types
+      - U-Shaped Valley
+      - Hanging Valley
+  - Basin and Depression Landforms
+    - Closed Basin Types
+      - Desert Basin
+      - Inland Basin
+    - Surface Depression Types
+      - Sinkhole Basin
+      - Tectonic Depression
+- Water-Influenced Landforms
+  - Coastal Landforms
+    - Shoreline Forms
+      - Beach
+      - Sand Spit
+      - Coastal Dune
+    - Rocky Coastal Forms
+      - Sea Cliff
+      - Headland
+      - Sea Stack
+  - River and Lake Landforms
+    - River Edge Forms
+      - Riverbank
+      - Delta
+      - Meander Bend
+    - Lake Edge Forms
+      - Lakeshore
+      - Marsh Edge
+      - Lagoon Margin
+
+## 5 Level Trees
+
+### Chemical Elements - 5 Level Trees - 141 Items
 Chemical Elements
 - Metals
   - Alkali Metals
@@ -621,564 +973,7 @@ Chemical Elements
         - Nobelium
         - Lawrencium
 
-### Computer Types - 4 Levels
-Computer Types
-- Personal Computers
-  - Stationary Personal Computers
-    - Standard Desktop Systems
-      - Desktop Computer
-      - Tower PC
-      - Small Form Factor PC
-    - Integrated Desktop Systems
-      - All-in-One Computer
-      - Mini Desktop Computer
-  - Portable Personal Computers
-    - Folding Portable Systems
-      - Notebook
-      - Laptop
-      - Ultrabook
-    - Detachable and Convertible Systems
-      - Convertible Laptop
-      - Detachable Computer
-      - Two-in-One Device
-  - Handheld Personal Devices
-    - Touch-Based Mobile Systems
-      - Tablet
-      - Compact Tablet
-      - Large Tablet
-    - Phone-Based Smart Devices
-      - Smartphone
-      - Rugged Smartphone
-      - Foldable Smartphone
-- Professional and Workstation Computers
-  - Technical Workstations
-    - Engineering and Design Systems
-      - CAD Workstation
-      - Graphics Workstation
-      - Scientific Workstation
-  - Business Workstations
-    - Secure Productivity Systems
-      - Office Workstation
-      - Financial Workstation
-      - Multi-Monitor Workstation
-- Shared and Multi-User Computers
-  - Centralized Business Systems
-    - Enterprise Computing Systems
-      - Server
-      - Rack Server
-      - Blade Server
-    - High-Reliability Systems
-      - Mainframe
-      - Fault-Tolerant System
-  - Large-Scale Computing Systems
-    - Performance Clusters
-      - Compute Node
-      - Cluster Server
-    - Supercomputing Systems
-      - Supercomputer
-      - Parallel Processing System
-- Embedded and Specialized Computers
-  - Control and Industrial Systems
-    - Industrial Computing Units
-      - Industrial PC
-      - Panel PC
-      - Embedded Controller
-  - Single-Board and Compact Systems
-    - Small Development Systems
-      - Single-Board Computer
-      - Compact Embedded Computer
-      - Edge Device
-  - Dedicated Device Computers
-    - Application-Specific Units
-      - Kiosk Computer
-      - Point-of-Sale Terminal
-      - Automotive Computer
-
-### Hi-Fi Devices - 4 Levels
-Hi-Fi Devices
-- Source Devices
-  - Analog Source Devices
-    - Disc Playback Devices
-      - Turntable
-      - Automatic Turntable
-      - Manual Turntable
-    - Tape Playback Devices
-      - Cassette Deck
-      - Reel-to-Reel Recorder
-      - Portable Cassette Player
-  - Digital Source Devices
-    - Optical Disc Players
-      - CD Player
-      - Portable CD Player
-      - DVD Audio Player
-    - File and Signal Players
-      - Digital Audio Player
-      - Network Audio Player
-      - Media Streamer
-  - Radio Reception Devices
-    - Broadcast Tuners
-      - AM Tuner
-      - FM Tuner
-      - Digital Radio Tuner
-    - Integrated Radio Units
-      - Table Radio
-      - Portable Radio
-      - Hi-Fi Tuner Unit
-- Amplification Devices
-  - Pre-Amplification Units
-    - Signal Control Units
-      - Preamplifier
-      - Phono Preamplifier
-      - Tone Control Unit
-  - Power Amplification Units
-    - Stereo Power Units
-      - Stereo Power Amplifier
-      - Dual Mono Amplifier
-    - High-Power Units
-      - Monoblock Amplifier
-      - Multi-Channel Power Amplifier
-  - Integrated Amplification Units
-    - Combined Amplifier Systems
-      - Integrated Amplifier
-      - Stereo Receiver
-      - AV Receiver
-- Speaker Systems
-  - Passive Speaker Systems
-    - Home Listening Speakers
-      - Bookshelf Speaker
-      - Floorstanding Speaker
-      - Center Speaker
-    - Special Purpose Speakers
-      - Surround Speaker
-      - Outdoor Speaker
-  - Active Speaker Systems
-    - Powered Stereo Speakers
-      - Desktop Active Speaker
-      - Studio Active Speaker
-    - Enhanced Low-End Systems
-      - Subwoofer
-      - Active Subwoofer
-- Recording and Processing Devices
-  - Analog Recording Devices
-    - Tape Recording Units
-      - Cassette Recorder
-      - Reel-to-Reel Recorder
-  - Digital Recording Devices
-    - Disc and File Recorders
-      - MiniDisc Recorder
-      - Digital Audio Recorder
-      - Hard Disk Recorder
-  - Signal Processing Units
-    - Sound Adjustment Units
-      - Equalizer
-      - Graphic Equalizer
-      - Digital Signal Processor
-- Portable Audio Devices
-  - Personal Listening Devices
-    - Portable Playback Units
-      - Portable Cassette Player
-      - Portable CD Player
-      - Portable Digital Audio Player
-  - Portable Radio and Combo Units
-    - Compact Portable Units
-      - Boombox
-      - Clock Radio
-      - Portable Stereo Unit
-
-### Landscape Forms - 4 Levels
-Landscape Forms
-- Elevated Landforms
-  - Mountain Landforms
-    - High Mountain Types
-      - Alpine Mountain
-      - Glaciated Peak
-      - Rocky Summit
-    - Volcanic Mountain Types
-      - Stratovolcano
-      - Shield Volcano
-      - Volcanic Cone
-  - Hill Landforms
-    - Rounded Hill Types
-      - Rolling Hill
-      - Dome Hill
-    - Steep Hill Types
-      - Ridge Hill
-      - Knoll
-- Flat and Gently Sloping Landforms
-  - Plains
-    - Broad Plain Types
-      - Grass Plain
-      - Alluvial Plain
-      - Coastal Plain
-    - Elevated Plain Types
-      - Plateau Plain
-      - Steppe Plain
-  - Plateaus and Tablelands
-    - Flat Elevated Landforms
-      - Plateau
-      - Mesa
-      - Tableland
-    - Eroded Elevated Landforms
-      - Butte
-      - Escarpment
-- Depressed and Enclosed Landforms
-  - Valley Landforms
-    - River Valley Types
-      - Narrow River Valley
-      - Broad River Valley
-      - Floodplain Valley
-    - Glacial Valley Types
-      - U-Shaped Valley
-      - Hanging Valley
-  - Basin and Depression Landforms
-    - Closed Basin Types
-      - Desert Basin
-      - Inland Basin
-    - Surface Depression Types
-      - Sinkhole Basin
-      - Tectonic Depression
-- Water-Influenced Landforms
-  - Coastal Landforms
-    - Shoreline Forms
-      - Beach
-      - Sand Spit
-      - Coastal Dune
-    - Rocky Coastal Forms
-      - Sea Cliff
-      - Headland
-      - Sea Stack
-  - River and Lake Landforms
-    - River Edge Forms
-      - Riverbank
-      - Delta
-      - Meander Bend
-    - Lake Edge Forms
-      - Lakeshore
-      - Marsh Edge
-      - Lagoon Margin
-
-### Machines and Mechanical Components - 4 Levels
-Machines and Mechanical Components
-- Power Transmission Components
-  - Rotating Transmission Components
-    - Shaft Components
-      - Plain Shaft Elements
-        - Drive Shaft
-        - Line Shaft
-      - Mounted Shaft Elements
-        - Spindle
-        - Axle
-    - Coupling Components
-      - Flexible Couplings
-        - Jaw Coupling
-        - Oldham Coupling
-      - Rigid Couplings
-        - Sleeve Coupling
-        - Flange Coupling
-  - Speed and Torque Conversion Components
-    - Gear Components
-      - Spur Gear Systems
-        - Spur Gear
-        - Gear Pair
-      - Angular Gear Systems
-        - Bevel Gear
-        - Worm Gear
-      - Planetary Gear Systems
-        - Sun Gear Set
-        - Planetary Gear Unit
-    - Belt and Chain Drives
-      - Belt Drive Components
-        - Pulley
-        - V-Belt
-        - Timing Belt
-      - Chain Drive Components
-        - Roller Chain
-        - Sprocket
-- Motion Control Components
-  - Linear Motion Components
-    - Guiding Components
-      - Sliding Guides
-        - Slide Rail
-        - Dovetail Guide
-      - Rolling Guides
-        - Linear Bearing
-        - Ball Guide Rail
-    - Actuation Components
-      - Screw-Based Actuators
-        - Lead Screw
-        - Ball Screw
-      - Fluid Actuators
-        - Hydraulic Cylinder
-        - Pneumatic Cylinder
-  - Rotary Motion Components
-    - Support Components
-      - Bearing Units
-        - Ball Bearing
-        - Roller Bearing
-      - Mounted Bearing Units
-        - Pillow Block Bearing
-        - Flange Bearing
-    - Positioning Components
-      - Indexing Components
-        - Indexing Table
-        - Rotary Stage
-- Fluid and Pressure Components
-  - Pumping Components
-    - Positive Displacement Pumps
-      - Reciprocating Pumps
-        - Piston Pump
-        - Diaphragm Pump
-      - Rotary Pumps
-        - Gear Pump
-        - Vane Pump
-    - Dynamic Pumps
-      - Centrifugal Pumps
-        - Single-Stage Centrifugal Pump
-        - Multi-Stage Centrifugal Pump
-  - Valve and Control Components
-    - Shut-Off Valves
-      - Manual Shut-Off Valves
-        - Ball Valve
-        - Gate Valve
-      - Regulating Valves
-        - Needle Valve
-        - Globe Valve
-    - Directional and Pressure Controls
-      - Pressure Control Devices
-        - Pressure Regulator
-        - Relief Valve
-      - Flow Direction Devices
-        - Check Valve
-        - Directional Control Valve
-- Structural and Support Components
-  - Fastening Components
-    - Threaded Fasteners
-      - External Thread Fasteners
-        - Bolt
-        - Stud
-      - Internal Thread Fasteners
-        - Nut
-        - Threaded Insert
-    - Non-Threaded Fasteners
-      - Permanent Fasteners
-        - Rivet
-        - Dowel Pin
-      - Retaining Fasteners
-        - Circlip
-        - Cotter Pin
-  - Frame and Mounting Components
-    - Machine Frames
-      - Rigid Support Frames
-        - Base Frame
-        - Welded Frame
-      - Modular Support Frames
-        - Profile Frame
-        - Machine Stand
-    - Mounting Elements
-      - Vibration Control Elements
-        - Rubber Mount
-        - Spring Isolator
-      - Alignment Elements
-        - Shim
-        - Spacer
-- Complete Machine Types
-  - Material Removal Machines
-    - Cutting Machines
-      - Turning Machines
-        - Lathe
-        - CNC Lathe
-      - Milling Machines
-        - Vertical Mill
-        - CNC Milling Machine
-      - Grinding Machines
-        - Surface Grinder
-        - Cylindrical Grinder
-    - Drilling and Boring Machines
-      - Holemaking Machines
-        - Drill Press
-        - Radial Drill
-      - Precision Enlargement Machines
-        - Boring Machine
-        - Jig Borer
-  - Material Forming and Handling Machines
-    - Forming Machines
-      - Press Systems
-        - Hydraulic Press
-        - Mechanical Press
-      - Rolling and Bending Systems
-        - Plate Roller
-        - Tube Bender
-    - Handling Machines
-      - Lifting Systems
-        - Hoist
-        - Winch
-      - Conveying Systems
-        - Belt Conveyor
-        - Roller Conveyor
-
-### Tools and Equipment - 4 Levels
-Tools and Equipment
-- Hand Tools
-  - Cutting Hand Tools
-    - Saws
-      - Wood Saws
-        - Hand Saw
-        - Back Saw
-        - Coping Saw
-      - Metal Saws
-        - Hacksaw
-        - Junior Hacksaw
-    - Edge Cutting Tools
-      - Knife Tools
-        - Utility Knife
-        - Craft Knife
-      - Shearing Tools
-        - Scissors
-        - Tin Snips
-  - Striking Hand Tools
-    - Hammers
-      - General Hammers
-        - Claw Hammer
-        - Ball Peen Hammer
-      - Soft-Face Hammers
-        - Rubber Mallet
-        - Wooden Mallet
-    - Chiseling Tools
-      - Chisel Sets
-        - Wood Chisel
-        - Cold Chisel
-  - Gripping and Turning Hand Tools
-    - Pliers
-      - General Pliers
-        - Combination Pliers
-        - Long-Nose Pliers
-      - Cutting Pliers
-        - Diagonal Cutter
-        - End Cutter
-    - Wrenches and Keys
-      - Fixed-Size Wrenches
-        - Open-End Wrench
-        - Ring Wrench
-      - Adjustable Tools
-        - Adjustable Wrench
-        - Pipe Wrench
-      - Hex Tools
-        - Hex Key
-        - T-Handle Hex Key
-- Measuring and Marking Equipment
-  - Linear Measuring Tools
-    - Short Measuring Tools
-      - Bench Measuring Tools
-        - Ruler
-        - Caliper
-      - Flexible Measuring Tools
-        - Tape Measure
-        - Sewing Tape
-    - Alignment Measuring Tools
-      - Leveling Tools
-        - Spirit Level
-        - Line Level
-      - Precision Checking Tools
-        - Feeler Gauge
-        - Square
-  - Marking Tools
-    - Surface Marking Tools
-      - General Markers
-        - Carpenter Pencil
-        - Chalk Marker
-      - Precision Markers
-        - Scriber
-        - Center Punch
-- Power Tools
-  - Drilling and Driving Tools
-    - Electric Drills
-      - General Drills
-        - Corded Drill
-        - Cordless Drill
-      - Impact Tools
-        - Impact Driver
-        - Hammer Drill
-    - Fastening Tools
-      - Screwdriving Systems
-        - Power Screwdriver
-        - Drywall Screw Gun
-  - Cutting Power Tools
-    - Circular Cutting Tools
-      - Wood Cutting Saws
-        - Circular Saw
-        - Plunge Saw
-      - Metal and Masonry Cutting Tools
-        - Cut-Off Saw
-        - Angle Grinder
-    - Reciprocating and Oscillating Tools
-      - Demolition Cutting Tools
-        - Reciprocating Saw
-        - Oscillating Multi-Tool
-  - Surface Finishing Tools
-    - Sanding Tools
-      - Handheld Sanders
-        - Orbital Sander
-        - Belt Sander
-      - Polishing Tools
-        - Rotary Polisher
-        - Dual Action Polisher
-- Workshop Equipment
-  - Holding and Support Equipment
-    - Clamping Equipment
-      - Bench Clamps
-        - C-Clamp
-        - F-Clamp
-      - Workpiece Holding Tools
-        - Vise
-        - Bench Vise
-    - Support Equipment
-      - Work Surfaces
-        - Workbench
-        - Folding Workbench
-      - Material Supports
-        - Sawhorse
-        - Roller Stand
-  - Air and Fluid Equipment
-    - Compressed Air Equipment
-      - Air Supply Units
-        - Air Compressor
-        - Portable Compressor
-      - Pneumatic Tools
-        - Air Ratchet
-        - Pneumatic Nailer
-    - Liquid Handling Equipment
-      - Dispensing Tools
-        - Grease Gun
-        - Hand Pump
-- Safety and Protective Equipment
-  - Personal Protective Equipment
-    - Eye and Face Protection
-      - Impact Protection
-        - Safety Glasses
-        - Face Shield
-    - Hand Protection
-      - Work Gloves
-        - Cut-Resistant Gloves
-        - Heat-Resistant Gloves
-    - Breathing and Hearing Protection
-      - Respiratory Protection
-        - Dust Mask
-        - Half-Face Respirator
-      - Hearing Protection
-        - Ear Plugs
-        - Ear Muffs
-  - Site Safety Equipment
-    - Visibility and Warning Equipment
-      - Wearable Visibility Items
-        - Reflective Vest
-        - High-Visibility Jacket
-      - Area Warning Devices
-        - Warning Cone
-        - Barrier Tape
-
-## Trees with 5 Levels
-
-### Clothing Types - 5 Levels
+### Clothing Types - 5 Level Trees - 195 Items
 Clothing Types
 - Upper Body Clothing
   - Shirts and Tops
@@ -1376,7 +1171,7 @@ Clothing Types
         - Reflective Vest
         - High-Visibility Jacket
 
-### Container and Storage Types - 5 Levels
+### Container and Storage Types - 5 Level Trees - 149 Items
 Container and Storage Types
 - Portable Containers
   - Personal Carry Containers
@@ -1528,7 +1323,7 @@ Container and Storage Types
         - Acid-Free Archive Case
         - Preservation Box
 
-### Furniture Types - 5 Levels
+### Furniture Types - 5 Level Trees - 138 Items
 Furniture Types
 - Seating Furniture
   - Single-Seat Furniture
@@ -1669,7 +1464,166 @@ Furniture Types
         - Patio Table
         - Picnic Table
 
-### Materials - 5 Levels
+### Machines and Mechanical Components - 5 Level Trees - 156 Items
+Machines and Mechanical Components
+- Power Transmission Components
+  - Rotating Transmission Components
+    - Shaft Components
+      - Plain Shaft Elements
+        - Drive Shaft
+        - Line Shaft
+      - Mounted Shaft Elements
+        - Spindle
+        - Axle
+    - Coupling Components
+      - Flexible Couplings
+        - Jaw Coupling
+        - Oldham Coupling
+      - Rigid Couplings
+        - Sleeve Coupling
+        - Flange Coupling
+  - Speed and Torque Conversion Components
+    - Gear Components
+      - Spur Gear Systems
+        - Spur Gear
+        - Gear Pair
+      - Angular Gear Systems
+        - Bevel Gear
+        - Worm Gear
+      - Planetary Gear Systems
+        - Sun Gear Set
+        - Planetary Gear Unit
+    - Belt and Chain Drives
+      - Belt Drive Components
+        - Pulley
+        - V-Belt
+        - Timing Belt
+      - Chain Drive Components
+        - Roller Chain
+        - Sprocket
+- Motion Control Components
+  - Linear Motion Components
+    - Guiding Components
+      - Sliding Guides
+        - Slide Rail
+        - Dovetail Guide
+      - Rolling Guides
+        - Linear Bearing
+        - Ball Guide Rail
+    - Actuation Components
+      - Screw-Based Actuators
+        - Lead Screw
+        - Ball Screw
+      - Fluid Actuators
+        - Hydraulic Cylinder
+        - Pneumatic Cylinder
+  - Rotary Motion Components
+    - Support Components
+      - Bearing Units
+        - Ball Bearing
+        - Roller Bearing
+      - Mounted Bearing Units
+        - Pillow Block Bearing
+        - Flange Bearing
+    - Positioning Components
+      - Indexing Components
+        - Indexing Table
+        - Rotary Stage
+- Fluid and Pressure Components
+  - Pumping Components
+    - Positive Displacement Pumps
+      - Reciprocating Pumps
+        - Piston Pump
+        - Diaphragm Pump
+      - Rotary Pumps
+        - Gear Pump
+        - Vane Pump
+    - Dynamic Pumps
+      - Centrifugal Pumps
+        - Single-Stage Centrifugal Pump
+        - Multi-Stage Centrifugal Pump
+  - Valve and Control Components
+    - Shut-Off Valves
+      - Manual Shut-Off Valves
+        - Ball Valve
+        - Gate Valve
+      - Regulating Valves
+        - Needle Valve
+        - Globe Valve
+    - Directional and Pressure Controls
+      - Pressure Control Devices
+        - Pressure Regulator
+        - Relief Valve
+      - Flow Direction Devices
+        - Check Valve
+        - Directional Control Valve
+- Structural and Support Components
+  - Fastening Components
+    - Threaded Fasteners
+      - External Thread Fasteners
+        - Bolt
+        - Stud
+      - Internal Thread Fasteners
+        - Nut
+        - Threaded Insert
+    - Non-Threaded Fasteners
+      - Permanent Fasteners
+        - Rivet
+        - Dowel Pin
+      - Retaining Fasteners
+        - Circlip
+        - Cotter Pin
+  - Frame and Mounting Components
+    - Machine Frames
+      - Rigid Support Frames
+        - Base Frame
+        - Welded Frame
+      - Modular Support Frames
+        - Profile Frame
+        - Machine Stand
+    - Mounting Elements
+      - Vibration Control Elements
+        - Rubber Mount
+        - Spring Isolator
+      - Alignment Elements
+        - Shim
+        - Spacer
+- Complete Machine Types
+  - Material Removal Machines
+    - Cutting Machines
+      - Turning Machines
+        - Lathe
+        - CNC Lathe
+      - Milling Machines
+        - Vertical Mill
+        - CNC Milling Machine
+      - Grinding Machines
+        - Surface Grinder
+        - Cylindrical Grinder
+    - Drilling and Boring Machines
+      - Holemaking Machines
+        - Drill Press
+        - Radial Drill
+      - Precision Enlargement Machines
+        - Boring Machine
+        - Jig Borer
+  - Material Forming and Handling Machines
+    - Forming Machines
+      - Press Systems
+        - Hydraulic Press
+        - Mechanical Press
+      - Rolling and Bending Systems
+        - Plate Roller
+        - Tube Bender
+    - Handling Machines
+      - Lifting Systems
+        - Hoist
+        - Winch
+      - Conveying Systems
+        - Belt Conveyor
+        - Roller Conveyor
+
+### Materials - 5 Level Trees - 110 Items
 Materials
 - Metals
   - Ferrous Metals
@@ -1782,7 +1736,7 @@ Materials
         - Wool
         - Silk
 
-### Signage, Symbols and Markings - 5 Levels
+### Signage, Symbols and Markings - 5 Level Trees - 131 Items
 Signage, Symbols and Markings
 - Information Signage
   - Directional Signage
@@ -1916,7 +1870,167 @@ Signage, Symbols and Markings
         - Grid Marking
         - Checker Pattern Marking
 
-### Vehicle Types - 5 Levels
+### Tools and Equipment - 5 Level Trees - 157 Items
+Tools and Equipment
+- Hand Tools
+  - Cutting Hand Tools
+    - Saws
+      - Wood Saws
+        - Hand Saw
+        - Back Saw
+        - Coping Saw
+      - Metal Saws
+        - Hacksaw
+        - Junior Hacksaw
+    - Edge Cutting Tools
+      - Knife Tools
+        - Utility Knife
+        - Craft Knife
+      - Shearing Tools
+        - Scissors
+        - Tin Snips
+  - Striking Hand Tools
+    - Hammers
+      - General Hammers
+        - Claw Hammer
+        - Ball Peen Hammer
+      - Soft-Face Hammers
+        - Rubber Mallet
+        - Wooden Mallet
+    - Chiseling Tools
+      - Chisel Sets
+        - Wood Chisel
+        - Cold Chisel
+  - Gripping and Turning Hand Tools
+    - Pliers
+      - General Pliers
+        - Combination Pliers
+        - Long-Nose Pliers
+      - Cutting Pliers
+        - Diagonal Cutter
+        - End Cutter
+    - Wrenches and Keys
+      - Fixed-Size Wrenches
+        - Open-End Wrench
+        - Ring Wrench
+      - Adjustable Tools
+        - Adjustable Wrench
+        - Pipe Wrench
+      - Hex Tools
+        - Hex Key
+        - T-Handle Hex Key
+- Measuring and Marking Equipment
+  - Linear Measuring Tools
+    - Short Measuring Tools
+      - Bench Measuring Tools
+        - Ruler
+        - Caliper
+      - Flexible Measuring Tools
+        - Tape Measure
+        - Sewing Tape
+    - Alignment Measuring Tools
+      - Leveling Tools
+        - Spirit Level
+        - Line Level
+      - Precision Checking Tools
+        - Feeler Gauge
+        - Square
+  - Marking Tools
+    - Surface Marking Tools
+      - General Markers
+        - Carpenter Pencil
+        - Chalk Marker
+      - Precision Markers
+        - Scriber
+        - Center Punch
+- Power Tools
+  - Drilling and Driving Tools
+    - Electric Drills
+      - General Drills
+        - Corded Drill
+        - Cordless Drill
+      - Impact Tools
+        - Impact Driver
+        - Hammer Drill
+    - Fastening Tools
+      - Screwdriving Systems
+        - Power Screwdriver
+        - Drywall Screw Gun
+  - Cutting Power Tools
+    - Circular Cutting Tools
+      - Wood Cutting Saws
+        - Circular Saw
+        - Plunge Saw
+      - Metal and Masonry Cutting Tools
+        - Cut-Off Saw
+        - Angle Grinder
+    - Reciprocating and Oscillating Tools
+      - Demolition Cutting Tools
+        - Reciprocating Saw
+        - Oscillating Multi-Tool
+  - Surface Finishing Tools
+    - Sanding Tools
+      - Handheld Sanders
+        - Orbital Sander
+        - Belt Sander
+      - Polishing Tools
+        - Rotary Polisher
+        - Dual Action Polisher
+- Workshop Equipment
+  - Holding and Support Equipment
+    - Clamping Equipment
+      - Bench Clamps
+        - C-Clamp
+        - F-Clamp
+      - Workpiece Holding Tools
+        - Vise
+        - Bench Vise
+    - Support Equipment
+      - Work Surfaces
+        - Workbench
+        - Folding Workbench
+      - Material Supports
+        - Sawhorse
+        - Roller Stand
+  - Air and Fluid Equipment
+    - Compressed Air Equipment
+      - Air Supply Units
+        - Air Compressor
+        - Portable Compressor
+      - Pneumatic Tools
+        - Air Ratchet
+        - Pneumatic Nailer
+    - Liquid Handling Equipment
+      - Dispensing Tools
+        - Grease Gun
+        - Hand Pump
+- Safety and Protective Equipment
+  - Personal Protective Equipment
+    - Eye and Face Protection
+      - Impact Protection
+        - Safety Glasses
+        - Face Shield
+    - Hand Protection
+      - Work Gloves
+        - Cut-Resistant Gloves
+        - Heat-Resistant Gloves
+    - Breathing and Hearing Protection
+      - Respiratory Protection
+        - Dust Mask
+        - Half-Face Respirator
+      - Hearing Protection
+        - Ear Plugs
+        - Ear Muffs
+  - Site Safety Equipment
+    - Visibility and Warning Equipment
+      - Wearable Visibility Items
+        - Reflective Vest
+        - High-Visibility Jacket
+      - Area Warning Devices
+        - Warning Cone
+        - Barrier Tape
+
+### Vehicle Types - 5 Level Trees - 74 Items
 Vehicle Types
 - Road Vehicles
   - Passenger Vehicles
@@ -1993,10 +2107,9 @@ Vehicle Types
         - Freight Train
         - Container Freight Train
 
-## Trees with 6 Levels
+## 6 Level Trees
 
-### Materials - 6 Levels
-
+### Materials - 6 Level Trees - 245 Items
 Materials
 - Metals
   - Ferrous Metals
@@ -2051,7 +2164,6 @@ Materials
         - Tin-Based Copper Alloys
           - Bronze
           - Phosphor Bronze
-
 - Polymers
   - Thermoplastics
     - Commodity Thermoplastics
@@ -2108,7 +2220,6 @@ Materials
         - Silicone Types
           - Silicone Rubber
           - High-Temperature Silicone
-
 - Ceramics and Glass
   - Ceramics
     - Traditional Ceramics
@@ -2169,7 +2280,6 @@ Materials
         - Decorative Formed Glass
           - Art Glass
           - Frosted Decorative Glass
-
 - Natural Materials
   - Wood
     - Solid Wood
@@ -2247,8 +2357,7 @@ Materials
           - Alpaca Fiber
           - Camel Hair
 
-### Plant Types - 6 Levels
-
+### Plant Types - 6 Level Trees - 158 Items
 Plant Types
 - Flowering Plants
   - Trees
@@ -2322,7 +2431,6 @@ Plant Types
         - Seasonal Vining Types
           - Morning Glory
           - Sweet Pea
-
 - Non-Flowering Plants
   - Conifers and Related Plants
     - Tall Conifers
@@ -2364,7 +2472,6 @@ Plant Types
         - Moist Surface Types
           - Rock Moss
           - Wall Moss
-
 - Aquatic and Wetland Plants
   - Floating Plants
     - Free-Floating Plants
@@ -2390,7 +2497,6 @@ Plant Types
         - Upright Edge Species
           - Cattail
           - Sweet Flag
-
 - Vining and Climbing Plants
   - Twining Climbers
     - Ornamental Twining Plants
@@ -2412,10 +2518,9 @@ Plant Types
         - Ivy
         - Virginia Creeper
 
-## Trees with 7 Levels
+## 7 Level Trees
 
-### Clothing Types - 7 Levels
-
+### Clothing Types - 7 Level Trees - 284 Items
 Clothing Types
 - Upper Body Clothing
   - Shirts and Tops
@@ -2518,7 +2623,6 @@ Clothing Types
           - Full-Length Coat Shapes
             - Long Wool Coat
             - Double-Breasted Coat
-
 - Lower Body Clothing
   - Trousers and Pants
     - Casual Pants
@@ -2589,7 +2693,6 @@ Clothing Types
           - Extended Hem Styles
             - Maxi Skirt
             - Pleated Maxi Skirt
-
 - Full-Body Clothing
   - Dresses
     - Casual Dresses
@@ -2638,7 +2741,6 @@ Clothing Types
           - Denim Casual Pieces
             - Denim Overall
             - Short Overall
-
 - Specialized Clothing
   - Sleepwear
     - Sleep Sets
@@ -2705,13 +2807,9 @@ Clothing Types
             - Reflective Vest
             - High-Visibility Jacket
 
+## 8 Level Trees
 
-## Trees with 8 Levels
-
-
-
-### Animal Types - 8 Levels
-
+### Animal Types - 8 Level Trees - 214 Items
 Animal Types
 - Vertebrates
   - Mammals
@@ -2927,3 +3025,4 @@ Animal Types
             - Small Aquatic Types
               - Smooth Newt
               - Great Crested Newt
+
